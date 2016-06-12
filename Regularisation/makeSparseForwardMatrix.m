@@ -1,4 +1,4 @@
-% Image size N x N - N must be even
+% Image size N x N. N must be even
 % PSF std. dev. is sigma, in units of pixels
 % PSF assumed Gaussian
 
