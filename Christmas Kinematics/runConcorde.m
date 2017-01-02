@@ -31,6 +31,6 @@ fclose(fid);
 
 inds(1) = [];
 inds = inds + 1;
-inds = [inds(1); inds];
+inds = [inds; inds(1)];
 
 end
