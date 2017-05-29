@@ -74,7 +74,9 @@ end
 %%
 
 hdata.fun = @(x,y) 0.05*(1 + ((x.^2 + y.^2)/a^2)).^2;
-[p,t] = mesh2d(allnodes, alledges);
+[p,t, tria, tnum] = refine2(allnodes, alledges);
+% vert, conn
+% [p,t, tria, tnum] = smooth2(p,t,tria, tnum);
 
 %%
 as = 0.5;
@@ -96,11 +98,10 @@ ynew = a*sin(alpha).*sin(phi);
 znew = -a*cos(alpha);
 
 p2 = [xnew, ynew, znew];
-stlwrite('Test.stl', t, p2)
+stlwrite('Test.stl', tria, p2)
 
-fv.faces = t;
+fv.faces = tria;
 fv.vertices = p2;
-clf
 figure(3)
 patch(fv, 'FaceColor', [1 1 1], 'EdgeColor', 'black', 'LineWidth', 0.1)
 axis equal
@@ -110,7 +111,7 @@ ylim([-a a])
 zlim([-a a])
 camlight head
 view(58,28)
-zoom(1.5)
+zoom(1)
 drawnow
 %print(gcf, [num2str(n) '.png'], '-dpng', '-r250')
 end
