@@ -2,7 +2,7 @@
 
 Notebook to accompany blog post:
 
-https://jasmcole.com/XXX
+https://jasmcole.com/2018/01/16/cooking-the-books/
 
 Unfortunately the raw data used in this blog post is unavailable, as it was transcribed from a book.
 
