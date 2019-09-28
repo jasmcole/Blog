@@ -1,9 +1,9 @@
 import * as React from "react";
 import Canvas from "./canvas";
-import WebGLCanvas, { CircleCallback } from "./webgl-canvas";
+import WebGLCanvas, { SetPrimitives } from "./webgl-canvas";
 
 interface AppState {
-  callback: null | CircleCallback;
+  callback: null | SetPrimitives;
 }
 
 class App extends React.Component<{}, AppState> {
@@ -18,7 +18,7 @@ class App extends React.Component<{}, AppState> {
         <Canvas width={512} height={512} callback={callback} />
         <WebGLCanvas
           name="Something"
-          reportUpdate={(callback: CircleCallback) =>
+          reportUpdate={(callback: SetPrimitives) =>
             this.setState({ callback })
           }
         />

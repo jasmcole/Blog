@@ -1,6 +1,7 @@
+import { Primitive, isSphere } from "./primitives";
+
 export default class WebGLRenderer {
   private vertex = `
-
   attribute vec3 position;
  
   void main() {
@@ -21,13 +22,19 @@ float unionSDF(float distA, float distB) {
   return min(distA, distB);
 }
 
-float circle(vec2 pos, vec2 centre, float radius) {
+float sphere(vec3 pos, vec3 centre, float radius) {
   return length(pos - centre) - radius;
 }
 
-float sdf(vec2 pos) {
+float smin( float a, float b, float k )
+{
+    float h = clamp( 0.5+0.5*(b-a)/k, 0.0, 1.0 );
+    return mix( b, a, h ) - k*h*(1.0-h);
+}
 
-  float numCircles = textureSize.x * textureSize.y;
+float sdf(vec3 pos) {
+
+  float numPrim = 200.0; //textureSize.x * textureSize.y;
 
   float globalMin = 1000.0;
 
@@ -35,19 +42,17 @@ float sdf(vec2 pos) {
   float y = 0.0;
 
   for (float i = 0.0; i < 10000.0; i++) {
-    if (i >= numCircles) {
-      return globalMin;
+    if (i >= numPrim) {
+      break;
     }
 
     float u = x / textureSize.x;
     float v = y / textureSize.y;
 
     vec4 texSample = texture2D(textureSampler, vec2(u, v));
-    float radius = texSample.z;// * (1.5 + sin(5.0 * (5.0 * i / numCircles + time)));
-    float thisMin = circle(pos, texSample.xy, radius);
-    if (thisMin < globalMin) {
-      globalMin = thisMin;
-    }
+    float radius = texSample.w * 5.;
+    float thisMin = sphere(pos, 10. * (texSample.xyz - .5), radius);
+    globalMin = smin(globalMin, thisMin, 0.5);
 
     x += 1.0;
 
@@ -61,14 +66,72 @@ float sdf(vec2 pos) {
   return globalMin;
 }
 
+vec3 rayMarch(vec3 start, vec3 direction) {
+  float eps = 1e-6;
+  vec3 pos = start;
+  float dist = sdf(pos);
+
+  float maxDist = 20.0; // Quit after we are more than this distance away
+
+  for (int i = 0; i < 50; i++) {
+    pos += dist * direction;
+    dist = sdf(pos);
+    if(dist < eps || dist > maxDist) {
+      break;
+    }
+  }
+  return pos;
+}
+
+vec3 normal(vec3 pos, float dist) {
+  float eps = 1e-4;
+  float dSDFdx = (sdf(vec3(pos.x + eps, pos.y, pos.z)) - dist);
+  float dSDFdy = (sdf(vec3(pos.x, pos.y + eps, pos.z)) - dist);
+  float dSDFdz = (sdf(vec3(pos.x, pos.y, pos.z + eps)) - dist);
+  return normalize(vec3(dSDFdx, dSDFdy, dSDFdz));
+}
+
+mat3 rotationX(float angle) {
+  float s = sin(angle);
+  float c = cos(angle);
+  return mat3(
+    1.0, 0.0, 0.0,
+    0.0,   c,  -s,
+    0.0,   s,   c
+  );
+}
+
+mat3 rotationY(float angle) {
+  float s = sin(angle);
+  float c = cos(angle);
+  return mat3(
+      c, 0.0,   s,
+    0.0, 1.0, 0.0,
+     -s, 0.0,   c
+  );
+}
+
 void main() {
 
-  // From 0 -> +1
-  vec2 position = gl_FragCoord.xy / resolution.xy;
+  // From -1 -> +1
+  vec2 pos = 2. * (gl_FragCoord.xy / resolution.xy - 0.5);
 
-  float dist = sdf(position);
-  float red = dist < 0.0 ? 1.0 : 0.0;
+  float l = 10.0;
+  vec3 initialPos = vec3(0.0, 0.0, l);
+  float aspect = resolution.x / resolution.y; // Large === landscape
+  float fovX = 0.5; // Approx 26 degrees, like 50mm lens
+  float fovY = fovX / aspect;
+  float angleX = pos.x * fovX;
+  float angleY = pos.y * fovY;
+  vec3 dir = normalize(vec3(tan(angleX), tan(angleY), -1.0));
 
+  mat3 rotX = rotationX(time);
+  mat3 rotY = rotationY(time);
+  vec3 marched = rayMarch(rotY * initialPos, rotY * dir);
+
+  float dist = sdf(marched);
+  vec3 n = normal(marched, dist);
+  float red = dist < 1e-4 ? 0.4 + 0.3 * dot(n, rotY * vec3(1.0, 1.0, 1.0)) : 1.0;
   gl_FragColor = vec4(red, red, red, 1.0);
 
 }
@@ -90,20 +153,14 @@ void main() {
     screenHeight: 512
   };
 
-  public begin(
-    canvas: HTMLCanvasElement,
-    circles: Array<{ x: number; y: number; r: number }>
-  ) {
-    const { buffer } = this.init(canvas, circles);
+  public begin(canvas: HTMLCanvasElement, primitives: Primitive[]) {
+    const { buffer } = this.init(canvas, primitives);
     if (this.gl && buffer) {
       this.animate(buffer);
     }
   }
 
-  private init(
-    canvas: HTMLCanvasElement,
-    circles: Array<{ x: number; y: number; r: number }>
-  ) {
+  private init(canvas: HTMLCanvasElement, primtives: Primitive[]) {
     this.gl = canvas.getContext("webgl");
     if (!this.gl) {
       throw Error("Cannot create WebGL context");
@@ -136,7 +193,7 @@ void main() {
     }
 
     const { circleData, textureWidth, textureHeight } = this.makeCircleData(
-      circles
+      primtives
     );
     this.updateTexture(textureWidth, textureHeight, circleData);
 
@@ -183,26 +240,29 @@ void main() {
     return { buffer };
   }
 
-  private makeCircleData(circles: Array<{ x: number; y: number; r: number }>) {
+  private makeCircleData(primitives: Primitive[]) {
     // Draw the first 128 * 128 elements ( = 16,384)
     const textureWidth = 128;
     const textureHeight = 128;
     const circleData = new Uint8Array(4 * (textureWidth * textureHeight));
 
+    const circles = primitives.filter(isSphere);
+
     for (let i = 0; i < textureWidth * textureHeight * 4; i += 4) {
       if (i / 4 >= circles.length) {
         break;
       }
-      circleData[i + 0] = circles[i / 4].x * 255;
-      circleData[i + 1] = circles[i / 4].y * 255;
-      circleData[i + 2] = circles[i / 4].r * 255;
-      circleData[i + 3] = 0;
+      circleData[i + 0] = 0.5 * (circles[i / 4].x + 1) * 255;
+      circleData[i + 1] = 0.5 * (circles[i / 4].y + 1) * 255;
+      circleData[i + 2] = 0.5 * (circles[i / 4].z + 1) * 255;
+      circleData[i + 3] = circles[i / 4].r * 255;
     }
     this.textureSize = [textureWidth, textureHeight];
     return { circleData, textureWidth, textureHeight };
   }
 
-  public updateCircles(circles: Array<{ x: number; y: number; r: number }>) {
+  public updateCircles(primitives: Primitive[]) {
+    const circles = primitives.filter(isSphere);
     const { circleData, textureWidth, textureHeight } = this.makeCircleData(
       circles
     );

@@ -84,7 +84,7 @@ const qtree = (imageData: ImageData): Rect[] => {
     const rect = rects.pop()!;
     const { width, height } = size(rect);
 
-    if (width < 2 || height < 2) {
+    if (width < 16 || height < 16) {
       continue;
     }
     const quads = makeQuads(rect);

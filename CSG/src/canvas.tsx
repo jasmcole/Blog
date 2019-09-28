@@ -1,7 +1,7 @@
 import * as React from "react";
 import styled from "styled-components";
 import qtree, { Rect } from "./qtree";
-import { CircleCallback } from "./webgl-canvas";
+import { SetPrimitives } from "./webgl-canvas";
 
 const Canvas = styled.canvas`
   border: 1px solid red;
@@ -10,7 +10,7 @@ const Canvas = styled.canvas`
 interface CanvasProps {
   width: number;
   height: number;
-  callback: CircleCallback | null;
+  callback: SetPrimitives | null;
 }
 
 interface CanvasState {
@@ -152,10 +152,14 @@ class DrawableCanvas extends React.Component<CanvasProps, CanvasState> {
     if (this.props.callback && this.rects) {
       this.props.callback(
         this.rects.map(rect => ({
-          x: (0.5 * (rect.left + rect.right)) / this.props.width,
-          y: 1 - (0.5 * (rect.top + rect.bottom)) / this.props.height,
+          type: "sphere",
+          x: 2 * ((0.5 * (rect.left + rect.right)) / this.props.width - 0.5),
+          y:
+            2 *
+            (1 - (0.5 * (rect.top + rect.bottom)) / this.props.height - 0.5),
+          z: 0,
           r:
-            (0.2 * (rect.right - rect.left + rect.bottom - rect.top)) /
+            (0.5 * (rect.right - rect.left + rect.bottom - rect.top)) /
             this.props.width
         }))
       );
