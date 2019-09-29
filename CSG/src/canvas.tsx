@@ -44,14 +44,17 @@ class DrawableCanvas extends React.Component<CanvasProps, CanvasState> {
   public render() {
     const { width, height } = this.props;
     return (
-      <Canvas
-        ref={this.canvasRef}
-        width={width}
-        height={height}
-        onMouseDown={e => this.handleMouseDown(e)}
-        onMouseUp={e => this.handleMouseUp()}
-        onMouseMove={e => this.handleMouseMove(e)}
-      />
+      <>
+        <div>{this.rects ? this.rects.length : 0}</div>
+        <Canvas
+          ref={this.canvasRef}
+          width={width}
+          height={height}
+          onMouseDown={e => this.handleMouseDown(e)}
+          onMouseUp={e => this.handleMouseUp()}
+          onMouseMove={e => this.handleMouseMove(e)}
+        />
+      </>
     );
   }
 
@@ -173,7 +176,7 @@ class DrawableCanvas extends React.Component<CanvasProps, CanvasState> {
     const [x, y] = this.getImageCoords(e);
     this.paint(x, y);
     this.paintQTreeEdges();
-    this.updateWebGL();
+    // this.updateWebGL();
   }
 
   private getImageCoords(e: React.MouseEvent<HTMLCanvasElement>) {

@@ -14,6 +14,9 @@ export default class WebGLRenderer {
   private fragment = `
 precision highp float;
 uniform float time;
+uniform float numPrim;
+uniform float rotX;
+uniform float rotY;
 uniform vec2 resolution;
 uniform vec2 textureSize;
 uniform sampler2D textureSampler;
@@ -34,17 +37,16 @@ float smin( float a, float b, float k )
 
 float sdf(vec3 pos) {
 
-  float numPrim = 200.0; //textureSize.x * textureSize.y;
-
   float globalMin = 1000.0;
 
-  float x = 0.0;
-  float y = 0.0;
+  for (float i = 0.0; i < 1000.0; i++) {
 
-  for (float i = 0.0; i < 10000.0; i++) {
-    if (i >= numPrim) {
+    if (i == numPrim) {
       break;
     }
+
+    float x = mod(i, textureSize.x);
+    float y = floor(i / textureSize.x);
 
     float u = x / textureSize.x;
     float v = y / textureSize.y;
@@ -54,33 +56,31 @@ float sdf(vec3 pos) {
     float thisMin = sphere(pos, 10. * (texSample.xyz - .5), radius);
     globalMin = smin(globalMin, thisMin, 0.5);
 
-    x += 1.0;
-
-    if (x >= textureSize.x) {
-      x = 0.0;
-      y += 1.0;
-    }
-
   }
 
   return globalMin;
 }
 
-vec3 rayMarch(vec3 start, vec3 direction) {
-  float eps = 1e-6;
+vec4 rayMarch(vec3 start, vec3 direction) {
+  float eps = 1e-5;
   vec3 pos = start;
   float dist = sdf(pos);
+  float steps = 0.0;
 
-  float maxDist = 20.0; // Quit after we are more than this distance away
+  float maxDist = 11.0; // Quit after we are more than this distance away
 
-  for (int i = 0; i < 50; i++) {
-    pos += dist * direction;
+  for (int i = 0; i < 40; i++) {
+
+    float overshoot = dist < 0.1 ? 2.0 : 1.0;
+
+    pos += overshoot * dist * direction;
     dist = sdf(pos);
+    steps += 1.0;
     if(dist < eps || dist > maxDist) {
       break;
     }
   }
-  return pos;
+  return vec4(pos, steps);
 }
 
 vec3 normal(vec3 pos, float dist) {
@@ -125,14 +125,19 @@ void main() {
   float angleY = pos.y * fovY;
   vec3 dir = normalize(vec3(tan(angleX), tan(angleY), -1.0));
 
-  mat3 rotX = rotationX(time);
-  mat3 rotY = rotationY(time);
-  vec3 marched = rayMarch(rotY * initialPos, rotY * dir);
+  mat3 rotXm = rotationX(rotX);
+  mat3 rotYm = rotationY(rotY);
+  mat3 rot = rotXm * rotYm;
 
+  vec4 marchResult = rayMarch(rot * initialPos, rot * dir);
+  vec3 marched = marchResult.xyz;
+  float nSteps = marchResult.w;
   float dist = sdf(marched);
   vec3 n = normal(marched, dist);
-  float red = dist < 1e-4 ? 0.4 + 0.3 * dot(n, rotY * vec3(1.0, 1.0, 1.0)) : 1.0;
-  gl_FragColor = vec4(red, red, red, 1.0);
+  float red = dist < 1e-4 ? 0.4 + 0.3 * dot(n, rot * vec3(1.0, 1.0, 1.0)) : 1.0;
+  float green = 1.2 - nSteps / 50.0;
+  float blue = green;
+  gl_FragColor = vec4(clamp(red, 0.0, 1.0), clamp(green, 0.0, 1.0), clamp(blue, 0.0, 1.0), 1.0);
 
 }
 `;
@@ -144,19 +149,30 @@ void main() {
   private resolutionLocation: WebGLUniformLocation | null;
   private textureSizeLocation: WebGLUniformLocation | null;
   private textureSamplerLocation: WebGLUniformLocation | null;
+  private numPrimLocation: WebGLUniformLocation | null;
+  private rotXLocation: WebGLUniformLocation | null;
+  private rotYLocation: WebGLUniformLocation | null;
   private texture: WebGLTexture | null = null;
+  private buffer: WebGLBuffer | null;
   private textureSize: [number, number] | null = null;
+  private numPrim: number = 0;
+  private rotX: number = 0;
+  private rotY: number = 0;
   private parameters = {
     start_time: new Date().getTime(),
     time: 0,
     screenWidth: 512,
     screenHeight: 512
   };
+  private frameTimes: number[] = [];
+  private lastFrameTime: number = performance.now();
+
+  public constructor(private reportFPS: (fps: number) => void) {}
 
   public begin(canvas: HTMLCanvasElement, primitives: Primitive[]) {
-    const { buffer } = this.init(canvas, primitives);
-    if (this.gl && buffer) {
-      this.animate(buffer);
+    this.init(canvas, primitives);
+    if (this.gl && this.buffer) {
+      this.animate();
     }
   }
 
@@ -166,8 +182,8 @@ void main() {
       throw Error("Cannot create WebGL context");
     }
 
-    const buffer = this.gl.createBuffer();
-    this.gl.bindBuffer(this.gl.ARRAY_BUFFER, buffer);
+    this.buffer = this.gl.createBuffer();
+    this.gl.bindBuffer(this.gl.ARRAY_BUFFER, this.buffer);
     this.gl.bufferData(
       this.gl.ARRAY_BUFFER,
       new Float32Array([
@@ -237,7 +253,12 @@ void main() {
       this.currentProgram,
       "textureSampler"
     );
-    return { buffer };
+    this.numPrimLocation = this.gl.getUniformLocation(
+      this.currentProgram,
+      "numPrim"
+    );
+    this.rotXLocation = this.gl.getUniformLocation(this.currentProgram, "rotX");
+    this.rotYLocation = this.gl.getUniformLocation(this.currentProgram, "rotY");
   }
 
   private makeCircleData(primitives: Primitive[]) {
@@ -258,6 +279,7 @@ void main() {
       circleData[i + 3] = circles[i / 4].r * 255;
     }
     this.textureSize = [textureWidth, textureHeight];
+    this.numPrim = circles.length;
     return { circleData, textureWidth, textureHeight };
   }
 
@@ -267,6 +289,19 @@ void main() {
       circles
     );
     this.updateTexture(textureWidth, textureHeight, circleData);
+    this.animate();
+  }
+
+  public updateRotation(angles: { x: number; y: number }) {
+    this.rotX += angles.x;
+    if (this.rotX > (0.8 * Math.PI) / 2) {
+      this.rotX = (0.8 * Math.PI) / 2;
+    }
+    if (this.rotX < (-0.8 * Math.PI) / 2) {
+      this.rotX = (-0.8 * Math.PI) / 2;
+    }
+    this.rotY += angles.y;
+    this.animate();
   }
 
   private updateTexture(width: number, height: number, data: Uint8Array) {
@@ -355,13 +390,31 @@ void main() {
     this.gl.viewport(0, 0, width, height);
   }
 
-  private animate(buffer: WebGLBuffer) {
-    this.resizeCanvas(512, 512);
-    this.render(buffer);
-    requestAnimationFrame(() => this.animate(buffer));
+  private calcFPS() {
+    const newFrameTime = performance.now();
+    const oldFrameTime = this.lastFrameTime;
+    this.frameTimes.push(newFrameTime - oldFrameTime);
+    if (this.frameTimes.length > 20) {
+      this.frameTimes.shift();
+    }
+    this.lastFrameTime = newFrameTime;
+    const fps =
+      1000 /
+      this.frameTimes.reduce(
+        (acc, curr) => (acc += curr / this.frameTimes.length),
+        0
+      );
+    this.reportFPS(fps);
   }
 
-  private render(buffer: WebGLBuffer) {
+  private animate() {
+    this.calcFPS();
+    this.resizeCanvas(512, 512);
+    this.render();
+    // requestAnimationFrame(() => this.animate(buffer));
+  }
+
+  private render() {
     if (!this.currentProgram || !this.gl || !this.textureSize) return;
 
     this.parameters.time = new Date().getTime() - this.parameters.start_time;
@@ -373,6 +426,10 @@ void main() {
     this.gl.useProgram(this.currentProgram);
 
     this.gl.uniform1f(this.timeLocation, this.parameters.time / 1000);
+    this.gl.uniform1f(this.numPrimLocation, this.numPrim);
+    this.gl.uniform1f(this.rotXLocation, this.rotX);
+    this.gl.uniform1f(this.rotYLocation, this.rotY);
+
     this.gl.uniform2f(
       this.resolutionLocation,
       this.parameters.screenWidth,
@@ -395,7 +452,7 @@ void main() {
 
     // Render geometry
 
-    this.gl.bindBuffer(this.gl.ARRAY_BUFFER, buffer);
+    this.gl.bindBuffer(this.gl.ARRAY_BUFFER, this.buffer);
     this.gl.vertexAttribPointer(
       this.vertex_position,
       2,
