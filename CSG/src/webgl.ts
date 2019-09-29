@@ -105,6 +105,18 @@ export default class WebGLRenderer {
       value: 2,
       location: null,
       type: "sampler2D"
+    },
+    {
+      name: "intersect",
+      value: 0,
+      location: null,
+      type: "float"
+    },
+    {
+      name: "numSteps",
+      value: 1,
+      location: null,
+      type: "float"
     }
   ];
 
@@ -172,6 +184,14 @@ export default class WebGLRenderer {
     return { texture, numPrim };
   }
 
+  public assignUniformValueAndUpdate<T extends Uniform["type"]>(
+    name: string,
+    type: T,
+    value: UValues<T>
+  ) {
+    this.assignUniformValue(name, type, value);
+    this.animate();
+  }
   private assignUniformValue<T extends Uniform["type"]>(
     name: string,
     type: T,

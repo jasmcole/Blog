@@ -21,7 +21,8 @@
     "webpack-dev-server": "^3.8.1"
   },
   "scripts": {
-    "start": "webpack-dev-server --content-base ./public"
+    "start": "webpack-dev-server --content-base ./public",
+    "build": "webpack"
   },
   "author": "Jason Cole",
   "license": "ISC"

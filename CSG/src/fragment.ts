@@ -8,18 +8,10 @@ ${uniforms.reduce(
   ""
 )}
 
-float unionSDF(float distA, float distB) {
-  return min(distA, distB);
-}
-
-float sphere(vec3 pos, vec3 centre, float radius) {
-  return length(pos - centre) - radius;
-}
-
 float box(vec3 pos, vec3 centre, vec3 radius) {
   vec3 d = abs(pos - centre) - radius;
-  return length(max(d,0.0)) - 0.1 // Rounding
-         + min(max(d.x,max(d.y,d.z)),0.0); // remove this line for an only partially signed sdf 
+  return length(max(d,0.0)) - 0.1; // Rounding
+        //  + min(max(d.x,max(d.y,d.z)),0.0); // remove this line for an only partially signed sdf 
 }
 
 float softMin( float a, float b, float k ) {
@@ -111,10 +103,11 @@ float sdf(vec3 pos) {
 
   }
 
-  // float globalMax = max(max(xyMin, yzMin), xzMin);
-  float globalMax = min(min(xyMin, yzMin), xzMin);
+  if (intersect > 0.5) {
+    return max(max(xyMin, yzMin), xzMin);
+  }
 
-  return globalMax;
+  return min(min(xyMin, yzMin), xzMin);
 }
 
 vec4 rayMarch(vec3 start, vec3 direction) {
@@ -190,8 +183,8 @@ void main() {
   float dist = sdf(marched);
   vec3 n = normal(marched, dist);
   float red = dist < 1e-4 ? 0.4 + 0.3 * dot(n, rot * vec3(1.0, 1.0, 1.0)) : 1.0;
-  float green = 1.2 - nSteps / 50.0;
-  gl_FragColor = vec4(red, green, green, 1.0);
+  float green = numSteps > 0.5 ? 1.2 - nSteps / 50.0 : 1.0;
+  gl_FragColor = vec4(red, green, red, 1.0);
 
 }
 `;

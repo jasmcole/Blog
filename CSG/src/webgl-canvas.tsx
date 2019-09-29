@@ -2,9 +2,8 @@ import * as React from "react";
 import styled from "styled-components";
 import WebGLRenderer from "./webgl";
 import { Sphere, Primitive, Box } from "./primitives";
-import { Callbacks3D } from "./app";
-
-const Canvas = styled.canvas``;
+import { Callbacks3D, Body } from "./app";
+import { Column, Canvas, Button, Title, Row } from "./canvas";
 
 interface WebGLCanvasProps {
   name: string;
@@ -14,12 +13,16 @@ interface WebGLCanvasProps {
 interface WebGLCanvasState {
   fps: number;
   rotating: boolean;
+  intersect: boolean;
+  numSteps: boolean;
 }
 
 class WebGLCanvas extends React.Component<WebGLCanvasProps, WebGLCanvasState> {
   public readonly state: WebGLCanvasState = {
     fps: 0,
-    rotating: false
+    rotating: false,
+    intersect: false,
+    numSteps: true
   };
 
   private canvasRef: React.RefObject<HTMLCanvasElement> = React.createRef();
@@ -30,9 +33,9 @@ class WebGLCanvas extends React.Component<WebGLCanvasProps, WebGLCanvasState> {
     if (this.canvasRef.current) {
       this.webGLRenderer = new WebGLRenderer(fps => this.setState({ fps }));
       this.webGLRenderer.begin(this.canvasRef.current, {
-        XY: boxes(),
-        YZ: boxes(),
-        XZ: boxes()
+        XY: [],
+        YZ: [],
+        XZ: []
       });
       const XY = ((primitives: Primitive[]) => {
         if (this.webGLRenderer) {
@@ -58,7 +61,7 @@ class WebGLCanvas extends React.Component<WebGLCanvasProps, WebGLCanvasState> {
       return;
     }
     requestAnimationFrame(() => {
-      this.webGLRenderer!.updateRotation({ x: 0.02, y: 0.04 });
+      this.webGLRenderer!.updateRotation({ x: 0.015, y: 0.03 });
       this.rotate();
     });
   }
@@ -66,29 +69,79 @@ class WebGLCanvas extends React.Component<WebGLCanvasProps, WebGLCanvasState> {
   public render() {
     const { fps } = this.state;
     return (
-      <>
-        <div style={{ userSelect: "none" }}>{Math.round(fps)}</div>
-        <button
-          onClick={() => {
-            this.setState({ rotating: !this.state.rotating });
-            requestAnimationFrame(() => this.rotate());
-          }}
-        >
-          Toggle rotation
-        </button>
-        <button onClick={() => this.webGLRenderer!.setRotation({ x: 0, y: 0 })}>
-          Reset rotation
-        </button>
-        <Canvas
-          ref={this.canvasRef}
-          width={512}
-          height={512}
-          onMouseDown={e => this.handleMouseDown(e)}
-          onMouseUp={e => this.handleMouseUp()}
-          onMouseMove={e => this.handleMouseMove(e)}
-          onWheel={e => this.handleWheel(e)}
-        />
-      </>
+      <Column>
+        <Title>WebGL</Title>
+        <Title>{`${Math.round(fps)} fps`}</Title>
+        <Body>
+          <p>Click and drag to rotate the view. Scroll to zoom in and out.</p>
+          <p>
+            Click the 'Toggle rotation' button to start and stop automatic
+            rotation.
+          </p>
+          <p>
+            The three cross-sections above area extruded across the rendering
+            volume - by default the full extrusion is show. Show just the
+            intersection of the volumes with the 'Toggle intersection' button.
+          </p>
+          <p>
+            The intensity of the pink colour indicates how many raymarching
+            steps are used per pixel. Disable this diagnostic using the 'Toggle
+            steps rendering' button
+          </p>
+        </Body>
+        <Row>
+          <Column>
+            <Button
+              onClick={() => {
+                this.setState({ rotating: !this.state.rotating });
+                requestAnimationFrame(() => this.rotate());
+              }}
+            >
+              Toggle rotation
+            </Button>
+            <Button
+              onClick={() => this.webGLRenderer!.setRotation({ x: 0, y: 0 })}
+            >
+              Reset rotation
+            </Button>
+            <Button
+              onClick={() => {
+                this.setState({ intersect: !this.state.intersect });
+                this.webGLRenderer!.assignUniformValueAndUpdate(
+                  "intersect",
+                  "float",
+                  this.state.intersect ? 1 : 0
+                );
+              }}
+            >
+              Toggle intersection
+            </Button>
+            <Button
+              onClick={() => {
+                this.setState({ numSteps: !this.state.numSteps });
+                this.webGLRenderer!.assignUniformValueAndUpdate(
+                  "numSteps",
+                  "float",
+                  this.state.numSteps ? 1 : 0
+                );
+              }}
+            >
+              Toggle steps rendering
+            </Button>
+          </Column>
+          <Column>
+            <Canvas
+              ref={this.canvasRef}
+              width={512}
+              height={512}
+              onMouseDown={e => this.handleMouseDown(e)}
+              onMouseUp={e => this.handleMouseUp()}
+              onMouseMove={e => this.handleMouseMove(e)}
+              onWheel={e => this.handleWheel(e)}
+            />
+          </Column>
+        </Row>
+      </Column>
     );
   }
 
@@ -126,13 +179,13 @@ class WebGLCanvas extends React.Component<WebGLCanvasProps, WebGLCanvasState> {
 
 export default WebGLCanvas;
 
-const boxes = (): Box[] => {
-  const N = 500;
-  return new Array(N).fill(0).map((_, i) => {
-    const x = i / N - 0.5;
-    const y = i / N - 0.5;
-    const w = 0.1;
-    const h = 0.1;
-    return { x, y, w, h, type: "box" };
-  });
-};
+// const boxes = (): Box[] => {
+//   const N = 500;
+//   return new Array(N).fill(0).map((_, i) => {
+//     const x = i / N - 0.5;
+//     const y = i / N - 0.5;
+//     const w = 0.1;
+//     const h = 0.1;
+//     return { x, y, w, h, type: "box" };
+//   });
+// };

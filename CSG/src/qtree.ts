@@ -72,7 +72,7 @@ const merge_v = (quads: Rect[]): Rect => {
   return { left, right, top, bottom };
 };
 
-const qtree = (imageData: ImageData): Rect[] => {
+const qtree = (imageData: ImageData, minSize: number): Rect[] => {
   const { width, height } = imageData;
   const rects: Array<Rect> = [
     { left: 0, right: width - 1, top: 0, bottom: height - 1 }
@@ -84,7 +84,7 @@ const qtree = (imageData: ImageData): Rect[] => {
     const rect = rects.pop()!;
     const { width, height } = size(rect);
 
-    if (width < 16 || height < 16) {
+    if (width < minSize || height < minSize) {
       continue;
     }
     const quads = makeQuads(rect);
