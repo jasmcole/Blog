@@ -1,24 +1,25 @@
 import * as React from "react";
 import styled from "styled-components";
 import WebGLRenderer from "./webgl";
-import { Sphere, Primitive } from "./primitives";
+import { Sphere, Primitive, Box } from "./primitives";
+import { Callbacks3D } from "./app";
 
 const Canvas = styled.canvas``;
 
-export type SetPrimitives = (primitives: Primitive[]) => void;
-
 interface WebGLCanvasProps {
   name: string;
-  reportUpdate: (callback: SetPrimitives) => void;
+  reportCallbacks: (callbacks: Callbacks3D) => void;
 }
 
 interface WebGLCanvasState {
   fps: number;
+  rotating: boolean;
 }
 
 class WebGLCanvas extends React.Component<WebGLCanvasProps, WebGLCanvasState> {
   public readonly state: WebGLCanvasState = {
-    fps: 0
+    fps: 0,
+    rotating: false
   };
 
   private canvasRef: React.RefObject<HTMLCanvasElement> = React.createRef();
@@ -28,14 +29,38 @@ class WebGLCanvas extends React.Component<WebGLCanvasProps, WebGLCanvasState> {
   public componentDidMount() {
     if (this.canvasRef.current) {
       this.webGLRenderer = new WebGLRenderer(fps => this.setState({ fps }));
-      this.webGLRenderer.begin(this.canvasRef.current, spheres());
-      const callback = (primitives: Primitive[]) => {
+      this.webGLRenderer.begin(this.canvasRef.current, {
+        XY: boxes(),
+        YZ: boxes(),
+        XZ: boxes()
+      });
+      const XY = ((primitives: Primitive[]) => {
         if (this.webGLRenderer) {
-          this.webGLRenderer.updateCircles(primitives);
+          this.webGLRenderer.updateBoxesXY(primitives);
         }
-      };
-      this.props.reportUpdate(callback.bind(this));
+      }).bind(this);
+      const YZ = ((primitives: Primitive[]) => {
+        if (this.webGLRenderer) {
+          this.webGLRenderer.updateBoxesYZ(primitives);
+        }
+      }).bind(this);
+      const XZ = ((primitives: Primitive[]) => {
+        if (this.webGLRenderer) {
+          this.webGLRenderer.updateBoxesXZ(primitives);
+        }
+      }).bind(this);
+      this.props.reportCallbacks({ XY, YZ, XZ });
     }
+  }
+
+  private rotate() {
+    if (!this.webGLRenderer || !this.state.rotating) {
+      return;
+    }
+    requestAnimationFrame(() => {
+      this.webGLRenderer!.updateRotation({ x: 0.02, y: 0.04 });
+      this.rotate();
+    });
   }
 
   public render() {
@@ -43,6 +68,17 @@ class WebGLCanvas extends React.Component<WebGLCanvasProps, WebGLCanvasState> {
     return (
       <>
         <div style={{ userSelect: "none" }}>{Math.round(fps)}</div>
+        <button
+          onClick={() => {
+            this.setState({ rotating: !this.state.rotating });
+            requestAnimationFrame(() => this.rotate());
+          }}
+        >
+          Toggle rotation
+        </button>
+        <button onClick={() => this.webGLRenderer!.setRotation({ x: 0, y: 0 })}>
+          Reset rotation
+        </button>
         <Canvas
           ref={this.canvasRef}
           width={512}
@@ -50,9 +86,21 @@ class WebGLCanvas extends React.Component<WebGLCanvasProps, WebGLCanvasState> {
           onMouseDown={e => this.handleMouseDown(e)}
           onMouseUp={e => this.handleMouseUp()}
           onMouseMove={e => this.handleMouseMove(e)}
+          onWheel={e => this.handleWheel(e)}
         />
       </>
     );
+  }
+
+  private handleWheel(e: React.WheelEvent<HTMLCanvasElement>) {
+    if (!this.webGLRenderer) {
+      return;
+    }
+    const dl = e.deltaY / 1000;
+    this.webGLRenderer.updateZoom(dl);
+    e.preventDefault();
+    e.stopPropagation();
+    return false;
   }
 
   private handleMouseMove(e: React.MouseEvent<HTMLCanvasElement>) {
@@ -78,7 +126,13 @@ class WebGLCanvas extends React.Component<WebGLCanvasProps, WebGLCanvasState> {
 
 export default WebGLCanvas;
 
-const spheres = (): Sphere[] => [
-  { x: -0.5, y: -0.5, z: 0, r: 0.5, type: "sphere" },
-  { x: 0.5, y: 0.5, z: 0, r: 0.2, type: "sphere" }
-];
+const boxes = (): Box[] => {
+  const N = 500;
+  return new Array(N).fill(0).map((_, i) => {
+    const x = i / N - 0.5;
+    const y = i / N - 0.5;
+    const w = 0.1;
+    const h = 0.1;
+    return { x, y, w, h, type: "box" };
+  });
+};

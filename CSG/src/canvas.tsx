@@ -1,7 +1,7 @@
 import * as React from "react";
 import styled from "styled-components";
 import qtree, { Rect } from "./qtree";
-import { SetPrimitives } from "./webgl-canvas";
+import { SetPrimitives } from "./app";
 
 const Canvas = styled.canvas`
   border: 1px solid red;
@@ -155,15 +155,14 @@ class DrawableCanvas extends React.Component<CanvasProps, CanvasState> {
     if (this.props.callback && this.rects) {
       this.props.callback(
         this.rects.map(rect => ({
-          type: "sphere",
+          type: "box",
           x: 2 * ((0.5 * (rect.left + rect.right)) / this.props.width - 0.5),
           y:
             2 *
             (1 - (0.5 * (rect.top + rect.bottom)) / this.props.height - 0.5),
           z: 0,
-          r:
-            (0.5 * (rect.right - rect.left + rect.bottom - rect.top)) /
-            this.props.width
+          w: (rect.right - rect.left) / this.props.width,
+          h: (rect.bottom - rect.top) / this.props.height
         }))
       );
     }
@@ -202,7 +201,7 @@ class DrawableCanvas extends React.Component<CanvasProps, CanvasState> {
     }
     const { data } = this.imageData;
 
-    const r = 20;
+    const r = 30;
     const r2 = r ** 2;
     const iMin = Math.max(
       0,

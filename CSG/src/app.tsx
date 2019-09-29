@@ -1,25 +1,40 @@
 import * as React from "react";
 import Canvas from "./canvas";
-import WebGLCanvas, { SetPrimitives } from "./webgl-canvas";
+import WebGLCanvas from "./webgl-canvas";
+import { Primitive } from "./primitives";
+
+export type SetPrimitives = (primitives: Primitive[]) => void;
+
+export type Callbacks3D = {
+  XY: SetPrimitives | null;
+  YZ: SetPrimitives | null;
+  XZ: SetPrimitives | null;
+};
 
 interface AppState {
-  callback: null | SetPrimitives;
+  callbacks: Callbacks3D;
 }
 
 class App extends React.Component<{}, AppState> {
   public readonly state: AppState = {
-    callback: null
+    callbacks: { XY: null, YZ: null, XZ: null }
   };
 
   public render() {
-    const { callback } = this.state;
+    const { callbacks } = this.state;
     return (
       <div>
-        <Canvas width={512} height={512} callback={callback} />
+        <div style={{ display: "flex" }}>
+          <Canvas width={512} height={512} callback={callbacks.XY} />
+          <Canvas width={512} height={512} callback={callbacks.YZ} />
+          <Canvas width={512} height={512} callback={callbacks.XZ} />
+        </div>
         <WebGLCanvas
           name="Something"
-          reportUpdate={(callback: SetPrimitives) =>
-            this.setState({ callback })
+          reportCallbacks={(callbacks: Callbacks3D) =>
+            this.setState({
+              callbacks
+            })
           }
         />
       </div>
