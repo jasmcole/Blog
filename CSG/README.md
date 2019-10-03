@@ -1,6 +1,6 @@
 # Signed distance fields
 
-Link to blog post: XXX
+Link to blog post: https://jasmcole.com/2019/10/03/signed-distance-fields/
 
 Install and run using:
 
