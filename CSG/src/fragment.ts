@@ -10,13 +10,14 @@ ${uniforms.reduce(
 
 float box(vec3 pos, vec3 centre, vec3 radius) {
   vec3 d = abs(pos - centre) - radius;
-  return length(max(d,0.0)) - 0.1; // Rounding
+  return length(max(d,0.0)) - 0.1;//min(min(radius.x, radius.y), radius.z); // Rounding
         //  + min(max(d.x,max(d.y,d.z)),0.0); // remove this line for an only partially signed sdf 
 }
 
-float softMin( float a, float b, float k ) {
-    //float h = clamp( 0.5+0.5*(b-a)/k, 0.0, 1.0 );
-    //return mix( b, a, h ) - k*h*(1.0-h);
+float softMin(float a, float b) {
+    // float k = 0.5;
+    // float h = clamp( 0.5+0.5*(b-a)/k, 0.0, 1.0 );
+    // return mix( b, a, h ) - k*h*(1.0-h);
     return min(a, b);
 }
 
@@ -34,14 +35,14 @@ float sdf(vec3 pos) {
   float yzMin = 1000.0;
   float xzMin = 1000.0;
 
-  for (float i = 0.0; i < 10000.0; i++) {
+  for (float i = 0.0; i < 500.0; i++) {
 
     if (i == numPrimXY) {
       break;
     }
 
     float x = mod(i, textureSize.x);
-    float y = floor(i / textureSize.x);
+    float y = i / textureSize.x;
 
     float u = x / textureSize.x;
     float v = y / textureSize.y;
@@ -53,18 +54,18 @@ float sdf(vec3 pos) {
     vec3 boxRadius = vec3(convertRad(texSample.z), convertRad(texSample.w), 5.0);
     float thisMin = box(pos, boxCentre, boxRadius);
 
-    xyMin = softMin(xyMin, thisMin, 0.1);
+    xyMin = softMin(xyMin, thisMin);
 
   }
 
-  for (float i = 0.0; i < 10000.0; i++) {
+  for (float i = 0.0; i < 500.0; i++) {
 
     if (i == numPrimYZ) {
       break;
     }
 
     float x = mod(i, textureSize.x);
-    float y = floor(i / textureSize.x);
+    float y = i / textureSize.x;
 
     float u = x / textureSize.x;
     float v = y / textureSize.y;
@@ -76,18 +77,18 @@ float sdf(vec3 pos) {
     vec3 boxRadius = vec3(5.0, convertRad(texSample.w), convertRad(texSample.z));
     float thisMin = box(pos, boxCentre, boxRadius);
 
-    yzMin = softMin(yzMin, thisMin, 0.1);
+    yzMin = softMin(yzMin, thisMin);
 
   }
 
-  for (float i = 0.0; i < 10000.0; i++) {
+  for (float i = 0.0; i < 500.0; i++) {
 
     if (i == numPrimXZ) {
       break;
     }
 
     float x = mod(i, textureSize.x);
-    float y = floor(i / textureSize.x);
+    float y = i / textureSize.x;
 
     float u = x / textureSize.x;
     float v = y / textureSize.y;
@@ -99,7 +100,7 @@ float sdf(vec3 pos) {
     vec3 boxRadius = vec3(convertRad(texSample.w), 5.0, convertRad(texSample.z));
     float thisMin = box(pos, boxCentre, boxRadius);
 
-    xzMin = softMin(xzMin, thisMin, 0.1);
+    xzMin = softMin(xzMin, thisMin);
 
   }
 

@@ -54,7 +54,6 @@ const Hover = styled.div<{ painting: boolean }>`
 }}
 
 `;
-
 interface CanvasProps {
   width: number;
   height: number;
@@ -68,6 +67,7 @@ interface CanvasState {
   radius: number;
   minSize: number;
   painting: boolean; // False for erasing
+  updateLive: boolean;
 }
 
 class DrawableCanvas extends React.Component<CanvasProps, CanvasState> {
@@ -75,8 +75,9 @@ class DrawableCanvas extends React.Component<CanvasProps, CanvasState> {
     hoverCoords: null,
     mouseDown: false,
     radius: 30,
-    minSize: 16,
-    painting: true
+    minSize: 8,
+    painting: true,
+    updateLive: false
   };
 
   private canvasRef: React.RefObject<HTMLCanvasElement> = React.createRef();
@@ -138,6 +139,13 @@ class DrawableCanvas extends React.Component<CanvasProps, CanvasState> {
               </Button>
               <Button onClick={() => this.decreaseDetail()}>
                 Decrease detail (faster)
+              </Button>
+              <Button
+                onClick={() =>
+                  this.setState({ updateLive: !this.state.updateLive })
+                }
+              >
+                Toggle live updates
               </Button>
             </Column>
             <Column>
@@ -272,7 +280,9 @@ class DrawableCanvas extends React.Component<CanvasProps, CanvasState> {
     const color = this.state.painting ? [0, 0, 0, 255] : [255, 255, 255, 254];
     this.paint(x, y, color as [number, number, number, number]);
     this.paintQTreeEdges(this.state.minSize);
-    // this.updateWebGL();
+    if (this.state.updateLive) {
+      this.updateWebGL();
+    }
   }
 
   private getImageCoords(e: React.MouseEvent<HTMLCanvasElement>) {

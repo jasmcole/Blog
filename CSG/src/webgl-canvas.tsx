@@ -20,7 +20,7 @@ interface WebGLCanvasState {
 class WebGLCanvas extends React.Component<WebGLCanvasProps, WebGLCanvasState> {
   public readonly state: WebGLCanvasState = {
     fps: 0,
-    rotating: false,
+    rotating: true,
     intersect: false,
     numSteps: true
   };
@@ -53,6 +53,7 @@ class WebGLCanvas extends React.Component<WebGLCanvasProps, WebGLCanvasState> {
         }
       }).bind(this);
       this.props.reportCallbacks({ XY, YZ, XZ });
+      requestAnimationFrame(() => this.rotate());
     }
   }
 
