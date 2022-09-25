@@ -1,0 +1,3 @@
+[submodule "coin-flip"]
+	path = coin-flip
+	url = https://github.com/jasmcole/coin-flip
