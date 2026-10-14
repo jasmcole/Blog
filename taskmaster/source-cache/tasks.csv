@@ -1,0 +1,1046 @@
+task_id,series,episode_num,episode_title,task_num,is_prize,is_live,is_tiebreak,description
+1,Series 1,1,Melon buffet.,1,1,0,0,Most unusual item.
+2,Series 1,1,Melon buffet.,2,0,0,0,"In the lab, there is a watermelon. Eat as much watermelon as possible."
+3,Series 1,1,Melon buffet.,3,0,0,0,Paint the best picture of a horse whilst riding a horse.
+4,Series 1,1,Melon buffet.,4,0,0,0,"Completely empty this bathtub. You must not remove the plug, tip or damage the bath."
+5,Series 1,1,Melon buffet.,5,0,1,0,Pop up a tent. Get in the tent. Zip up the tent. Pop on a onesie in the tent. And emerge from the tent wearing the onesie.
+6,Series 1,1,Melon buffet.,T,0,0,1,Find Alex.
+7,Series 1,2,The pie whisperer.,1,1,0,0,Most impressive item.
+8,Series 1,2,The pie whisperer.,2,0,0,0,High-five a 55-year-old.
+9,Series 1,2,The pie whisperer.,3,0,0,0,"Identify the contents of these pies. You may touch the pies, but may not breach their pastry."
+10,Series 1,2,The pie whisperer.,4,0,0,0,Do something that will look impressive in reverse. The Taskmaster will see whatever act you perform played backwards. You must therefore do something backwards that will look impressive when the footage is played in reverse.
+11,Series 1,2,The pie whisperer.,5,0,1,0,"Crack the code, unshackle yourself and sprint 1 metre."
+12,Series 1,3,The poet and the egg.,1,1,0,0,Most meaningful item.
+13,Series 1,3,The poet and the egg.,2,0,0,0,Throw a teabag into a mug from the farthest distance.
+14,Series 1,3,The poet and the egg.,3,0,0,0,"Using this device to track your route, create the best image for the Taskmaster. Pop a balloon to signal you have finished your image."
+15,Series 1,3,The poet and the egg.,4,0,0,0,Buy the best present for the Taskmaster. Here is £20.
+16,Series 1,3,The poet and the egg.,5,0,0,0,"Using only the items currently on this table, get this egg as high as possible. The egg must not break."
+17,Series 1,3,The poet and the egg.,6,0,1,0,Stand up after 100 seconds.
+18,Series 1,3,The poet and the egg.,T,0,0,1,What is Frank Skinner's age in minutes?
+19,Series 1,4,Down an octave.,1,1,0,0,Most beautiful item.
+20,Series 1,4,Down an octave.,2,0,0,0,Make this ice block disappear as fast as possible.
+21,Series 1,4,Down an octave.,3,0,0,0,Team: Get to 11 points as fast as possible.
+22,Series 1,4,Down an octave.,4,0,0,0,Fill an egg cup with as many tears as possible.
+23,Series 1,4,Down an octave.,S,0,0,0,Count the beans in this baked bean tin.
+24,Series 1,4,Down an octave.,5,0,1,0,Memorise the names of an Australian rules football team.
+25,Series 1,5,Little denim shorts.,1,1,0,0,Most valuable item.
+26,Series 1,5,Little denim shorts.,2,0,0,0,Get this boulder as far from this place as possible.
+27,Series 1,5,Little denim shorts.,3,0,0,0,Grow the longest nail.
+28,Series 1,5,Little denim shorts.,4,0,0,0,Team: Make this bed to a hotel standard whilst holding hands. Your time ends when you get in the bed. Hold hands now.
+29,Series 1,5,Little denim shorts.,5,0,0,0,Make this Swedish person blush as deeply as possible.
+30,Series 1,5,Little denim shorts.,6,0,1,0,Blow up the biggest balloon whilst blindfolded.
+31,Series 1,6,The last supper.,1,1,0,0,Most satisfying item.
+32,Series 1,6,The last supper.,2,0,0,0,Get the lowest golf score using eggs. You must complete the 5 holes using chicken eggs. You score will be calculated as follows: Shots x eggs x minutes.
+33,Series 1,6,The last supper.,3,0,0,0,Team: Stage a realistic blooper from a home movie.
+34,Series 1,6,The last supper.,4,0,0,0,Make the best meal for the Taskmaster using ingredients beginning with every letter of the alphabet.
+35,Series 1,6,The last supper.,5,0,1,0,"Wearing boxing gloves, put the blue sweets in the empty bowl. Non-blue sweets will be subtracted from your total."
+36,Series 2,1,Fear of failure.,1,1,0,0,Most important document.
+37,Series 2,1,Fear of failure.,2,0,0,0,Place these three exercise balls on the yoga mat on the top of that hill. The task is complete when all three balls sit fully inflated and stationary on the mat.
+38,Series 2,1,Fear of failure.,3,0,0,0,Get this potato into the golf hole. You may not touch the red green.
+39,Series 2,1,Fear of failure.,4,0,0,0,Find out the following information from this Swedish person. The Swedish person may not speak or write in English.
+40,Series 2,1,Fear of failure.,5,0,1,0,Pack for your holiday. All items must either be packed in your hand luggage or worn on your body.
+41,Series 2,2,Pork is a sausage.,1,1,0,0,Trendiest item of clothing.
+42,Series 2,2,Pork is a sausage.,2,0,0,0,Eat me (an egg). Fastest wins.
+43,Series 2,2,Pork is a sausage.,3,0,0,0,Make the best music video for a nursery rhyme.
+44,Series 2,2,Pork is a sausage.,4,0,0,0,"Using this camera, take a picture of an inanimate object that looks like you."
+45,Series 2,2,Pork is a sausage.,6,0,1,0,"Using these big chopsticks, get these potatoes into your basket. You must only hold the big chopsticks on the grips provided. The big chopsticks alone may touch the potatoes in turn. Whoever has the most potatoes."
+46,Series 2,3,A pistachio eclair.,1,1,0,0,Best dinner party guest.
+47,Series 2,3,A pistachio eclair.,2,0,0,0,Impress this mayor.
+48,Series 2,3,A pistachio eclair.,3,0,0,0,Make the most unexpected silhouette on this screen.
+49,Series 2,3,A pistachio eclair.,4,0,0,0,Buy a gift for the Taskmaster.
+50,Series 2,3,A pistachio eclair.,5,0,0,0,"Team: Put on this blindfold, then instruct only the person closest to you to open their task."
+51,Series 2,3,A pistachio eclair.,6,0,1,0,Throw the rabbits into your hat.
+52,Series 2,4,Welcome to Rico Face.,1,1,0,0,Coolest blue thing.
+53,Series 2,4,Welcome to Rico Face.,2,0,0,0,Rescue the cat.
+54,Series 2,4,Welcome to Rico Face.,3,0,0,0,Conceal this pineapple on your person. No part of the pineapple may be thrown away.
+55,Series 2,4,Welcome to Rico Face.,4,0,0,0,Set a fun task. Your task must take no more than one minute.
+56,Series 2,4,Welcome to Rico Face.,5,0,0,0,"Team: Using only the items on the rug, construct the best thing for the Taskmaster."
+57,Series 2,4,Welcome to Rico Face.,6,0,1,0,Create the highest tower using only these potato-based items. Your potato tower must be self-standing. Your potato tower must be built on the table. Your potato tower will be measured from the tabletop to the highest potato point.
+58,Series 2,5,There's strength in arches.,1,1,0,0,Best piece of memorabilia.
+59,Series 2,5,There's strength in arches.,2,0,0,0,Get all this shopping into the shopping trolley.
+60,Series 2,5,There's strength in arches.,3,0,0,0,Team: Make the best stop-motion film starring this potato.
+61,Series 2,5,There's strength in arches.,4,0,0,0,Make a bridge over the river using only items on this table. Highest self-supporting bridge wins. The bridge alone must support the potato. You must not touch the Taskmaster's house.
+62,Series 2,5,There's strength in arches.,5,0,1,0,"Put on a pair of food handling gloves, eat a whole banana correctly, put on a tie, and clap as many times as possible."
+63,Series 3,1,A pea in a haystack.,1,1,0,0,Most flamboyant clock.
+64,Series 3,1,A pea in a haystack.,2,0,0,0,Get to the microwave in as few steps as possible and open the door before the microwave dings.
+65,Series 3,1,A pea in a haystack.,3,0,0,0,Propel this pea the furthest distance. Your pea must land and remain on the red carpet.
+66,Series 3,1,A pea in a haystack.,4,0,0,0,Make the best snowman.
+67,Series 3,1,A pea in a haystack.,5,0,1,0,Balance your swedes on your Swede. Your Swede must remain standing at all times. Your swedes may only balance on the exterior of your Swede.
+68,Series 3,2,The dong and the gong.,1,1,0,0,Heaviest item that can fit in a shoebox.
+69,Series 3,2,The dong and the gong.,2,0,0,0,Surprise Alex when he emerges from the shed in one hour.
+70,Series 3,2,The dong and the gong.,3,0,0,0,Team Puzzle: Release Alex.
+71,Series 3,2,The dong and the gong.,4,0,0,0,Create the best upside-down self portrait using only the materials supplied. The Taskmaster will judge the picture when it has been rotated 180 degrees.
+72,Series 3,2,The dong and the gong.,5,0,0,0,Pop the balloons.
+73,Series 3,2,The dong and the gong.,6,0,1,0,Unravel a whole roll of sticky tape. Put the unraveled sticky tape in your lunchbox. Close your lunchbox.
+74,Series 3,3,Little polythene grief cave.,1,1,0,0,Best battery-operated item.
+75,Series 3,3,Little polythene grief cave.,2,0,0,0,Fill this egg cup with your own sweat.
+76,Series 3,3,Little polythene grief cave.,3,0,0,0,Make the best domino rally.
+77,Series 3,3,Little polythene grief cave.,4,0,0,0,Buy a gift for the Taskmaster.
+78,Series 3,3,Little polythene grief cave.,5,0,0,0,Create the best flag meal.
+79,Series 3,3,Little polythene grief cave.,6,0,1,0,Anchor these balloons using only bread.
+80,Series 3,4,A very nuanced character.,1,1,0,0,Shiniest thing.
+81,Series 3,4,A very nuanced character.,2,0,0,0,Spread your clothes as far and wide as possible at your own expense. You must discard four items of clothing that you're currently wearing.
+82,Series 3,4,A very nuanced character.,3,0,0,0,Find out what this gentleman did for a living. You can ask him any question but you must whisper at all times. The gentleman can only nod or shake his head. The gentleman can only lie.
+83,Series 3,4,A very nuanced character.,4,0,0,0,Team: Make the most special effect.
+84,Series 3,4,A very nuanced character.,5,0,1,0,"Wearing a blindfold, cover yourself in sticky notes. Sticky notes must be applied individually."
+85,Series 3,4,A very nuanced character.,S,0,0,0,Have the most fun on this bouncy castle.
+86,Series 3,5,The F.I.P.,1,1,0,0,The photo of the most handsome relative.
+87,Series 3,5,The F.I.P.,2,0,0,0,Move the water from bucket A to bucket B. You must not move the buckets.
+88,Series 3,5,The F.I.P.,3,0,0,0,"Team: Wearing one of these hands on each of your hands at all times, communicate to your teammates the names of these films, books or TV programmes. You may not raise your voice."
+89,Series 3,5,The F.I.P.,4,0,0,0,Do something that looks brilliant when sped up or slowed down.
+90,Series 3,5,The F.I.P.,5,0,1,0,"Place one or more doughnuts on your stick. You have 100 seconds, after which the person with the lowest unique whole number of doughnuts on their stick wins."
+91,Series 4,1,A fat bald white man.,1,1,0,0,Most interesting autograph on the most interesting vegetable.
+92,Series 4,1,A fat bald white man.,2,0,0,0,Destroy this cake.
+93,Series 4,1,A fat bald white man.,4,0,0,0,Fell all the rubber ducks.
+94,Series 4,1,A fat bald white man.,5,0,1,0,"Make the most juice. You must pick one fruit and one tool. If you pick the same tool as someone else, you must juice blindfolded. If you pick the same fruit as someone else, you must juice one-handed. If you pick the same fruit and tool as someone else, you must juice blindfolded, one-handed and bouncing up and down."
+95,Series 4,2,Look at me.,1,1,0,0,Most boastful item.
+96,Series 4,2,Look at me.,2,0,0,0,Keep the basketball on the running machine for as long as possible. You may not touch the basketball or the running machine.
+97,Series 4,2,Look at me.,3,0,0,0,"Paint the best picture of the Taskmaster. Only the paint, and brush may touch the mat, easel and canvas."
+98,Series 4,2,Look at me.,4,0,0,0,Team: Land the flour on the target. You may not leave the bandstand.
+99,Series 4,2,Look at me.,5,0,0,0,"Without touching the egg or the egg cup, get the egg into the egg cup. You may only use the equipment currently on the table. If you touch a piece of equipment that another contestant touches, you will both receive a 1 minute penalty per piece of equipment touched."
+100,Series 4,2,Look at me.,6,0,1,0,"Looking at the Taskmaster at all times and with your arms always beneath your hairdressing smock, attach as many balloons together as possible."
+101,Series 4,3,Hollowing out a baguette.,1,1,0,0,Best membership/subscription.
+102,Series 4,3,Hollowing out a baguette.,2,0,0,0,Camouflage yourself.
+103,Series 4,3,Hollowing out a baguette.,3,0,0,0,Team: Make a trailer for Taskmaster The Movie.
+104,Series 4,3,Hollowing out a baguette.,4,0,0,0,Persuade three dogs to stand on the red mat. Exactly 12 legs must be stood on the red mat at the same time.
+105,Series 4,3,Hollowing out a baguette.,6,0,1,0,"Take it in turns to say a 5-letter word whenever the music stops. You may not say a word that has been previously said. If you fail to say a word before the music starts again, you're eliminated and the game continues with different length words."
+106,Series 4,3,Hollowing out a baguette.,T,0,0,1,Decant the wine into another bottle from atop an umpire's chair.
+107,Series 4,4,Friendship is truth.,1,1,0,0,Most surprising picture of themselves.
+108,Series 4,4,Friendship is truth.,3,0,0,0,Choreograph a dance for you and Alex to perform to any of the following ringtones.
+109,Series 4,4,Friendship is truth.,4,0,0,0,Create a portrait of a celebrity using loo roll. There is a camera above your head. The mat beneath your feet is your canvas.
+110,Series 4,4,Friendship is truth.,5,0,0,0,Do the most incredible thing with this pommel horse.
+111,Series 4,4,Friendship is truth.,6,0,1,0,Make the highest tower using these tubes.
+112,Series 4,5,Meat.,1,1,0,0,Cutest thing.
+113,Series 4,5,Meat.,2,0,0,0,Slide the furthest.
+114,Series 4,5,Meat.,4,0,0,0,Team: Put as many different things in the bathtub.
+115,Series 4,5,Meat.,5,0,0,0,Throw something into something.
+116,Series 4,5,Meat.,T,0,0,1,Eat as many peas as possible.
+117,Series 4,6,Spatchcock it.,1,1,0,0,Best sheep-related item.
+118,Series 4,6,Spatchcock it.,2,0,0,0,Get this camel through the smallest gap.
+119,Series 4,6,Spatchcock it.,S,0,0,0,Hide this ball from Alex. You may not damage the ball.
+120,Series 4,6,Spatchcock it.,4,0,0,0,Work out what's in the sleeping bag. You may not look inside the sleeping bag. You may not take items out of the sleeping bag.
+121,Series 4,6,Spatchcock it.,5,0,1,0,Prepare these items for the second part of the task.
+122,Series 4,7,No stars for naughty boys.,1,1,0,0,Best chair.
+123,Series 4,7,No stars for naughty boys.,2,0,0,0,"Stand on one leg then continue reading. Your raised foot must not touch the ground until the task is complete. Bring Alex his dinner. Every time your raised foot touches the ground, you must eat a slice of Alex's dinner."
+124,Series 4,7,No stars for naughty boys.,3,0,0,0,Hide from Alex. Alex is in the caravan.
+125,Series 4,7,No stars for naughty boys.,4,0,0,0,"Team: Get this wheelie bin across the finish line. One of you must be in the bin at all times. The other person must be blindfolded at all times. The wheelie bin rider must direct the wheelie bin drivers to complete the course and the five challenges with. Also, no-one can speak English."
+126,Series 4,7,No stars for naughty boys.,5,0,0,0,Unveil a new handshake.
+127,Series 4,7,No stars for naughty boys.,6,0,1,0,Make the best and biggest all-round banana out of these bananas.
+128,Series 4,7,No stars for naughty boys.,T,0,0,1,Open a jar. The jar may not leave the lab.
+129,Series 4,8,Tony Three Pies.,1,1,0,0,Most cash.
+130,Series 4,8,Tony Three Pies.,3,0,0,0,Strike one of these objects the furthest distance with one of the other objects. You have three strikes with your chosen object.
+131,Series 4,8,Tony Three Pies.,4,0,0,0,Do something surprising with this rubber duck.
+132,Series 5,1,Dignity intact.,1,1,0,0,Something that makes the most excellent noise.
+133,Series 5,1,Dignity intact.,2,0,0,0,Give Alex a special cuddle.
+134,Series 5,1,Dignity intact.,3,0,0,0,Get Alex onto dry land as elegantly as possible. Alex must remain dry.
+135,Series 5,1,Dignity intact.,4,0,0,0,Get the basketball through the hoop. You may not touch the basketball with your hands. You may not wear gloves or anything that could reasonably be construed to be gloves.
+136,Series 5,1,Dignity intact.,5,0,1,0,Get one item of fruit into the fishbowl. You may not leave or move your chair. You may not throw your fruit.
+137,Series 5,2,The leprechaun or the lesbian.,1,1,0,0,Hippest item of headwear.
+138,Series 5,2,The leprechaun or the lesbian.,2,0,0,0,Make the best coconut flinging machine.
+139,Series 5,2,The leprechaun or the lesbian.,3,0,0,0,Paint the best rainbow scene. You may not open the lab door until the task is complete.
+140,Series 5,2,The leprechaun or the lesbian.,4,0,0,0,There is a loaf of bread in the lab. Slice the loaf as neatly as possible. You may use one tool only and that tool must be found in this caravan.
+141,Series 5,2,The leprechaun or the lesbian.,5,0,0,0,Team: Achieve the greatest splat. One teammate must be splatted for the splat to be valid.
+142,Series 5,3,Phoenix.,1,1,0,0,The thing they're actually proudest of.
+143,Series 5,3,Phoenix.,2,0,0,0,Remove the table tennis ball from the pipe. The pipe must not move.
+144,Series 5,3,Phoenix.,3,0,0,0,Make this coconut look like a businessman.
+145,Series 5,3,Phoenix.,4,0,0,0,"Items: Jelly, Weetabix, Twiglet Eat one item."
+146,Series 5,3,Phoenix.,5,0,1,0,"Play table tennis with words. When the ball is within striking distance, you must say a word while pretending to hit the ball with your bat. That word must begin with the last letter of the previous word. If you fail to say a word within the time it would take you to hit a ball, you are out. After saying a word, you must run to the back of the opposite queue."
+147,Series 5,4,Residue around the hoof.,1,1,0,0,Most extraordinary souvenir.
+148,Series 5,4,Residue around the hoof.,2,0,0,0,Make Marmite.
+149,Series 5,4,Residue around the hoof.,3,0,0,0,Team: Do something remarkable synchronised.
+150,Series 5,4,Residue around the hoof.,4,0,0,0,"Wearing this blindfold, blow up this balloon so that its circumference is the same as the length of a standard cucumber."
+151,Series 5,4,Residue around the hoof.,5,0,0,0,Sneeze.
+152,Series 5,4,Residue around the hoof.,6,0,1,0,"Stand on one leg for the longest whilst playing a game of Greg says, Alex says. Your raised foot must remain above the balloon at all times and may not touch any other item."
+153,Series 5,4,Residue around the hoof.,T,0,0,1,Back throw a Swede.
+154,Series 5,5,A wind-dried puffin.,1,1,0,0,Most high octane item.
+155,Series 5,5,A wind-dried puffin.,2,0,0,0,"Put the biggest thing inside this balloon. The balloon must then be successfully inflated, tied, and bigger than your head."
+156,Series 5,5,A wind-dried puffin.,3,0,0,0,Generate a watercooler moment involving this watercooler.
+157,Series 5,5,A wind-dried puffin.,S,0,0,0,Send the Taskmaster an anonymous cheeky text message every single day for the next 5 months.
+158,Series 5,5,A wind-dried puffin.,4,0,0,0,"Make the tallest tower of cans on this table. Also, whilst building your tower, you must shake Alex's hand and say you're from a different country once every 10 seconds. Alex will blow his whistle every 10 seconds."
+159,Series 5,6,Spoony Neeson.,1,1,0,0,Best thing they've made themselves.
+160,Series 5,6,Spoony Neeson.,2,0,0,0,Balance Alex. You may not use any humans to balance Alex.
+161,Series 5,6,Spoony Neeson.,3,0,0,0,"With this camera strapped to your head, record the most incredible footage."
+162,Series 5,6,Spoony Neeson.,S,0,0,0,Have your photo taken with this golden pineapple in other esteemed company.
+163,Series 5,6,Spoony Neeson.,5,0,1,0,Make yourself monotone.
+164,Series 5,6,Spoony Neeson.,T,0,0,1,Get the most yoghurt near the middle of the target with one kick.
+165,Series 5,7,Boing boing.,1,1,0,0,Most surprisingly expensive item.
+166,Series 5,7,Boing boing.,2,0,0,0,"Wearing that blindfold at all times, travel as far as possible in three minutes. Alex will be at your side at all times because he is a strong, independent, handsome man. On removing the blindfold, you will then have another three minutes to retrace your steps to your starting position."
+167,Series 5,7,Boing boing.,3,0,0,0,Muster the biggest coconut bobsleigh team. You may only use items from the caravan to secure your coconuts. You'll be disqualified if you use any item used by another contestant.
+168,Series 5,7,Boing boing.,4,0,0,0,"Vote for which contestant you think should receive five bonus points. The contestant who receives the most votes will receive five bonus points. You may vote for yourself. If, however, you vote for yourself and fail to receive the most votes, you will lose two points."
+169,Series 5,7,Boing boing.,5,0,0,0,Make a funny little flick-book film. The mat beneath your feet is the paper. The camera above your head will take photos of your paper.
+170,Series 5,7,Boing boing.,6,0,1,0,Send the most things to the Taskmaster. Items must travel via zipline and land on your segment of the Taskmaster's table. You may not move from your current position.
+171,Series 5,8,Their water's so delicious.,1,1,0,0,Most awkward item for somebody else to take home.
+172,Series 5,8,Their water's so delicious.,2,0,0,0,Get this coconut as far from here as possible. You may not touch the ground. You may not step on anything more than once. The coconut may not travel by car.
+173,Series 5,8,Their water's so delicious.,3,0,0,0,Create the best graph.
+174,Series 5,8,Their water's so delicious.,S,0,0,0,Make the most fish puns.
+175,Series 5,8,Their water's so delicious.,4,0,0,0,Team: Write and perform a song about this woman.
+176,Series 5,8,Their water's so delicious.,5,0,1,0,Throw the egg through the hoop and catch it as many times as possible. You may not touch the net or post.
+177,Series 6,1,The old soft curved padlock.,1,1,0,0,Best liquid.
+178,Series 6,1,The old soft curved padlock.,2,0,0,0,"Perform the best stunt, using this wheelbarrow."
+179,Series 6,1,The old soft curved padlock.,3,0,0,0,Make the highest tower using only what's in the bowl. You may wield the knife a maximum of 5 times.
+180,Series 6,1,The old soft curved padlock.,4,0,0,0,"Wearing a hat, kiss the portrait of the Taskmaster in the Taskmaster's House. The hat must not come from the grounds of the Taskmaster's house. Closest to 30 minutes wins."
+181,Series 6,1,The old soft curved padlock.,5,0,1,0,"Sort the objects under the table in order of size. You must keep your elbows on the table top and your head in your hands at all times. The smallest object should be on your right, the largest on your left, and they must all be in line under your table. Also, there must be no fruit in your line-up. If there is any fruit left under your table, you will be disqualified."
+182,Series 6,1,The old soft curved padlock.,T,0,0,1,Spin around as many times as possible before kicking the ball at the caravan. Most spins wins.
+183,Series 6,2,Tarpeters.,1,1,0,0,Best hairy thing that isn't alive.
+184,Series 6,2,Tarpeters.,2,0,0,0,"Get the highest score in darts. You can either throw one dart from 1 metre away, three darts from 2.37 metres away, or sixty darts from 10 metres away. When throwing, please stand behind whichever distance line you choose."
+185,Series 6,2,Tarpeters.,3,0,0,0,Team: Keep Alex dry. You may not touch Alex at any point. You may not be within the compass when the shower is on.
+186,Series 6,2,Tarpeters.,4,0,0,0,"Take a picture of a group of people, each holding an egg. Most people holding eggs in a picture wins. You must be in your picture."
+187,Series 6,2,Tarpeters.,5,0,0,0,Make this wind-up little man go on the most extraordinary journey.
+188,Series 6,2,Tarpeters.,6,0,1,0,"When instructed, put your grape in either your mouth or your hand whilst staring at the Taskmaster. You must then answer the Taskmaster's questions and fool the Taskmaster into thinking your grape is not where your grape is. You must not eat your grape. Your answer must contain at least five words. If the Taskmaster correctly guesses correctly where your grape is, you are eliminated."
+189,Series 6,3,One warm prawn.,1,1,0,0,Most magnificent day trip.
+190,Series 6,3,One warm prawn.,2,0,0,0,"Write, illustrate and read out a bedtime story for grown-ups. Your bedtime story for grown-ups may be no more or fewer than 50 words."
+191,Series 6,3,One warm prawn.,3,0,0,0,Make something spin for the longest. Your thing must not be a person.
+192,Series 6,3,One warm prawn.,5,0,1,0,"Catch the most socks and put them in your laundry basket. You must stare straight forward throughout the task. You must not touch any pants. You must not move your laundry basket and if you drop a sock, you can't then pick it up. Every time you touch some pants, you lose a sock."
+193,Series 6,4,BMXing!,1,1,0,0,Most thought-provoking thing.
+194,Series 6,4,BMXing!,2,0,0,0,Do something manly with this cardboard box.
+195,Series 6,4,BMXing!,3,0,0,0,Team: Have the most fun.
+196,Series 6,4,BMXing!,4,0,0,0,Make the best art using the entire contents of this can of squirty cream.
+197,Series 6,4,BMXing!,5,0,0,0,"Remove the £5 note from under the pint without spilling any of the pint. If you spill any of the pint, you are disqualified."
+198,Series 6,4,BMXing!,6,0,1,0,"When tapped on the shoulder, shake hands with the Taskmaster without revealing your identities. You may not speak during the task. Everyone must shake hands with the Taskmaster once for at least 2 seconds. If the Taskmaster guesses your identity, you are disqualified."
+199,Series 6,5,H.,1,1,0,0,Sturdiest thing.
+200,Series 6,5,H.,2,0,0,0,"Without leaving the caravan, work out how long this piece of string is."
+201,Series 6,5,H.,3,0,0,0,Pull this tablecloth off this table. Most eggs left unbroken on the table wins.
+202,Series 6,5,H.,4,0,0,0,Team: Find the link then do it 100 times.
+203,Series 6,5,H.,5,0,0,0,Pull off the most elaborate trick shot.
+204,Series 6,5,H.,6,0,1,0,Throw as many eggs onto the shelves as possible. You must lie flat on your bed at all times.
+205,Series 6,6,We met at mealtimes.,1,1,0,0,Best thing that they've invented.
+206,Series 6,6,We met at mealtimes.,2,0,0,0,Make the best snow globe.
+207,Series 6,6,We met at mealtimes.,3,0,0,0,Team: Knock over as many ducks as possible. You must all remain on the red carpet throughout the task.
+208,Series 6,6,We met at mealtimes.,4,0,0,0,Make an announcement. Biggest announcement to the most people wins.
+209,Series 6,6,We met at mealtimes.,5,0,0,0,Make the best parachute for this wooden spoon. Slowest and most dramatic fall wins.
+210,Series 6,6,We met at mealtimes.,6,0,1,0,"You will each be given a category. You will each have 10 seconds to say things in that fall into that category. First, you must each predict how many correct answers you will give."
+211,Series 6,7,Roadkill doused in syrup.,1,1,0,0,Scariest thing from their kitchen.
+212,Series 6,7,Roadkill doused in syrup.,2,0,0,0,Knock the bails off the stumps. You've got a maximum of one over. You must make your attempts from behind this stump. No stumps may be moved.
+213,Series 6,7,Roadkill doused in syrup.,4,0,0,0,Write down as many obscure animals as possible.
+214,Series 6,7,Roadkill doused in syrup.,5,0,0,0,"Wearing this sweatband around your head at all times, tuck as many items from the kitchen inside the sweatband as possible. Then make a pancake with a diameter of at least 9 inches. Then eat the whole pancake. Most kitchen items successfully kept within the sweatband wins."
+215,Series 6,7,Roadkill doused in syrup.,6,0,1,0,Get an egg as close to the centre of the target as possible. You must stand on the spot when taking your turn. You must ROLL two of the eggs. The person whose egg is furthest from the centre of the target after each round is eliminated.
+216,Series 6,8,What kind of pictures?,1,1,0,0,Most interesting footwear.
+217,Series 6,8,What kind of pictures?,2,0,0,0,Put something genuinely surprising inside this chocolate egg.
+218,Series 6,8,What kind of pictures?,3,0,0,0,Find out what you have in common with this person. You must look the person in the eye throughout the task and shake hands every time you discover you have in common.
+219,Series 6,8,What kind of pictures?,4,0,0,0,"Wearing these high heels, create the best dot-to-dot picture on this canvas."
+220,Series 6,8,What kind of pictures?,5,0,1,0,Stick a plaster to the correct body part. Alex will say the names of three body parts. You must stick a plaster to the body part that comes second in the dictionary out of the three body parts. The slowest person to stick a plaster to the correct body part is eliminated.
+221,Series 6,8,What kind of pictures?,T,0,0,1,Receive a text message as fast as possible.
+222,Series 6,9,The Bubble Brothers.,1,1,0,0,Most pleasing thing the same size as a cat.
+223,Series 6,9,The Bubble Brothers.,2,0,0,0,Make the biggest bubble and burst it with your nose.
+224,Series 6,9,The Bubble Brothers.,3,0,0,0,Team: Perform a scene from Taskmaster The Musical.
+225,Series 6,9,The Bubble Brothers.,S,0,0,0,Make an outfit of things bought from this stationery shop.
+226,Series 6,9,The Bubble Brothers.,4,0,0,0,Make this plastic bag as heavy as possible.
+227,Series 6,9,The Bubble Brothers.,5,0,1,0,Pick up as many points as possible.
+228,Series 6,10,He was a different man.,1,1,0,0,Least appropriate accessary for a wedding.
+229,Series 6,10,He was a different man.,2,0,0,0,"Knock over the fewest skittles. You may place one item on each of the three ramp sections, or you may place two items on one of the ramp sections. Your items must be found on this table and may not include either you or the table. You may not tamper with the balls or the ramp.."
+230,Series 6,10,He was a different man.,3,0,0,0,Blow the candle out from the furthest distance. You may not relight the candle.
+231,Series 6,10,He was a different man.,4,0,0,0,Tell the Taskmaster you love him in the most meaningful way.
+232,Series 6,10,He was a different man.,5,0,1,0,"Display a number. You get one rosette if your number is higher than the person's on your right and one if its lower than the person's on your left. If you display the same number as someone else, you lose them all."
+233,Series 7,1,The mean bean.,1,1,0,0,The thing that most people would like to touch.
+234,Series 7,1,The mean bean.,2,0,0,0,Design and demonstrate the best quick-change outfit.
+235,Series 7,1,The mean bean.,3,0,0,0,Build the highest tower.
+236,Series 7,1,The mean bean.,4,0,0,0,Work out the circumference of the caravan in baked beans.
+237,Series 7,1,The mean bean.,5,0,1,0,Make the best fruit display hat. You may not touch or tamper with your hat. Only the fruit picker-uppers may touch the fruit. You may only hold the fruit picker-uppers by their handles.
+238,Series 7,2,My eyes are circles.,1,1,0,0,Boldest belt.
+239,Series 7,2,My eyes are circles.,2,0,0,0,Write a ten-word story before you reach the finish line. You must be running while writing.
+240,Series 7,2,My eyes are circles.,3,0,0,0,Team: Paint the best picture of this still life. The painter must remain blindfolded throughout. The other person may not move from their chair and may only say certain words.
+241,Series 7,2,My eyes are circles.,4,0,0,0,"Predict what one of the other contestants (specified) will do with one of the objects and and do something yourself with one of the objects. You also get 5 points if a third contestant (specified, different) correctly predicts your own action."
+242,Series 7,2,My eyes are circles.,5,0,0,0,Draw the biggest and best circle. Your circle must be completed in one single sweep.
+243,Series 7,2,My eyes are circles.,6,0,1,0,"Make the highest tower of cans within your hoop. If you step out of your hoop during the 100 seconds, you will be disqualified."
+244,Series 7,2,My eyes are circles.,T,0,0,1,What number is written on Alex's left forearm?
+245,Series 7,3,Twelve blush majesty two.,1,1,0,0,Best thing from the '90s.
+246,Series 7,3,Twelve blush majesty two.,2,0,0,0,Excite Alex.
+247,Series 7,3,Twelve blush majesty two.,3,0,0,0,"Make the best noise. When you are ready to make your noise, you must say ""This is my best noise"". After you have made your noise, you must remain still and silent for at least 10 seconds."
+248,Series 7,3,Twelve blush majesty two.,4,0,0,0,Get this ball in that hole in as few strokes as possible. The ball must only be struck. The ball must never be carried.
+249,Series 7,4,OLLIE.,1,1,0,0,Most confusing thing.
+250,Series 7,4,OLLIE.,2,0,0,0,Work out what happens when you flick this switch on. You may not take this switch out of this room.
+251,Series 7,4,OLLIE.,3,0,0,0,Dramatically alter your appearance. You may start altering your appearance when you are inside the lift and the doors have closed. You must stop altering your appearance when the doors open again.
+252,Series 7,4,OLLIE.,4,0,0,0,Make these scales read 31.770kg. The scales must read 31.770kg for at least 5 seconds.
+253,Series 7,4,OLLIE.,5,0,1,0,Correctly don the most items of clothing.
+254,Series 7,4,OLLIE.,T,0,0,1,Make the best loo roll paper airplane.
+255,Series 7,5,Lotta soup.,1,1,0,0,Worst present from a named relative.
+256,Series 7,5,Lotta soup.,2,0,0,0,Deliver this task to Alex in the most spectacular way. Alex is in his caravan.
+257,Series 7,5,Lotta soup.,3,0,0,0,Make as many white circles on the target as possible. You must not step beyond this rope. You must not move the rope or the target.
+258,Series 7,5,Lotta soup.,4,0,0,0,Cheer up this former traffic warden.
+259,Series 7,5,Lotta soup.,5,0,0,0,Team: Make yourselves look as little or big as possible.
+260,Series 7,5,Lotta soup.,6,0,0,0,"Team Live: Taking it in turn, each team must dangle one of these items on the hanger. A different member of the team must dangle each time. Once you've touched one of the items, you must dangle it, and you must dangle it within 20 seconds of the previous dangler."
+261,Series 7,6,A coquettish fascinator.,1,1,0,0,Best key.
+262,Series 7,6,A coquettish fascinator.,2,0,0,0,Put exactly 50 different things in this bin.
+263,Series 7,6,A coquettish fascinator.,3,0,0,0,Team: Write and perform the most suspenseful soap opera cliff-hanger. Your scene may last no more than one minute.
+264,Series 7,6,A coquettish fascinator.,4,0,0,0,"In the lab, there are 10 pairs of glasses. The pairs of glasses may not leave the lab. Without breaking any of the pairs of glasses, put all the pairs of glasses into the smallest of these boxes. You must select your box before leaving the caravan, and may not then change your mind."
+265,Series 7,6,A coquettish fascinator.,5,0,1,0,"Get your doughnut as high as possible. You must be holding hands with the people on either side of you at all times. If your doughnut is in the air after the 100 seconds, its height will be measured from where it lands."
+266,Series 7,7,The perfect stuff.,1,1,0,0,Most exciting thing beginning with G.
+267,Series 7,7,The perfect stuff.,2,0,0,0,"Throw something into the bin on the other side of this fence. You may not use ladders, you may not touch the fence and you must stay this side of the fence."
+268,Series 7,7,The perfect stuff.,3,0,0,0,Don't blink.
+269,Series 7,7,The perfect stuff.,4,0,0,0,Team: Make the best extension to the Taskmaster House.
+270,Series 7,7,The perfect stuff.,5,0,0,0,Make the best Christmas cracker.
+271,Series 7,8,Mother honks her horn.,1,1,0,0,Creepiest thing.
+272,Series 7,8,Mother honks her horn.,2,0,0,0,Poke something out of the hole in the roof of this grotto.
+273,Series 7,8,Mother honks her horn.,3,0,0,0,Puzzle: C. Now look in the microwave (End task: Scream).
+274,Series 7,8,Mother honks her horn.,4,0,0,0,Compose the best 30 second piece of music.
+275,Series 7,8,Mother honks her horn.,5,0,1,0,Bob when you hear the surname of a famous Bob. Pat when you hear the surname of a famous Pat. Kneel when you hear the surname of a famous Neil. Stew when you hear the surname of a famous Stu. Wane when you hear the surname of a famous Wayne.
+276,Series 7,9,The pendulum draws the eye.,1,1,0,0,Most surprisingly beautiful thing.
+277,Series 7,9,The pendulum draws the eye.,2,0,0,0,"Put the most money in the small bowl. You may not touch the small bowl. The small bowl must not sink. Also, you must say your own name at least once every 30 seconds."
+278,Series 7,9,The pendulum draws the eye.,4,0,0,0,Hula.
+279,Series 7,9,The pendulum draws the eye.,5,0,0,0,"Find the sock with a satsuma inside. You may not look inside any of the socks. You may squeeze 5 socks, strike 10 socks and sniff 20 socks. You may put your hand inside 3 socks. You may put 11 socks on your feet."
+280,Series 7,9,The pendulum draws the eye.,7,0,1,0,Write your name and draw a happy horse on your overhead projector acetate upside down. You must not rotate or manipulate acetate.
+281,Series 7,10,I can hear it gooping.,1,1,0,0,Most magnificent stationery.
+282,Series 7,10,I can hear it gooping.,2a,0,0,0,"When you hear this siren during a future task, put on a boiler suit and lie flat on the ground. You may not touch or move a boiler suit until the siren sounds."
+283,Series 7,10,I can hear it gooping.,3,0,0,0,Find the boiled egg. You may touch two eggs. You may damage two eggs. You may not damage the boiled egg.
+284,Series 7,10,I can hear it gooping.,4,0,0,0,Physically recreate a classic computer game.
+285,Series 7,10,I can hear it gooping.,2b,0,0,0,Tie yourself up as securely as possible. **Siren sounds**
+286,Series 7,10,I can hear it gooping.,5,0,1,0,"Prod the person in front of you with either a finger or a sausage. If the prodded person guesses incorrectly whether they were prodded by a finger or a sausage, they get eliminated."
+287,Series 8,1,Hello.,1,1,0,0,Most powerful smell.
+288,Series 8,1,Hello.,2,0,0,0,Find the receiver of this baby monitor. You must leave your hat on.
+289,Series 8,1,Hello.,3,0,0,0,Make the best ventriloquist dummy and be chatted up by it.
+290,Series 8,1,Hello.,4,0,0,0,"Alex is on that bridge in the distance with lights on his head. Get as close as you can to Alex without him noticing you. Alex will duck down behind the wall for 10 seconds, then pop up for 10 seconds, then back down for 10 seconds, and so on until he notice you."
+291,Series 8,1,Hello.,5,0,1,0,Get the greatest weight of doughnuts in your bucket. You must have your hands on your hips at all times.
+292,Series 8,1,Hello.,T,0,0,1,Peel a banana using only your feet. You cannot touch the banana with your hands. The peeled banana cannot be damaged.
+293,Series 8,2,A novel about Russian Gulags.,1,1,0,0,Best pair of things.
+294,Series 8,2,A novel about Russian Gulags.,2,0,0,0,"Put something on your face that looks like a moustache from a long distance away, but when you get up close, you realise it's something completely different to what you thought."
+295,Series 8,2,A novel about Russian Gulags.,4,0,0,0,"Team: Tell your teammates what is in this chest. Your teammates must not see what is in the chest. After reading the task out, you may not speak until the task is over. In the first minute, you may only use facial expressions. In the second minute, you may only make noises. In the third minute, you may only shout adjectives. From then on, you may only whisper verbs."
+296,Series 8,2,A novel about Russian Gulags.,5,0,0,0,Travel the furthest distance while making a constant noise with your mouth.
+297,Series 8,2,A novel about Russian Gulags.,6,0,1,0,"Say a species of bird, eat a grape, then shout a competitor's name within five seconds of hearing your own name. If you fail to say a different species of bird, pop a grape in your mouth and shout a competitor's name within five seconds of hearing your own name, you will be eliminated. You must not say any bird that has previously been said during the task."
+298,Series 8,3,Stuck in a mammal groove.,1,1,0,0,Best burstable item.
+299,Series 8,3,Stuck in a mammal groove.,2,0,0,0,Build the best volcano.
+300,Series 8,3,Stuck in a mammal groove.,3,0,0,0,Work out what Alex Horne is wearing next door. Both you and Alex must stay in your seats at all times. Alex Horne may only communicate with Alex Horne's horn.
+301,Series 8,3,Stuck in a mammal groove.,4,0,0,0,"Alex is in the living room. In 20 minutes from now, you must apologise to Alex for something you've done in that time."
+302,Series 8,3,Stuck in a mammal groove.,5,0,1,0,"Get into one sleeping bag with your arms through the arm-holes, the zip zipped up and the hood on your head. Then stand to attention and salute the Taskmaster for a five full seconds. Then get into the other sleeping bag with your arms in the arm-holes, the zip zipped up and the hood on your head whilst still in your first sleeping bag. Then skip once."
+303,Series 8,4,The barrel dad.,1,1,0,0,Best present for a doctor.
+304,Series 8,4,The barrel dad.,2,0,0,0,Get this loo roll through the toilet seat. You must not lower the toilet seat.
+305,Series 8,4,The barrel dad.,3,0,0,0,Make the best thing to engage a toddler.
+306,Series 8,4,The barrel dad.,4,0,0,0,"Team: Put the most weight in the hammock without anything falling out of the hammock. If anything falls out of the hammock, you are disqualified."
+307,Series 8,4,The barrel dad.,5,0,1,0,"Choose a hoop that you think you can throw a frying pan into. Choose a distance from which you can throw a frying pan into that hoop. If you choose the big hoop, you have one attempt. If you choose the medium hoop, you have two attempts. If you choose the small hoop, you have three attempts."
+308,Series 8,4,The barrel dad.,T,0,0,1,"Standing behind this rope, whip the bottle off the barrel."
+309,Series 8,5,Stay humble.,1,1,0,0,Best face.
+310,Series 8,5,Stay humble.,2,0,0,0,Divert the sand from bucket A into bucket B. You may not touch the sand. You may not move the buckets. You may not leave the room.
+311,Series 8,5,Stay humble.,3,0,0,0,"Make the most realistic injury using food. If two or more people use tomato ketchup, they are disqualified."
+312,Series 8,5,Stay humble.,4,0,0,0,"Team: Have a long-distance game of catch with this beach ball. One team member must be filmed in one location throwing the ball out of shot. Another team member must then be filmed in another location, catching the ball correctly and throwing the ball out of shot and so on."
+313,Series 8,5,Stay humble.,5,0,0,0,"Herd the most ping-pong balls into the ping-pong pen. You may only touch the ping-pong balls with the basketball, the string or one little finger. You may not move the ping-pong pens.. Secret Instruction: Herd this ball and you halve your total."
+314,Series 8,5,Stay humble.,6,0,1,0,"Recreate the scene in the box. You will parade past it once, and must be touching the person in front of you throughout the parade."
+315,Series 8,6,Rock 'n' roll umlaut.,1,1,0,0,Best see-through item.
+316,Series 8,6,Rock 'n' roll umlaut.,2,0,0,0,Completely conceal yourself in this phone box. No part of you or your clothing may be visible from outside the phone box.
+317,Series 8,6,Rock 'n' roll umlaut.,3,0,0,0,Team: Design the most iconic album cover.
+318,Series 8,6,Rock 'n' roll umlaut.,4,0,0,0,"In five minutes, you must return this pack of cards to Alex in the lab and tell Alex the order that the cards are currently in. You may not leave this room during the five minutes."
+319,Series 8,6,Rock 'n' roll umlaut.,6,0,1,0,"Standing behind the first line, roll your loo roll beyond the second line. If your loo roll fails to cross the second line or falls from the runway, you are eliminated from the task."
+320,Series 8,7,This is Trevor.,1,1,0,0,Best slippery thing.
+321,Series 8,7,This is Trevor.,2,0,0,0,"Find the pink ladies. If you touch or move a bowl, you must turn it over. If you find the green egg, you are disqualified."
+322,Series 8,7,This is Trevor.,3,0,0,0,Choose an outfit that the contestant whose first name comes after yours alphabetically must wear throughout a future task.
+323,Series 8,7,This is Trevor.,4,0,0,0,Do the most powerful thing with your little finger.
+324,Series 8,7,This is Trevor.,5,0,0,0,Team Live: Do not release the green egg. Each team will be asked a question in turn. If you pull the string with the correct answer you will not release the green egg. A different member of your team must answer each time.
+325,Series 8,8,Aquatic sewing machine.,1,1,0,0,Nicest thing to hold.
+326,Series 8,8,Aquatic sewing machine.,2,0,0,0,Make the best picture in the sand of a former Taskmaster contestant using one of these implements. You must roll the dice to choose your implement. Nothing but air may touch the sand at any point.
+327,Series 8,8,Aquatic sewing machine.,3,0,0,0,Team: Catch all the red balls in things from the shed. Catch all the yellow balls in clothing. Don't let the green balls touch anything other than the grass. Catch the blue ball in something from the kitchen. You may not touch the ball machines. Any non-green ball that touches the ground at any point will not count.
+328,Series 8,8,Aquatic sewing machine.,4,0,0,0,Make this beach ball cross the finishing line. Only water can touch the beach ball.
+329,Series 8,8,Aquatic sewing machine.,5,0,1,0,"Complete the five-syllable word started by the Taskmaster. Honk your horn if you think you know what word the Taskmaster is going to say. If you guess it correctly after one syllable, you get five points. If you guess it after two syllables - four points etc. Guess it incorrectly, you lose all your points. You may only guess once per word."
+330,Series 8,9,I've been a bit ill.,1,1,0,0,Best form of protection.
+331,Series 8,9,I've been a bit ill.,2,0,0,0,"Bounce one of these balls so that it lands in that bin. After propelling the ball, you may not touch or strike it on its way to that bin. You must use the ball you touch first."
+332,Series 8,9,I've been a bit ill.,3,0,0,0,Devise the most delicious dust.
+333,Series 8,9,I've been a bit ill.,4,0,0,0,Team: Make yourselves look like one person.
+334,Series 8,9,I've been a bit ill.,5,0,1,0,"Stack the most bowls and plates on your head. You must stack them one at a time. Also, you must stand upright when you stack. Also, you may not touch a bowl or plate that is already stacked. Also, you must stack the bowls and plated alternately. Also, you must stay standing on your spot throughout the task."
+335,Series 8,10,Clumpy swayey clumsy man.,1,1,0,0,Best thing that will actually change your life for the better the most.
+336,Series 8,10,Clumpy swayey clumsy man.,3,0,0,0,Make yourself some tremendous pretend legs.
+337,Series 8,10,Clumpy swayey clumsy man.,4,0,0,0,"Follow the instructions on the signs and park this buggy in the parking bay. You have a maximum of 10 minutes to prepare your journey, during which you may not move any of the items on the course. Your journey must start from where the buggy is now. Also, you must be wearing this blindfold correctly at all times during your journey."
+338,Series 8,10,Clumpy swayey clumsy man.,5,0,1,0,"Correctly wearing these goggles, and with your eyes open at all times, retrieve your duck. You must stand on your spot and hold your stick by the handle. You must stay standing on your spot throughout the task."
+339,Series 9,1,Join our cult.,1,1,0,0,Most stressful thing.
+340,Series 9,1,Join our cult.,2,0,0,0,Hide three aubergines in this room.
+341,Series 9,1,Join our cult.,3,0,0,0,Arrange the lollies in rainbow order on the board in front of you. You may only take off your goggles if you find the dodo. You may only accuse one thing of being a dodo.
+342,Series 9,1,Join our cult.,4,0,0,0,Make the most dramatic entrance.
+343,Series 9,2,Butter in the microwave.,1,1,0,0,Best bag.
+344,Series 9,2,Butter in the microwave.,2,0,0,0,Correctly identify which bin Alex is in. You must adhere to the commandments behind the curtain. You may only have one guess. No bins are to be opened at any point during the task unless authorised.
+345,Series 9,2,Butter in the microwave.,3,0,0,0,"Draw a portrait of the Taskmaster using 16 A1 pages. You may not remove the A1 pages from the flipchart during your drawing. After the task, the A1 pages will be laid out in the pattern shown on the front page. You may only draw on the flipchart paper."
+346,Series 9,2,Butter in the microwave.,4,0,0,0,"Team: Complete this adventure (by saying the word demeaning). Unless otherwise stated, you must stick together and only open one task when you've completed the previous one."
+347,Series 9,2,Butter in the microwave.,5,0,1,0,Make a lovely little ball arrangement.
+348,Series 9,3,Five miles per day.,1,1,0,0,Weirdest wooden thing.
+349,Series 9,3,Five miles per day.,2,0,0,0,Go to the caravan. You must enter the caravan within 2 minutes of Alex entering the caravan.
+350,Series 9,3,Five miles per day.,3,0,0,0,Build the most robust statue of the most delicate thing using the materials provided and place it on the red cross. Your delicate thing must be recognisable on the red cross an hour after you finish and should leave you feeling enormously proud of your creation.
+351,Series 9,3,Five miles per day.,4,0,0,0,Break something into the most pieces and completely fix it.
+352,Series 9,3,Five miles per day.,5,0,1,0,"Wearing your blindfold correctly at all times, fill a pint glass with water. If you make a big mess, you are disqualified."
+353,Series 9,4,Quisps.,1,1,0,0,Best thing to celebrate with on a stage.
+354,Series 9,4,Quisps.,2,0,0,0,Make the most striking water feature.
+355,Series 9,4,Quisps.,3,0,0,0,Team: Bring a classic board game to life.
+356,Series 9,4,Quisps.,4,0,0,0,Say a letter of the alphabet.
+357,Series 9,4,Quisps.,5,0,1,0,"Throw your things far but not too far. Taking it in turns, you must select a thing and throw it beyond the line but not off the runway. If your thing does not end up in the safe zone, you are disqualified. If all the objects end up in the safe zone, the person who has thrown their thing the shortest distance is disqualified. You may not manipulate your things in any way before throwing them."
+358,Series 9,5,Another spoon.,1,1,0,0,Best defunct thing.
+359,Series 9,5,Another spoon.,2,0,0,0,Lasso Alex. You must stand behind this line at all times.
+360,Series 9,5,Another spoon.,3,0,0,0,"Make the most accurate and inventive egg timer. After which, Alex will boil an egg for as long as your egg timer lasts. The Taskmaster likes his eggs runny, but not too runny. You may not use any pre-existing timing devices."
+361,Series 9,5,Another spoon.,5,0,1,0,"Looking at your mirrors and facing forward at all times, build the highest tower of bricks on the table behind you. You must stay on your spot and use your litter pickers at all times."
+362,Series 9,6,Bready bready bready.,1,1,0,0,"The thing that, if you found it in a field, you'd be most pleased about."
+363,Series 9,6,Bready bready bready.,2,0,0,0,Make a part of your body look abnormally long.
+364,Series 9,6,Bready bready bready.,4,0,0,0,Serenade yourself.
+365,Series 9,6,Bready bready bready.,5,0,1,0,Slide a drink to the Taskmaster. The worst slider each round must leave the bar.
+366,Series 9,7,A cuddle.,1,1,0,0,Best thing they've taken from someone else's house.
+367,Series 9,7,A cuddle.,2,0,0,0,"Get an entire egg into one of those metal things. The highest single score wins. If you get an entire egg into one of these metal things without the egg breaking, the score is doubled. You may not move the chair or the metal things and you must release your egg while on the chair."
+368,Series 9,7,A cuddle.,3,0,0,0,Forge the best Mount Rushmore.
+369,Series 9,7,A cuddle.,4,0,0,0,Join your hands together so your palms are touching and each finger of one hand is touching the equivalent finger on the other hand. Your hands must stay in this position for the entirety of the task. Put the most gold rings on this drumstick.
+370,Series 9,7,A cuddle.,5,0,1,0,Read the Taskmaster's mind. The Taskmaster will choose a card. You must state if that card features a horse or a laminator. You will receive 1 point for every correct answer in a row.
+371,Series 9,8,Shaqinahat.,1,1,0,0,Best thing from a shed.
+372,Series 9,8,Shaqinahat.,2,0,0,0,Throw something into this pedal bin from the furthest distance. The pedal bin must be shut when you throw your thing.
+373,Series 9,8,Shaqinahat.,3,0,0,0,Write the best lyrics to the Taskmaster theme tune and perform them in the most memorable way.
+374,Series 9,8,Shaqinahat.,4,0,0,0,Team: Supply the sound for this film. You will have one chance to perform all the sounds in time with the film.
+375,Series 9,8,Shaqinahat.,5,0,1,0,"Without adjusting your welder's mask at any point, draw your own face on the front of your welder's mask. Your face should be the same size of your face and either very angry or very happy."
+376,Series 9,9,Don't like them go bang.,1,1,0,0,Most desirable smooth thing.
+377,Series 9,9,Don't like them go bang.,2,0,0,0,Give Alex a five-word instruction in the most spy-like way. You must not be seen or heard communicating with Alex in any way.
+378,Series 9,9,Don't like them go bang.,3,0,0,0,"Inflate, tie and pop as many balloons as possible in ten minutes. Once you pop your first balloon, you may not inflate any more balloons. If any balloons are still inflated after ten minutes, you are disqualified. Most popped balloons wins. Also, you may not look at a clock or any sort of timing device at any point."
+379,Series 9,9,Don't like them go bang.,4,0,0,0,"Make either a knee and an elbow, a knee and a knee or an elbow or an elbow look like a famous couple. You must only use your knees and elbows."
+380,Series 9,9,Don't like them go bang.,5,0,0,0,"Team Live: Standing in a queue, draw the most accurate pictures. Alex will show the person at the back of the queue a picture. The person at the back of the queue must draw this picture on the back of the person in front of them. The person at the front of the queue must draw the picture they think has been drawn on the back of their pad. No-one may communicate with anyone else."
+381,Series 9,10,Think about the spirit.,1,1,0,0,Best thing that is very long and thin.
+382,Series 9,10,Think about the spirit.,2,0,0,0,Do the most preposterous thing with this chickpea.
+383,Series 9,10,Think about the spirit.,3,0,0,0,Team: Make the best cup of tea in this tea cup. You must use all the equipment on the table. You must not use anything from the kitchen. You must wear the washing-up gloves throughout the task.
+384,Series 9,10,Think about the spirit.,4,0,0,0,"Complete the seven tasks. When you touch a task in any way, you must complete it before looking inside another task."
+385,Series 9,10,Think about the spirit.,5,0,1,0,"Pull the short breadstick. Taking it in turns, you must pull a breadstick out of the apron of the person next to you. Before each pull, the breadstick's bearer must point to one of the breadsticks, wink, and say ""This is the short breadstick"". If you pull the short breadstick, the breadstick bearer is disqualified."
+386,Series 9,10,Think about the spirit.,T,0,0,1,Make a pop-up toy pause for the longest before popping up. You may use on spread to make your toy pause longer.
+387,Series 10,1,God's haemorrhoid.,1,1,0,0,Nicest thing to put in your mouth.
+388,Series 10,1,God's haemorrhoid.,2,0,0,0,Knock the coconut off its perch.
+389,Series 10,1,God's haemorrhoid.,3,0,0,0,Make the largest object properly vanish. You may not use any editing trickery.
+390,Series 10,1,God's haemorrhoid.,5,0,1,0,"Get the most balls in your bucket. At the end of the task, all the balls in your bucket must be the same colour as each other. You will lose 5 points for every different coloured ball in your bucket. You may only touch your litter pickers and you must stay on your spot at all times."
+391,Series 10,2,A documentary about a despot.,1,1,0,0,Best thing with loads of holes in it.
+392,Series 10,2,A documentary about a despot.,2,0,0,0,Team: Find the treasure. Do not break the box.
+393,Series 10,2,A documentary about a despot.,3,0,0,0,"Make the best portrait of the Taskmaster and his favourite toy using only balloons, pegs, and your own clothes. Your portrait must fill this frame."
+394,Series 10,2,A documentary about a despot.,4,0,0,0,Get all the exercise balls in the hoops. You may not move the hoops or get out of the boat.
+395,Series 10,2,A documentary about a despot.,5,0,1,0,Guess the things that are making the noise.
+396,Series 10,2,A documentary about a despot.,T,0,0,1,"Select a wind-up toy dinosaur and release it from the starter mark. If it falls off the table, you are disqualified."
+397,Series 10,3,Point of swivel.,1,1,0,0,Best thing that probably has a spring in its mechanism.
+398,Series 10,3,Point of swivel.,2,0,0,0,Make the best upside down film.
+399,Series 10,3,Point of swivel.,3,0,0,0,"Put all the spaghetti into the grapefruit. The grapefruit may not leave this room. For the last eight minutes, you must stand with both feet on the spot on the floor."
+400,Series 10,3,Point of swivel.,4,0,0,0,"Catapult this shoe into the bath using a home-made catapult contraption. Only your feet may operate your catapult contraption. You may not move the bath or this red green, and you must build your catapult contraption on this red green."
+401,Series 10,3,Point of swivel.,5,0,0,0,Team Live: Draw a picture of the object on your card. You may not speak or communicate with with your team mates in any way. You must stay on your spots and not move the canvas or turntable.
+402,Series 10,4,Toshwash.,1,1,0,0,Cheekiest food.
+403,Series 10,4,Toshwash.,2,0,0,0,Make this phone ring.
+404,Series 10,4,Toshwash.,3,0,0,0,Secretly put something that looks amazing in your bag.
+405,Series 10,4,Toshwash.,4,0,0,0,Drop this water balloon from the greatest height without it bursting. You may not damage the water balloon or remove any water from it.
+406,Series 10,4,Toshwash.,5,0,1,0,"Roll an edible sphere across the finish line. The person whose edible sphere crosses the finish line first, each round, is eliminated. If your edible sphere stops moving before the finishing line, you are eliminated."
+407,Series 10,5,I hate your trainers.,1,1,0,0,Best pointy thing.
+408,Series 10,5,I hate your trainers.,2,0,0,0,Bag the heaviest thing from the furthest distance. Your attempt ends when you have bagged an item. Your score is the weight of the bagged object in grams multiplied by the distance from the bagging machine in centimetres.
+409,Series 10,5,I hate your trainers.,3,0,0,0,"Paint a picture of a howling wolf on this teapot. You may not touch the teapot or remove it from the turntable and you may not tamper with the turntable or its power. The turntable will keep speeding up until you have named 20 American states. If you do name 20 American states, the turntable will slow down."
+410,Series 10,5,I hate your trainers.,4,0,0,0,Do something out of character with this £20.
+411,Series 10,5,I hate your trainers.,5,0,0,0,Team: Eat the most watermelon. You must be wearing a boiler suit and goggles while you're eating the watermelon. You must not feed yourself.
+412,Series 10,5,I hate your trainers.,6,0,1,0,Say the most different words without hesitating for more than two seconds. The person who says the fewest words each round is eliminated.
+413,Series 10,6,Hippopotamus.,1,1,0,0,Most narcissistic thing.
+414,Series 10,6,Hippopotamus.,2,0,0,0,"Silently, make the tastiest and prettiest cocktail with the coolest name. If you make any noise over 60 dB, you must pour anything you've prepared into the bucket, shout your given phrase at a volume of over 100 dB and start again."
+415,Series 10,6,Hippopotamus.,3,0,0,0,Draw the animal that is watching you. The animal is wearing a hat. You may not leave this room and you must look in the mirror at all times.
+416,Series 10,6,Hippopotamus.,4,0,0,0,Get the most water from butt A into butt B. You may not move a butt in the first five minutes.
+417,Series 10,6,Hippopotamus.,5,0,0,0,"Team Live: Draw the animal named on your card. Each artist may draw three straight lines in their turn. The artist's teammates may have one guess after these three lines. If the guess is incorrect, the other team's artist can draw their straight lines. You may not speak or communicate with your teammates in any way."
+418,Series 10,7,Legit glass.,1,1,0,0,Best thing that is bigger at the top than the bottom.
+419,Series 10,7,Legit glass.,2,0,0,0,"Get to that finish line clutching chicken number 2. Get chicken number 1 across the start line aboard radio-controlled [contestant's name]. You must sit on the office chair at all times. If anything touches the little robots, your attempt is over."
+420,Series 10,7,Legit glass.,3,0,0,0,Team: Tell your team mate what is in this safe. You may speak into this microphone and they will hear your message played backwards.
+421,Series 10,7,Legit glass.,4,0,0,0,"Make the best marble run. After releasing your marble, you may not touch your marble, nor do anything to affect its movement."
+422,Series 10,7,Legit glass.,5,0,1,0,Communicate to the Taskmaster the item on your card. You may only make noises. You may not use any actions or anything that sounds like a word.
+423,Series 10,7,Legit glass.,T,0,0,1,Work out how many sheets there are on a loo roll.
+424,Series 10,8,Moments of silence.,1,1,0,0,Best thing with wings.
+425,Series 10,8,Moments of silence.,2,0,0,0,Fill this cup so that it overfloweth. The cup must remain atop the cup pole at all times. Only liquids may touch the red green.
+426,Series 10,8,Moments of silence.,3,0,0,0,Learn your lines.
+427,Series 10,8,Moments of silence.,4,0,0,0,"Drink one full tablespoon of coconut water. If you use the same coconut water extraction method as another contestant, you will be disqualified."
+428,Series 10,8,Moments of silence.,5,0,0,0,Team Live: Stare at your opponent without blinking. You must both be pulling the face that the Taskmaster chooses.
+429,Series 10,9,Air Horn Andy.,1,1,0,0,Best bedding.
+430,Series 10,9,Air Horn Andy.,2,0,0,0,"Make the biggest beer mat house on this table. While making your biggest beer mat house, you must ring the doorbell after exactly one minute, then after 58 more seconds, then 56 seconds and so on until 0 seconds. If you make more than two mistakes with the doorbell timing, you will be disqualified."
+431,Series 10,9,Air Horn Andy.,3,0,0,0,"Complete the most tasks. There is one task behind each door. You may choose the order to open the doors. You may only move when the doors are moving and you must stay on this side of the white line. During the task, you must tell Alex which door to open within one minute of the previous door closing."
+432,Series 10,9,Air Horn Andy.,4,0,0,0,Work out how many balls are in the basket. Every ball must be in the basket when you make your guess.
+433,Series 10,9,Air Horn Andy.,5,0,1,0,Draw this monster the Taskmaster is going to describe.
+434,Series 10,10,Dog meat trifle.,1,1,0,0,Greatest collection.
+435,Series 10,10,Dog meat trifle.,3,0,0,0,Team: Perform this song.
+436,Series 10,10,Dog meat trifle.,4,0,0,0,Neatly hang all of Bernard's clothes on that coat rail. You must stay behind the line at all times.
+437,Series 10,10,Dog meat trifle.,5,0,1,0,"Wearing mittens at all times, balance either all the mints or all the biscuits on a spaghetti bridge. The mints or biscuits must only touch spaghetti. The spaghetti must be balanced on the coconuts. The coconuts must remain on their stands."
+438,Series 10,10,Dog meat trifle.,T,0,0,1,How many green eggs are under the Taskmaster's chair?
+439,Series 11,1,It's not your fault.,1,1,0,0,"Best thing you can carry, but only just."
+440,Series 11,1,It's not your fault.,2,0,0,0,Do the most impressive thing under the table with one hand. You must be looking at the camera and waving with your other hand throughout your impressive thing.
+441,Series 11,1,It's not your fault.,3,0,0,0,Catch the rat. You must be at least three metres from the rat when you catch it. The rat will run across the red green in 30 minutes.
+442,Series 11,1,It's not your fault.,4,0,0,0,"Deliver all the plates to Alex. When carrying the plates you must be traveling by scooter, or bicycle or hoverboard. For every plate fallen or broken you have 20 minutes added to your time."
+443,Series 11,1,It's not your fault.,5,0,1,0,"Stack your buckets so that they are taller than you, then put one beanbag on top of the buckets. You may not leave your spot at any point."
+444,Series 11,2,The Lure of the Treacle Puppies.,1,1,0,0,Best drinking vessel.
+445,Series 11,2,The Lure of the Treacle Puppies.,2,0,0,0,Make the balloon hover untethered for 20 seconds. During the hovering the top of the balloon must not be higher than your chin and the bottom of the balloon must not be lower than your waist. Also you must sneer throughout the 20 seconds.
+446,Series 11,2,The Lure of the Treacle Puppies.,3,0,0,0,"Team: Have an argument. You must take it in turns to angrily make a point using nor more than 10 words, and you must always end your point with a different four-letter word. You must look at each other throughout the argument and the person speaking must angrily wag their finger during their speech. The argument is over when there is ten seconds of silence, or when one of you looks away."
+447,Series 11,2,The Lure of the Treacle Puppies.,4,0,0,0,Make the house haunted.
+448,Series 11,2,The Lure of the Treacle Puppies.,5,0,1,0,Correctly guess your standing in the group. The Taskmaster will read out a category. Then you must hold the number that reflects your standing in the group.
+449,Series 11,3,Run up a tree to the moon.,1,1,0,0,Most shocking thing bigger than a cat but smaller than a pig.
+450,Series 11,3,Run up a tree to the moon.,2,0,0,0,Make the sauna stones hiss. You must be standing behind the rope when the sauna stones hiss. You may not move the sauna stones or this rope. You may not use a hose.
+451,Series 11,3,Run up a tree to the moon.,3,0,0,0,Create the best new way to remember how many days each of the months has.
+452,Series 11,3,Run up a tree to the moon.,4,0,0,0,"Get all of your luggage through security. You must stay inside the maze until your luggage has been through the x-ray machine. You may go under one rope, and release one rope. You may also disconnect one pole completely, but you must then pick up that pole and carry it for the rest of the task. If any of your luggage touches any of the barriers, the maze will restart and you must start again."
+453,Series 11,3,Run up a tree to the moon.,5,0,0,0,Team Live: Act out a nursery rhyme for the Taskmaster to guess. You must remain silent and on your spots throughout.
+454,Series 11,4,Premature conker.,1,1,0,0,Craziest thing.
+455,Series 11,4,Premature conker.,2,0,0,0,Get all of the banana in the bottle. You may not break the bottle. The bottle may not leave the lab.
+456,Series 11,4,Premature conker.,3,0,0,0,"Team: Put the bag of salt on that table over there. No one may move whilst holding the bag of salt. If the bag of salt touches the ground at any point, you must return to your starting point. If any bell touches the ground at any point, you must return to your starting point. You may not touch the rope or your belts."
+457,Series 11,4,Premature conker.,4,0,0,0,Get this sheet of loo roll as far from here as possible. Only this sheet of loo roll may touch the ground. The loo roll must not break at any point and the loo roll inner tube must stay on the loo roll holder at all times.
+458,Series 11,4,Premature conker.,5,0,1,0,Write down what five things are in the bowl under the table and how many of each thing there are. You must look at the Taskmaster throughout this task. One of your hands must be in the bowl and the other must be holding your pen throughout the task.
+459,Series 11,5,Slap and tong.,1,1,0,0,Best thing you can operate with your hand.
+460,Series 11,5,Slap and tong.,2,0,0,0,Cover your lower half in biodegradable clingfilm and gaffer tape so that no part of your lower half isn't covered in biodegradable cling film and gaffer tape.
+461,Series 11,5,Slap and tong.,3,0,0,0,Make the best uniform for this bee. You must wear your beekeeping outfit throughout the task.
+462,Series 11,5,Slap and tong.,4,0,0,0,"Arrange the seven objects in a line on the table in order of how many sides they have. Fewest side on the left, most sides on your right. You may only touch the objects with your face. If anything falls from the table, you are disqualified. You must put on your darkness goggles now."
+463,Series 11,5,Slap and tong.,5,0,0,0,"Team Live: Grab the marshmallow with your tongs. When the Taskmaster says ""play"", you have 10 seconds to grab the marshmallow. Once your tongs are over the table, you must attempt to grab the marshmallow. If you successfully grab the marshmallow, you win."
+464,Series 11,6,Absolute casserole.,1,1,0,0,Most annoying thing.
+465,Series 11,6,Absolute casserole.,S,0,0,0,Fart.
+466,Series 11,6,Absolute casserole.,2,0,0,0,Make the best portrait of the Taskmaster on this door using only your feet.
+467,Series 11,6,Absolute casserole.,3,0,0,0,Team: Vandalise this wall.
+468,Series 11,6,Absolute casserole.,4,0,0,0,"Identify the contents of the battered items in this fish and chips order. You may: lick and sniff all of the items, bite into two, squeeze one between your elbows, really stamp on one, look at one through a magnifying glass, and put one in a glass of water."
+469,Series 11,6,Absolute casserole.,5,0,1,0,"Tie the very ends of the string to the arms of the glasses, then put the glasses on."
+470,Series 11,6,Absolute casserole.,T,0,0,1,Fire as many rubber bands as possible into Alex's bum bag.
+471,Series 11,7,You've got no chutzpah.,1,1,0,0,Best thing to hang on a wall that you wouldn't normally hang on a wall.
+472,Series 11,7,You've got no chutzpah.,2,0,0,0,Complete these tasks. You may not step beyond this line. You had ten minutes from when the fire was lit.
+473,Series 11,7,You've got no chutzpah.,3,0,0,0,Make the best babushka meal. Each course must be presented inside the previous course.
+474,Series 11,7,You've got no chutzpah.,4,0,0,0,"Team: Get out of the front gate setting off the alarm the fewest times. Every time the alarm goes off, you must start again. You must only step on your stepping stones."
+475,Series 11,7,You've got no chutzpah.,5,0,1,0,Make your rubber gloves and wellies as heavy as possible whilst wearing your rubber gloves and wellies. You must only put things in your rubber gloves for the first minute.
+476,Series 11,8,An orderly species.,1,1,0,0,Most satisfying wobbly thing.
+477,Series 11,8,An orderly species.,2,0,0,0,"Say the word ""metronome"" between every tick of this metronome. You may not touch or stop the metronome. Also, you must blow up and tie a balloon so it's bigger than your head, neatly gift wrap the balloon, and eat three whole poppadoms."
+478,Series 11,8,An orderly species.,3,0,0,0,"Team: Draw the best picture of a British animal. Each person must fill in one section at a time and may not look at any other section during that time. Every section must be used, and you may not communicate with each other in any way during the task."
+479,Series 11,8,An orderly species.,4,0,0,0,"Record the greatest aircraft safety announcement then perform the greatest aircraft safety demonstration. Your announcement must be in an accent or language other than your own, and your demonstration must be unforgettable."
+480,Series 11,8,An orderly species.,5,0,1,0,"Stand on either one leg or both legs. You must do so, one at a time, behind this curtain, with your hands on your head. The Taskmaster will then guess if your standing on either one leg or both legs. If he guesses correctly, you are eliminated."
+481,Series 11,9,Mr Octopus and Pottyhands.,1,1,0,0,Nattiest knitwear.
+482,Series 11,9,Mr Octopus and Pottyhands.,2,0,0,0,Make the most impressive and realistic weather for Taskmaster island. Your weather must last for no more than a minute.
+483,Series 11,9,Mr Octopus and Pottyhands.,3,0,0,0,"Build a tower, then topple your tower so that yoghurt lands in a numbered square. You have one yoghurt and one toppling attempt."
+484,Series 11,9,Mr Octopus and Pottyhands.,4,0,0,0,Look the most different in four different photos taken by the camera. The camera will spin round three times and take a picture every time it faces the frame. You must not hinder the camera or the spinning mechanism in any way. You must be in all four photos.
+485,Series 11,9,Mr Octopus and Pottyhands.,5,0,1,0,Shove your fish onto the target using your mop. You must shove your fish within 10 seconds of Alex laying down your fish. Furthest from the target ten seconds after each round is eliminated.
+486,Series 11,10,Activate Jamali.,1,1,0,0,The thing that makes you look the toughest.
+487,Series 11,10,Activate Jamali.,2,0,0,0,Make the best picture of a big scary dinosaur using this photocopier. You may not leave the garage.
+488,Series 11,10,Activate Jamali.,3,0,0,0,Scientifically work out how much Alex's feet and head weigh. You may not use the internet.
+489,Series 11,10,Activate Jamali.,4,0,0,0,Team: Direct your teammate into the red circle. You must stay on your chair at all times. You may only issue one instruction of three words every 30 seconds.
+490,Series 11,10,Activate Jamali.,5,0,1,0,"Keeping your head still at all times, correctly don your special outfit. For every second your head is out of the frame, 10 seconds will be added to your time. Put your hands in the air when you are correctly dressed."
+491,Series 12,1,An imbalance in the poppability.,1,1,0,0,"The thing that if you put it in a bag and sat on it, it would feel the nicest."
+492,Series 12,1,An imbalance in the poppability.,3,0,0,0,Paint the most flattering picture of the Taskmaster in action on the canvas in the lab. The canvas will either be six inches or six feet above you. You must lie flat on your back on the creeper at all times. You must tell Alex if you want the canvas to be six inches or six feet above you within the next ten seconds.
+493,Series 12,1,An imbalance in the poppability.,4,0,0,0,Pop the balloon. You must stay behind the rope at all times. You must not move the rope. You may buy the tools you need with time. Fastest wins.
+494,Series 12,1,An imbalance in the poppability.,5,0,1,0,"Write down a cool hobby, a fun animal and a famous person."
+495,Series 12,2,Oatmeal and death.,1,1,0,0,Most awesome square.
+496,Series 12,2,Oatmeal and death.,2,0,0,0,Team: Scale the mountain. Your attempt must last exactly five minutes and will be sped up by five times afterwards. Most thrilling ascent wins.
+497,Series 12,2,Oatmeal and death.,3,0,0,0,"Work out the contents of these bags. You may not open the bags. You can either ask Alex to make one tiny hole in each bag and have five minutes examination time during which you must eat at least one big spoonful from each bag, or ask Alex to put all the contents in a blender for one minute and then have ten minutes examination time during which eating is optional."
+498,Series 12,2,Oatmeal and death.,4,0,0,0,"Completely paint this space hopper green without making any mess. The entire space hopper must be green. The entire space hopper must stay in the dome. When you are satisfied that you are finished, put your hands on your hips and bow deeply at your green space hopper. Fastest and least messy wins."
+499,Series 12,2,Oatmeal and death.,5,0,1,0,Put on the medallion. You must not take off your jacket or break the box. Fastest wins.
+500,Series 12,3,The end of the franchise.,1,1,0,0,Most old-fashioned thing that you still use.
+501,Series 12,3,The end of the franchise.,2,0,0,0,"Copy Alex. Alex will demonstrate his actions twice, then you will have one attempt to copy Alex. Closest copy wins."
+502,Series 12,3,The end of the franchise.,4,0,0,0,Film the most thrilling 30-second sequence wearing the welly-cam.
+503,Series 12,3,The end of the franchise.,5,0,0,0,Team Live: Correctly guess your teammate's object. Your teammate will represent their object through the medium of shadows on the screen. Fastest correct guess wins two actual points per round.
+504,Series 12,4,The customised inhaler.,1,1,0,0,Best thing that has quite a few layers.
+505,Series 12,4,The customised inhaler.,2,0,0,0,"Complete the course as slowly as possible. You must be riding the bicycle forwards within the limits of the course at all times. Every time you put a foot on the ground, the clock will be paused and your final time will be halved. If you leave the course or miss an instruction, your time will also be halved and the clock will be paused until you are back in position. Slowest wins."
+506,Series 12,4,The customised inhaler.,3,0,0,0,Spread jam on a slice of toast in a really cool way. Coolest jam spreading wins.
+507,Series 12,4,The customised inhaler.,5,0,1,0,Get the most forks in your bucket. You may only throw a fork after a full spin on your chair. You must stay sat in your chair at all times and you may not move your chair.
+508,Series 12,5,Croissants is croissants.,1,1,0,0,Most elegant thing beginning with G.
+509,Series 12,5,Croissants is croissants.,3,0,0,0,"Team: Get the most balls in the net. Everyone must stay on their spots at all times. If anyone other than the task reader touches or handles a ball, you lose five balls from your ball total. Also, the person on the middle spot must sit for ten seconds and then stand up straight for ten seconds on repeat. Any balls remaining between the task reader and the middle person will be deducted from your ball total."
+510,Series 12,5,Croissants is croissants.,4,0,0,0,Prevent Alex from scoring a goal. The ball and goalpost must be on their spots when Alex attempts to score a goal. You must be 12 yards from the ball when Alex attempts to score. Slowest goal scored by Alex wins.
+511,Series 12,5,Croissants is croissants.,5,0,1,0,"Pop the most balloons. You may pop between one and ten balloons each turn. If you pop one of the five bad balloons, you are disqualified. The eventual winner gets ten actual points."
+512,Series 12,6,A chair in a sweet.,1,1,0,0,"Most desirable thing for the person below you in the alphabet, or the highest alphabetically if you're the lowest alphabetically."
+513,Series 12,6,A chair in a sweet.,2,0,0,0,Land the iron on the ironing board from the furthest distance. The ironing board must be standing at it's maximum height when the iron lands on it and the iron must remain on the ironing board for the attempt to count.
+514,Series 12,6,A chair in a sweet.,3,0,0,0,Make a cute toy for a cute dog. The dog will have five minutes with your cute toy. Most engaged dog wins.
+515,Series 12,6,A chair in a sweet.,4,0,0,0,"Sit on the red chair in the secret tower. You may only step on circles on your way. You may only stand on each circle once, unless it is black. You may stand on a black circle twice, but never twice in a row. Also you must put this task in the shredder within the first minute. If you fail for any reason, Alex will blow his whistle. Return everything to its starting position and you must start again. Fastest wins."
+516,Series 12,6,A chair in a sweet.,5,0,1,0,Choose the number of sheets you want for the second part of the task. Each sheet will reduce your points total by five.
+517,Series 12,7,The integrity of the product.,1,1,0,0,Most ridiculous thin thing.
+518,Series 12,7,The integrity of the product.,2,0,0,0,Put up a shelf for all the Taskmaster's snooker balls. All the Taskmaster's snooker balls must be at the Taskmaster's eyeline. Only the Taskmaster's snooker balls may be on the finished shelf. Fastest wins.
+519,Series 12,7,The integrity of the product.,3,0,0,0,"Write and perform a 30-second jingle. You must reach into the barrel to find the subject of your jingle, then pop a balloon to discover the instrument that you must play under your jingle."
+520,Series 12,7,The integrity of the product.,4,0,0,0,Either get the pipe through the box and everything in it then get the box and everything in it through the pipe or get the box and everything in it through the pipe then get the pipe through the box and everything in it. Fastest wins.
+521,Series 12,7,The integrity of the product.,5,0,1,0,"Each person must direct their fellow contestants to draw an image. The drawing director may only use the following words: line, circle, square, big, small, up, down, left, right, middle, please, bendy. At the end of one minute, the drawers must write down what they think the image is. The drawers will receive one point per correct guess. The drawing director will also receive one point per correct guess. Most points overall wins."
+522,Series 12,8,A couple of Ethels.,1,1,0,0,Best thing you use for something other than its actual purpose.
+523,Series 12,8,A couple of Ethels.,2,0,0,0,"Make and wear a popcorn necklace with at least five pieces of popcorn and then do the opposite of the following: You must under no circumstances not avoid not making the bell not ring. The task is over when you have either rung the bell or not rung the bell and said ""I did the right thing"" three times. Fastest to not do the wrong thing wins. If you don't do the right thing, you lose five points."
+524,Series 12,8,A couple of Ethels.,3,0,0,0,Team: Play the most brilliant minute of socially-distanced sport.
+525,Series 12,8,A couple of Ethels.,4,0,0,0,Make your face look like another face when your face is turned upside-down. Most expressive and radically different upside-down face wins.
+526,Series 12,8,A couple of Ethels.,5,0,1,0,"Pop up before the object, but only just. You are only allowed to pop up once. Closest to the pop before the pop wins the round. If you pop up after the object, you get no points that round."
+527,Series 12,8,A couple of Ethels.,T,0,0,1,Blow the feather across the table using only your nose.
+528,Series 12,9,Nothing matters.,1,1,0,0,40 things that are all the same and can all fit on a towel and are the best.
+529,Series 12,9,Nothing matters.,2,0,0,0,"Have the longest telephone conversation without the other person knowing you are trying to have a long telephone conversation. During the call, you must not mention television or Taskmaster. Every minute, you must reveal and carry out an action from the board. If the person you call says any of the key words, you must hang up immediately. You must call someone within two minutes from now."
+530,Series 12,9,Nothing matters.,3,0,0,0,Strike the soldier with your throwing paint. The soldier will say your name every five seconds. You may not remove or tamper with your helmet. Fastest wins.
+531,Series 12,9,Nothing matters.,4,0,0,0,Get goosebumps. Your goosebumps must be revealed in the lab. Fastest wins.
+532,Series 12,9,Nothing matters.,5,0,0,0,"Team Live: Get the highest score by sliding your ducks. Each team will slide a pair of ducks three times. The duck slider must smirk at the Taskmaster whilst sliding their ducks. The winning team will receive five points per person, the losing team will get zero."
+533,Series 12,10,Caring Uncle Minpict.,1,1,0,0,Most magnificent floppy thing.
+534,Series 12,10,Caring Uncle Minpict.,2,0,0,0,Drink all this drink with your mouth open. Your mouth must be visibly open throughout. Fastest wins.
+535,Series 12,10,Caring Uncle Minpict.,3,0,0,0,"Team: Using your whole body to make individual characters, describe the Taskmaster. Your description must be a minimum of 20 characters long. Most vivid description wins."
+536,Series 12,10,Caring Uncle Minpict.,4,0,0,0,Propose to Alex in the most irresistible way.
+537,Series 12,10,Caring Uncle Minpict.,5,0,1,0,"One at a time, make a noise without the Taskmaster identifying you. The person who makes the most unidentifiable noises wins."
+538,Series 13,1,The noise that blue makes.,1,1,0,0,"The thing that, if you found it in a skip, you would be most excited by."
+539,Series 13,1,The noise that blue makes.,2,0,0,0,Find all 10 ducks. You must stay in the lab. Fastest wins.
+540,Series 13,1,The noise that blue makes.,3,0,0,0,Create the best picture of the Taskmaster using only lipstick on your lips.
+541,Series 13,1,The noise that blue makes.,4,0,0,0,Devise a duel and have the duel with Alex. Most exhilarating duel wins.
+542,Series 13,1,The noise that blue makes.,5,0,1,0,"Count to 13 as a group, each player taking it in turns to say a number. Every time you say an odd number, you must also squat. Every time you say an even number, you must also jump. If you make a mistake, you are out. If you reach 13 or someone is eliminated, other rules will be introduced. If the Taskmaster thinks you have hesitated for too long, you will be eliminated."
+543,Series 13,2,Birdy hand finger.,1,1,0,0,The object that you would most like to show to an alien.
+544,Series 13,2,Birdy hand finger.,2,0,0,0,Either tie a ribbon round the maypole or strike it with a ping pong ball. You must be properly blindfolded at all times and must never step beyond the rope. Fastest wins.
+545,Series 13,2,Birdy hand finger.,3,0,0,0,Reveal the coolest photo in your phone.
+546,Series 13,2,Birdy hand finger.,4,0,0,0,Team: Score a goal with each of the exercise balls. You may only move the exercise balls on the pitch when driving the buggy. Each person must score a goal using their own personal wheels to drive the buggy and no-one may score two goals in a row. Fastest hat-trick wins.
+547,Series 13,2,Birdy hand finger.,5,0,1,0,Identify the object under your table and draw it on the canvas on the underside of your table. You must also write down three words to describe your object. Most accurate drawing wins. You must also stare menacingly at the Taskmaster at all times.
+548,Series 13,3,I think I've got this.,1,1,0,0,The item that sounds funniest when you say its name over and over again.
+549,Series 13,3,I think I've got this.,2,0,0,0,Accurately and emotionally recreate a great moment from history using these two traffic cones. Most accurate and emotional recreation wins.
+550,Series 13,3,I think I've got this.,3,0,0,0,Make all of these things happen at the same time. The monsters must be squatting. The robot must be walking. The marble must be rolling. The cradle must be clicking. The sand must be falling. The fidget spinner must be spinning. The candles must be out. You must applaud when you think you've finished. Fastest wins.
+551,Series 13,3,I think I've got this.,5,0,0,0,"Team Live: As a team, put one of your faces and one of your legs through the hole. The Taskmaster will guess whether the leg belongs to the face or the other contestant. Most wrong guesses after three rounds wins."
+552,Series 13,4,Shoe Who.,1,1,0,0,Best night-time thing.
+553,Series 13,4,Shoe Who.,2,0,0,0,Display the shoe Alex is thinking of. All the other shoes must be out of sight at the end of the attempt. You may only ask yes or no questions and you must say/do your given phrase/action after every answer. Fewest questions wins.
+554,Series 13,4,Shoe Who.,3,0,0,0,"Team: Give Alex the best stag minute. By the end of the stag minute, Alex must be ready to get married."
+555,Series 13,4,Shoe Who.,4,0,0,0,Make a stirring speech for the Taskmaster out of this bunting. Longest speech that is deemed to be stirring by the Taskmaster wins. You may only use the letters currently on the bunting.
+556,Series 13,4,Shoe Who.,5,0,1,0,"Taking it in turns, roll a tyre down the Knappett. You must roll from on the stage. If your tyre does not pass the line, you may not roll any further tyres. If both your dolls topple, you may not roll any further tyres. Last doll standing wins."
+557,Series 13,4,Shoe Who.,T,0,0,1,Turn over the most beer mats.
+558,Series 13,5,Having a little chuckle.,1,1,0,0,Most surprising thing from their wardrobes.
+559,Series 13,5,Having a little chuckle.,2a,0,0,0,Make this key difficult but possible to retrieve.
+560,Series 13,5,Having a little chuckle.,3,0,0,0,"Give Alex a high-five. The third-fastest high-fiver wins. If you are the first or the last, you will receive no points. You must high-five Alex within 10 minutes."
+561,Series 13,5,Having a little chuckle.,4,0,0,0,"Make the water level rise to the top of the big fish tank. You have 15 minutes to gather six things, then you must put all six things in the big fish tank. You may not put anything in the big fish tank before the 15 minutes are up and if any water leaves the big fish tank at any point, you are disqualified. Closest water level to the top of the big fish tank wins. No fish tanks may leave this room."
+562,Series 13,5,Having a little chuckle.,2b,0,0,0,"Answer Alex's phone call. If you find a cuddly toy, you must carry it with you until you answer Alex's phone call. Also, you must be making a noise over 50dB for at least 50% of the time until you answer Alex's phone call. Fastest wins."
+563,Series 13,5,Having a little chuckle.,5,0,1,0,"Pop three red balls out of your hole. You may only pop out one ball at a time. If you pop out a black ball, you must stop popping out balls and scream for five seconds. If you pop out a white ball, everyone must stop popping out balls and dance like a worm for five seconds. If you pop out a duck, you are disqualified. Also, you must stare lovingly at the Taskmaster throughout the task. Fastest wins."
+564,Series 13,6,The 75th question.,1,1,0,0,Most calming item.
+565,Series 13,6,The 75th question.,2,0,0,0,Use the cement mixer for something other than mixing cement. Best use of a cement mixer other than mixing cement wins. Your time starts when Alex does an impression of you.
+566,Series 13,6,The 75th question.,3,0,0,0,Record the highest number on this pedometer.
+567,Series 13,6,The 75th question.,4,0,0,0,Hold a meeting with yourselves. There must be eight of you at the meeting. Most dramatic meeting moment wins.
+568,Series 13,6,The 75th question.,5,0,1,0,"Correctly guess this person's first name. You must ask a yes or no question on your turn. If you take more than ten seconds to ask your question, you miss a go. The person who guesses correctly wins five points."
+569,Series 13,6,The 75th question.,T,0,0,1,"Sing ""I've won"" in a low voice and ""this tiebreak"" in a high voice. Greatest vocal range wins."
+570,Series 13,7,Heg.,1,1,0,0,Nicest thing to put your finger in.
+571,Series 13,7,Heg.,2,0,0,0,Show off. Biggest show-off wins.
+572,Series 13,7,Heg.,3,0,0,0,"Team: Deliver a cocktail to Greg. Your cocktail must have the following ingredients: three different liquids shaken and stirred, one piece of fruit, quite a bit of ice. Every ingredient must pass through a head pipe before entering the Taskmaster's glass. Fastest wins."
+573,Series 13,7,Heg.,4,0,0,0,Sculpt the most beautiful sculpture. Your sculpture must weigh exactly 150g and be entirely edible.
+574,Series 13,7,Heg.,5,0,1,0,"Build the tallest tower of toilet rolls in front of your spot. After 100 seconds, you will throw both of your shoes at the towers one at a time from the throwing spot. Whoever builds the tallest tower will throw first. Tallest toilet roll tower after all shoes are thrown wins."
+575,Series 13,8,You tuper super.,1,1,0,0,Loveliest thing to hold above your head.
+576,Series 13,8,You tuper super.,2,0,0,0,"Learn Swedish. You'll have a five-minute conversation with a Swedish person in 15 minutes from now. The phrasebook and tablet must remain in the caravan. Best demonstration of the Swedish language wins. Your time started when you first said ""Swedish""."
+577,Series 13,8,You tuper super.,3,0,0,0,"Stick your tongue out as far as it will go and keep it out until further notice. Every time Alex blows his whistle, you must lick the lemon, then the sherbet, then the ice lolly. Every time Alex honks his horn, you must hold your tongue in front of the fan for five seconds. The tongue that sticks out for the longest time wins."
+578,Series 13,8,You tuper super.,5,0,0,0,"Team Live: Write down five things that fit the category given by the Taskmaster. Your team will receive a point if both player write down the same thing. If someone from the other team writes the same word as you, that word must be wiped from the boards. The team with the most points wins. You have 30 seconds to write your things and must be silent and still throughout."
+579,Series 13,9,It might be wind.,1,1,0,0,Best object with a handle.
+580,Series 13,9,It might be wind.,2,0,0,0,Get the most surprising thing delivered to the Taskmaster house.
+581,Series 13,9,It might be wind.,3,0,0,0,Make the longest cup snake and lie down next to it outside this building. You may only leave the building twice.
+582,Series 13,9,It might be wind.,4,0,0,0,Poke a part of your body out of the shower curtain and waggle it about for 10 seconds. The Taskmaster will guess what part of the body it is. Biggest part of the body that the Taskmaster incorrectly identifies wins.
+583,Series 13,9,It might be wind.,5,0,1,0,"Write down how many tin cans you think can fit in your bag. The highest predicted number fitted in a zipped-up bag within one minute wins. If you don't zip up your bag or fit your predicted number of tin cans in your bag, you will be disqualified."
+584,Series 13,10,The house queens.,1,1,0,0,Finest family heirloom.
+585,Series 13,10,The house queens.,2,0,0,0,Identify the liquids. Most accurately identified liquids wins.
+586,Series 13,10,The house queens.,3,0,0,0,"Get the most ducks in Alex's basket. You may only hold one duck at a time. If Alex rings his backwards bell, you must walk backwards until he honks his forwards horn. Alex will pedal as fast as he can unless you say one of the magic words. If you say a magic word, Alex will rest for 10 seconds. All the magic words are single-use magic words."
+587,Series 13,10,The house queens.,4,0,0,0,Team: Record the best multi-track song about your team. You must record all six tracks with your voice or body and each person must record the same number of tracks. Most powerful multi-track song wins.
+588,Series 13,10,The house queens.,5,0,1,0,Draw a life-size self-portrait. Your nose must be poking through your nose hole at all times. Most accurate self-portrait wins.
+589,Series 14,1,"The chassis, the wings.",1,1,0,0,Most jaw-dropping item.
+590,Series 14,1,"The chassis, the wings.",2,0,0,0,What 10 films are you in?
+591,Series 14,1,"The chassis, the wings.",3,0,0,0,Land loo roll in the loo. You must stay on the spot at all times.
+592,Series 14,1,"The chassis, the wings.",4,0,0,0,Team: Create the best picture of a bird on the black square. You may not step on or do anything to the black square. Alex will walk towards you every time you name a different bird. Alex will stop moving every time you name a different fish.
+593,Series 14,1,"The chassis, the wings.",5,0,1,0,"Get the most weight on the seesaw without popping the balloon. Taking it in turns, you must place a single item of your additional clothing in the triangular basket. If you pop the balloon, you get zero points."
+594,Series 14,2,Enormous hugeness.,1,1,0,0,Best thing you nearly keep throwing away but can't quite bring yourself to.
+595,Series 14,2,Enormous hugeness.,2,0,0,0,"Print, laminate and distribute the most signs. Each of your signs must be placed on a different seat and all your signs must have a different instruction."
+596,Series 14,2,Enormous hugeness.,3,0,0,0,Put five grapes in the little bowl. You must wear the flippers as gloves for the entire five minutes.
+597,Series 14,2,Enormous hugeness.,4,0,0,0,"Sort the ducks and socks. Ducks go in the front bucket. Socks go in the back bucket. All ducks and socks must travel along both treadmills then fall directly into the correct bucket. If a duck or sock lands on the floor, you may not retrieve it."
+598,Series 14,2,Enormous hugeness.,5,0,0,0,"Team Live: Make the Taskmaster say your words. Each team will ask one question at a time and each question must be made up of exactly six words. Also, each team member must take it in turns to say two words of each question."
+599,Series 14,3,Dafty in the middle.,1,1,0,0,The thing that you most want on a Sunday morning.
+600,Series 14,3,Dafty in the middle.,2,0,0,0,"Team: Place half your hands on half your hips and leave them there until the second part of the task is over. Also, the hands that are on hips must only touch those hips until the second part of the task is over."
+601,Series 14,3,Dafty in the middle.,3,0,0,0,Identify the ice cream flavours. You must find every flavour delicious.
+602,Series 14,3,Dafty in the middle.,4,0,0,0,Catch something.
+603,Series 14,3,Dafty in the middle.,5,0,1,0,"Predict whether an item will create a higher or lower number of decibels than the previous item. If you are wrong, you are out."
+604,Series 14,4,Crumbs in my bralette.,1,1,0,0,Greatest addition to a garden.
+605,Series 14,4,Crumbs in my bralette.,2,0,0,0,Turn on the bubble machine. You may not step off or move the doormat.
+606,Series 14,4,Crumbs in my bralette.,3,0,0,0,"Get this tarpaulin completely in one of the containers. You have a maximum of five minutes and you must select your container before you touch the tarpaulin. Also, you must tidy everything up within those five minutes."
+607,Series 14,4,Crumbs in my bralette.,4,0,0,0,Write down five wonderful words.
+608,Series 14,4,Crumbs in my bralette.,5,0,1,0,"Throw your egg and your spoon the same distance. Both egg and spoon must cross the qualifying line. If either your egg or your spoon fall off the Knappett, you are disqualified. The most distanced egg and spoon each round are out. If your egg doesn't break, your distance is halved."
+609,Series 14,5,Chip Biffington.,1,1,0,0,Most useless thing that you've bought that costs over £20.
+610,Series 14,5,Chip Biffington.,2,0,0,0,Get the most pleasure from all of these rubber chutes.
+611,Series 14,5,Chip Biffington.,3,0,0,0,Team: Perform the best routine to this musical backing.
+612,Series 14,5,Chip Biffington.,4,0,0,0,"Place one luggage trolley a certain distance away from the line. Then, starting behind the line, strike that trolley with another luggage trolley. If you strike the first luggage trolley with another luggage trolley, you may move the first luggage trolley further away. You may not move any unsuccessful luggage trolleys."
+613,Series 14,5,Chip Biffington.,5,0,0,0,Team Live: One member of your team must write down 10 animals in two minutes.
+614,Series 14,6,Long-legged lobster.,1,1,0,0,Best thing you've ever received in the post.
+615,Series 14,6,Long-legged lobster.,2,0,0,0,"Within 30 seconds of opening this task, you must pick up both milk bottles and hold them directly above the microwaves. The clock stops when a milk bottle, hand or arm touches a microwave or is no longer directly above a microwave. Lowest number on the clock wins, but if the clock reaches zero, you are disqualified."
+616,Series 14,6,Long-legged lobster.,3,0,0,0,"Get to the end of the lanes in exactly the same amount of time. That time must be under one minute. Also, you must mirror yourself during your attempts."
+617,Series 14,6,Long-legged lobster.,4,0,0,0,"Strike the bullseye with your paint. You must only step on the stepping stones and you must step on all the stepping stones. Also, your hands must be below your waist at all times."
+618,Series 14,6,Long-legged lobster.,5,0,1,0,Paint a picture of a unicorn using your head brush. You may not handle your head brush at any point.
+619,Series 14,7,The system of endless plates.,1,1,0,0,The thing you would most like to have with you on a car journey.
+620,Series 14,7,The system of endless plates.,2,0,0,0,"Choose a room and a weapon, then wait further instructions."
+621,Series 14,7,The system of endless plates.,3,0,0,0,"Team: Get this feather into the bath. You must not touch the feather and the feather must not touch the ground. After the feather has left its cushion, it must not touch a single thing for more than five seconds in total. The cushion must not leave the lab. If you make any mistake at all, Alex will blow his whistle and you must start all over again. Finally, you must not say any words at any point from now on."
+622,Series 14,7,The system of endless plates.,4,0,0,0,Make an exercise ball touch Bernard. Bernard can't move. You may launch an exercise ball from behind the line and may not touch any balls after each launch.
+623,Series 14,7,The system of endless plates.,5,0,1,0,"Blow an item the furthest on the Knappett. If your item falls from the Knappett, you are disqualified. The person who blows something the least far each round is eliminated unless someone is disqualified. You must all select your blowers and items for each round before any blowing commences and you must not use the same blower or item twice."
+624,Series 14,8,The one that bats do.,1,1,0,0,Best fancy dress.
+625,Series 14,8,The one that bats do.,2,0,0,0,Team: Come up with a secret language that doesn't use words.
+626,Series 14,8,The one that bats do.,3,0,0,0,Pin an alluring tail on the alluring animal while blindfolded.
+627,Series 14,8,The one that bats do.,4,0,0,0,Find the back of your hand.
+628,Series 14,8,The one that bats do.,5,0,0,0,Team Live: Guess the fully-extended length of the extendable item.
+629,Series 14,9,A new business end.,1,1,0,0,Most underestimated item.
+630,Series 14,9,A new business end.,2,0,0,0,"Snort, then blow a raspberry, then whistle, then repeat that sequence for one minute."
+631,Series 14,9,A new business end.,3,0,0,0,Write a one-minute one-person play.
+632,Series 14,9,A new business end.,4,0,0,0,Choose one item from each plinth and bring them into the lab.
+633,Series 14,9,A new business end.,5,0,1,0,Tie your towel as tightly as possible around your body.
+634,Series 14,10,Did I meet these potatoes before?,1,1,0,0,The thing of yours that the Taskmaster would most like to own.
+635,Series 14,10,Did I meet these potatoes before?,2a,0,0,0,Order three things for your final task. You may spend up to £50.
+636,Series 14,10,Did I meet these potatoes before?,3,0,0,0,Eat the grape. You must not damage the caravan or climb out the window.
+637,Series 14,10,Did I meet these potatoes before?,4,0,0,0,Team: Sculpt your team. Only one person may look at the clay and that person may not touch the clay.
+638,Series 14,10,Did I meet these potatoes before?,2b,0,0,0,Throw one of your objects over the caravan. Then completely cover one of your items with one of your other items. Then put the covered item on the wooden barrel without touching that item with your hands.
+639,Series 14,10,Did I meet these potatoes before?,5,0,1,0,"Land a balloon nearest the Taskmaster. You must stay on your spot at all times. If you strike the Taskmaster with a balloon, you're disqualified."
+640,Series 15,1,The curse of politeness.,1,1,0,0,Most dependable thing that weighs about 1kg.
+641,Series 15,1,The curse of politeness.,2,0,0,0,"Have the best first dance at a wedding with Alex. You can choose whatever music you want, but must be wearing these headphones throughout. Your first dance must last no more than a minute."
+642,Series 15,1,The curse of politeness.,3,0,0,0,Completely unwind this ball of string. Your time started when you said Alex's name.
+643,Series 15,1,The curse of politeness.,4,0,0,0,Get all the rubber rings on your bargepole. You may not touch the bargepole or rubber rings at any point.
+644,Series 15,1,The curse of politeness.,5,0,1,0,"Throw your items into your bucket. You must select one item when Alex blows his whistle. You must then throw that item when Alex blows his whistle again. If your bucket falls, you are disqualified. You must stay on your spot and you must not move your spot."
+645,Series 15,2,Trapped in a loveless marriage.,1,1,0,0,"The object which, whenever you look at it, makes you feel the weirdest."
+646,Series 15,2,Trapped in a loveless marriage.,2,0,0,0,Compose a solo for this musician. The solo must be original and less than 30 seconds long.
+647,Series 15,2,Trapped in a loveless marriage.,3,0,0,0,"Team: Build the highest bridge over the middle of the red green and balance the potato on the middle of the bridge. The potato may not be anchored in any way. If anything touches the red green, you must put everything back where you found it, tut and go back to the drawing board."
+648,Series 15,2,Trapped in a loveless marriage.,4,0,0,0,Achieve the most impressive effect with a single breath.
+649,Series 15,2,Trapped in a loveless marriage.,5,0,1,0,"Create a recognisable picture of an animal on the back of your t-shirt using the equipment provided. You must stay on your spot, and you must not move your spot. If you create the same animal as someone else, you will both be disqualified."
+650,Series 15,3,I love to squander promise.,1,1,0,0,Most heroic thing.
+651,Series 15,3,I love to squander promise.,2,0,0,0,"Exit the caravan exactly 20 minutes after you entered the caravan. Also, to complete the task, you must write down and say 40 words. Each word must either be the same length or shorter than the previous word."
+652,Series 15,3,I love to squander promise.,3,0,0,0,Catch the potatoes in the potato hat. You must be sitting on the catching stool wearing your potato hat and you must not touch anything at any point. Anything in your hat that is not a potato will be subtracted from your potato total.
+653,Series 15,3,I love to squander promise.,4,0,0,0,"Team: Choreograph the most elaborate and enthralling fight scene, then perform it in slow motion. Your fight scene must take five minutes and will then be sped up so that it lasts one minute."
+654,Series 15,3,I love to squander promise.,5,0,1,0,Know the most facts about sausages.
+655,Series 15,4,How heavy is the water?,1,1,0,0,Most fun thing to wear on your head that you aren't supposed to wear on your head.
+656,Series 15,4,How heavy is the water?,2,0,0,0,Strike the most drum skins and cymbals with a single throw of a bouncy ball.
+657,Series 15,4,How heavy is the water?,3,0,0,0,"Make the fastest egg boat. Your egg boat must look like a boat and transport an egg. If your egg boat sinks or loses its egg, you are disqualified. Also, all your materials must start with the same letter and you can't order anything boaty."
+658,Series 15,4,How heavy is the water?,4,0,0,0,Complete a line or four corners.
+659,Series 15,4,How heavy is the water?,5,0,1,0,"Pour your sand into the other bottle. You must pour your sand from at least a foot above your other bottle. If there is a break in your sand stream, you are disqualified."
+660,Series 15,5,Old Honkfoot.,1,1,0,0,Luckiest thing.
+661,Series 15,5,Old Honkfoot.,2,0,0,0,Fake something.
+662,Series 15,5,Old Honkfoot.,3,0,0,0,"Play the instrument indicated by the light. Each time you play an instrument correctly, another will be added to the sequence until you make a mistake."
+663,Series 15,5,Old Honkfoot.,4,0,0,0,"Team: Salvage the most spoons. You may not leave the lab and all spoons must be salvaged with a magnet. Your salvager must not remove their headwear. Also, from now on, you must speak in a very high-pitched voice."
+664,Series 15,5,Old Honkfoot.,5,0,0,0,"Team Live: Stuff all these things in your teammate's outfit. If you're wearing a special outfit, you must stay on your spot with your hands on your head at all times."
+665,Series 15,6,It's my milk now.,1,1,0,0,Best thing to play about with in your bathroom.
+666,Series 15,6,It's my milk now.,2,0,0,0,"Invent an imaginary companion, then complete a domestic task with your imaginary companion. Your imaginary companion must either be much taller or much littler than you."
+667,Series 15,6,It's my milk now.,3,0,0,0,Efficiently shell an egg. You may not touch any part of any egg with your hands and you may only break the shell of one of the eggs.
+668,Series 15,6,It's my milk now.,4,0,0,0,"Bash the big bell with the bowling ball. Fastest gets five points. Slowest gets four points. Nobody else gets any points. You must stay off the grass unless you are wearing gold shoes. If anything other than the bowling ball or gold shoes touches the grass, you are disqualified."
+669,Series 15,6,It's my milk now.,5,0,1,0,"Walk around the chairs listening to Greg's story, then sit on a chair when you hear a word containing two letter Ls. If you stop walking or touch a chair incorrectly, you are disqualified. If you fail to sit on a chair when you hear a word containing two letter Ls, you are disqualified."
+670,Series 15,7,Schrodinger's egg.,1,1,0,0,Most brilliant thing that pops up.
+671,Series 15,7,Schrodinger's egg.,2,0,0,0,"Rotate the pulper wheel without pulping the egg. You must not move from this spot at any point. If you pulp the egg, you are disqualified."
+672,Series 15,7,Schrodinger's egg.,3,0,0,0,Team: Completely free yourselves and have a team hug.
+673,Series 15,7,Schrodinger's egg.,4,0,0,0,"Write down a number between 0 and 100, a length of time between 1 minute and 20 minutes, five ingredients, a country, a noun and an adjective."
+674,Series 15,7,Schrodinger's egg.,5,0,1,0,Say the word given to you by the Taskmaster in the accent on the card you choose. The Taskmaster will guess what accent you are doing.
+675,Series 15,8,100% Bosco.,1,1,0,0,Best thing you take everywhere with you but struggle to fit in your bag.
+676,Series 15,8,100% Bosco.,2,0,0,0,Pile the pineapples on the path. You must not get wet.
+677,Series 15,8,100% Bosco.,3,0,0,0,Repurpose this umbrella and demonstrate its new purpose.
+678,Series 15,8,100% Bosco.,4,0,0,0,"Put the most stuff on top of this jelly without breaking the jelly. If anything other than jelly touches the duck, you are disqualified."
+679,Series 15,8,100% Bosco.,5,0,0,0,"Team Live: Using only the scratching posts, remove as many balls from your suit as possible. Your teammates may throw balls from the throwing spots throughout. The throwing spots may not be moved. Also, if you're in a team of three, the two non-suit wearers must hold hands throughout."
+680,Series 15,9,A show about pedantry.,1,1,0,0,Sneakiest thing.
+681,Series 15,9,A show about pedantry.,2,0,0,0,Team: Make these things the same colour as those things. People and bottles must stay on their spots at all times. You may perform 10 bottle stamps and two bottle squeezes.
+682,Series 15,9,A show about pedantry.,3,0,0,0,Put three single-digit numbers in the slots then open the second task.
+683,Series 15,9,A show about pedantry.,4,0,0,0,"Make exactly 99 holes in this piece of paper. Your holes must have a diameter of at least three millimetres and form a recognisable picture or pattern. If you make more or fewer than 99 holes, you are disqualified. Also, if you look at Alex or speak to Alex at any point, you are disqualified."
+684,Series 15,9,A show about pedantry.,5,0,1,0,Combine two of your things to equal the height of the thing said by Greg. You may not use any of your things twice. Worst guess each round is eliminated.
+685,Series 15,10,A yardstick for failure.,1,1,0,0,Best Greg Davies merchandise that isn't on the market but should be on the market.
+686,Series 15,10,A yardstick for failure.,2,0,0,0,"Fill the glass up to the line from the furthest distance. If you use a hose and someone else uses a hose, both hose users are disqualified."
+687,Series 15,10,A yardstick for failure.,3,0,0,0,"Do what Alex does immediately after Alex does it in exactly the same time as Alex does it. You must press your button when you're satisfied you have done what Alex has done. If you do not complete an activity, 10 seconds will be added to your time."
+688,Series 15,10,A yardstick for failure.,4,0,0,0,"Team: Write the name of a profession in this hole, then open the task."
+689,Series 15,10,A yardstick for failure.,5,0,1,0,"Convince the Taskmaster that your feet are not in ice when they are in ice or that your feet are in ice when they aren't in ice. You must keep your feet either in ice or not in ice for 30 seconds before the Taskmaster makes his judgement. If the Taskmaster is correct, you are disqualified."
+690,Series 15,10,A yardstick for failure.,T,0,0,1,Scream the loudest with your mouth closed.
+691,Series 16,1,The natural friends.,1,1,0,0,Most wonderful wooden thing that they've owned for a while.
+692,Series 16,1,The natural friends.,2,0,0,0,Build a tower out of the cans in the lab. You must put on your blindfold in this room and wear it properly for the rest of the task.
+693,Series 16,1,The natural friends.,3,0,0,0,Team: Connect the most individual parts of one person to individual parts of another person. All members of your team must be connected.
+694,Series 16,1,The natural friends.,4,0,0,0,"Get the duck into the lake. You must not touch the beak. If the duck leaves the course, it must re-enter at the point it left the course. If your duck touches the boundary or a flamingo or a pineapple, one minute will be added to your time."
+695,Series 16,1,The natural friends.,5,0,1,0,"Say whether you think the next item is heavier or lighter than the previous item. If you are wrong, you are eliminated."
+696,Series 16,2,Hell is here.,1,1,0,0,Best sign.
+697,Series 16,2,Hell is here.,2,0,0,0,Pull the sword from the stone. You may not force the sword or break the stone.
+698,Series 16,2,Hell is here.,3,0,0,0,"Make a cheeky picture on this piece of wood using nails and one continuous piece of wire. Also, if any egg timers stop, you must stare at the camera shaking your head for 10 seconds."
+699,Series 16,2,Hell is here.,4,0,0,0,Make mischief.
+700,Series 16,2,Hell is here.,5,0,1,0,Write down one thing you like and one thing you don't like.
+701,Series 16,2,Hell is here.,T,0,0,1,Learn pi to the most decimal places.
+702,Series 16,3,Languidly.,1,1,0,0,The present you've been given that raises the most questions.
+703,Series 16,3,Languidly.,2,0,0,0,"Get the ball in the hole. Nothing may touch the ball. After you touch one tool, you may not touch another tool for one minute. If you decide to touch the welly, you must only do so with your foot."
+704,Series 16,3,Languidly.,3,0,0,0,"Get underneath the most unique things. Alex will write down your things when you shout ""I'm underneath it"". If you get underneath something that someone else gets underneath, you both lose five things from your total."
+705,Series 16,3,Languidly.,4,0,0,0,Choose a new nickname based on something you do in the next 20 minutes.
+706,Series 16,3,Languidly.,5,0,0,0,"Team Live: One member of your team must lie on three of the squares and go to sleep. After they have taken their position, they must not move until the task is over. Taking it in turns, the other team members must try to land their cushion in each of the three sleep squares."
+707,Series 16,4,Dynamite chicks.,1,1,0,0,Best thing for a grown-up that is meant for a child.
+708,Series 16,4,Dynamite chicks.,2,0,0,0,"Make a sausage. You can only use seven ingredients, each beginning with the letters of the word ""sausage"". You may not order sausages."
+709,Series 16,4,Dynamite chicks.,3,0,0,0,"Team: Complete all the tasks, then put the tubs back on your heads. One person must be looking at a teammate at all times during the tasks. Also, one person must be shaking their head and smiling at all times during the tasks and one person must only shout."
+710,Series 16,4,Dynamite chicks.,4,0,0,0,"Recreate a well-known piece of art on these memo squares. You must draw on every memo square, but you may only look at one memo square at a time."
+711,Series 16,4,Dynamite chicks.,5,0,1,0,Write the name of a different animal on each face of your dice. The most boring animal rolled will be eliminated.
+712,Series 16,4,Dynamite chicks.,T,0,0,1,Tut the loudest.
+713,Series 16,5,Skateboard division.,1,1,0,0,Best thing that has five things on it.
+714,Series 16,5,Skateboard division.,2,0,0,0,Burst this balloon from the furthest distance. You must not be looking at the balloon when you burst it.
+715,Series 16,5,Skateboard division.,3,0,0,0,Make the most cool but scary gang using these eyes.
+716,Series 16,5,Skateboard division.,4,0,0,0,"Get all the water in the vase. If you spill any water from the plate, you are disqualified. You may not leave the lab."
+717,Series 16,5,Skateboard division.,5,0,1,0,Sip your drink. You may only touch the loo roll and you may not reach over the line.
+718,Series 16,6,Brother Alex.,1,1,0,0,Greatest thing that makes quite a loud noise when you shake it.
+719,Series 16,6,Brother Alex.,2,0,0,0,Avoid the rubbish robots. You may not remove your blindfold at any point and at least one of your knees must be touching the floor throughout.
+720,Series 16,6,Brother Alex.,3,0,0,0,Team: Recreate your teammate's garage scene.
+721,Series 16,6,Brother Alex.,4,0,0,0,"Present a piece called ""Heads, Shoulders, Knees and Toes""."
+722,Series 16,6,Brother Alex.,5,0,1,0,"Pass the pineapples amongst you for 15 seconds while the Taskmaster shuts his eyes and has a little think. When the Taskmaster opens his eyes, he will say if he thinks you are holding a pineapple behind your back or not. If he accuses you wrongly, you will get a point."
+723,Series 16,7,I'm off to find a robin.,1,1,0,0,The thing that is most guaranteed to make you groan.
+724,Series 16,7,I'm off to find a robin.,2,0,0,0,Do whatever you like with these switches for five minutes. You will then do a task in the lab for five minutes. The conditions in the lab will change according to when you switch the switches in here.
+725,Series 16,7,I'm off to find a robin.,3,0,0,0,"Pie Wayne in the face. Wayne is outside the front door. You may not touch Wayne nor step on the red green. If you miss Wayne with the pie, you must copy Wayne's dance moves for 10 seconds."
+726,Series 16,7,I'm off to find a robin.,4,0,0,0,"Put yourself somewhere within the boundary. The person furthest from everyone else wins. The people closest together both lose two points. Also, throughout the task, you must behave really weirdly."
+727,Series 16,7,I'm off to find a robin.,5,0,1,0,"Catch three balls on your head. After you've caught a ball, you must shout ""ball"". You may not step off your circles, move your circles, adjust your arms or touch the balls with your hands."
+728,Series 16,7,I'm off to find a robin.,T,0,1,1,"From your seated position, fire the contents of your party popper furthest."
+729,Series 16,8,Never packed a boot.,1,1,0,0,Best single-word object you own and love that gets the best reaction when introduced following a drum roll.
+730,Series 16,8,Never packed a boot.,2,0,0,0,"This is not a team task. Find the secret task. You must never be in the same room as each other. Whenever the air horn sounds, you must replace anything you are holding and change rooms. Everyone must find the secret task before the task ends."
+731,Series 16,8,Never packed a boot.,3,0,0,0,Complete the fortune trail.
+732,Series 16,8,Never packed a boot.,4,0,0,0,"Convince a child you're asleep. You must either have a nap lasting one minute with your face visible throughout - during this nap, you must snore and sleepwalk - or you must have a nap lasting one minute where you are not in bed at all, but the child thinks you are. During this nap, you must snore and sleeptalk."
+733,Series 16,8,Never packed a boot.,5,0,0,0,"Team Live: Mime the proverb on your card. There will be three minute-long rounds. You must be waving at each other throughout your attempt, but you can make a single noise of the Taskmaster's choosing."
+734,Series 16,9,Fagin at the disco.,1,1,0,0,The bit of old crap that Greg likes the best.
+735,Series 16,9,Fagin at the disco.,2,0,0,0,"Drive across the finish line. You must obey all the rules of the road and must only stop your vehicle at a traffic signal. If you disobey a rule, Alex will blow his whistle and you must return to the start for a 10-second driving lesson."
+736,Series 16,9,Fagin at the disco.,3,0,0,0,Make Greg the best gift. Your items must cost no more than £50.
+737,Series 16,9,Fagin at the disco.,4,0,0,0,Feed the clown the most cards. No part of you must cross the threshold of the stage.
+738,Series 16,9,Fagin at the disco.,5,0,1,0,Watch Alex's parade then answer the questions. You may not make any notes during the parade.
+739,Series 16,10,Always forks and marbles.,1,1,0,0,"The thing that, when you turn it round, gives you the biggest shock."
+740,Series 16,10,Always forks and marbles.,2,0,0,0,Do something shocking but family-friendly with this doughnut.
+741,Series 16,10,Always forks and marbles.,3,0,0,0,"Demonstrate the most effective high-intensity four-part exercise routine. Each of your four exercises must be original and must take place on this mat. The first must last eight seconds, the second four, the third two and the fourth one second long."
+742,Series 16,10,Always forks and marbles.,4,0,0,0,Team: Give your guest the best service.
+743,Series 16,10,Always forks and marbles.,5,0,1,0,"Throw a ball into the bathtub from behind the rope. You may not touch the rope. If a ball ends up not in the bathtub, you are eliminated."
+744,Series 17,1,Grappling with my life.,1,1,0,0,"Most glorious thing that sounds a bit like ""Greg Davies"" if you mumble it."
+745,Series 17,1,Grappling with my life.,2,0,0,0,Do the riskiest thing involving this egg without breaking this egg.
+746,Series 17,1,Grappling with my life.,3,0,0,0,"Team: Create the best single picture of an animal doing something surprising. All six blinds must be fully and equally involved in your picture. You may not see each other's work and you may only say two words at a time. After the task, your pieces will be lined up next to each other in this order: 1) Shortest Wikipedia entry, 2) Best show at the Edinburgh Fringe winner, 3) Smallest shoe size, 4) The person whom Alex said ""hello"" to first, 5) Most Twitter followers, 6) Lowest-scoring full name in Scrabble. You may not move outside of your segment."
+747,Series 17,1,Grappling with my life.,4,0,0,0,Hoopla Gary before he crosses the finish line. Your time is doubled every time one of your limbs gets wet.
+748,Series 17,1,Grappling with my life.,5,0,1,0,Bring your sausage to life. You may not write any words on your drawing.
+749,Series 17,1,Grappling with my life.,T,0,0,1,Which chess piece is not in the peas chest?
+750,Series 17,2,Jumungo.,1,1,0,0,Most fun thing to turn upside down.
+751,Series 17,2,Jumungo.,2,0,0,0,Rescue the cat. The cat must come out of the top hole. Your head may not enter the dome. The door must remain closed.
+752,Series 17,2,Jumungo.,3,0,0,0,Team: Do the most epic thing using green material and this green screen onesie.
+753,Series 17,2,Jumungo.,4,0,0,0,"Stick the heaviest thing to the board using three of the ingredients on the shelves. Once you've chosen your ingredients, you may not change your mind. You must choose your thing in the first two minutes."
+754,Series 17,2,Jumungo.,5,0,0,0,Team Live: Guess the movie that your teammate is saying. Your teammate can only say the first three letters of each word of the movie title.
+755,Series 17,3,Some impropriety?,1,1,0,0,Best thing for a person that is meant for an animal.
+756,Series 17,3,Some impropriety?,2,0,0,0,"Work out who is following you. You must stare at the duck at all times and take an average-length step towards the duck every time it quacks. If the person following you agrees with you, they will say the name of a mammal. If the person following you disagrees with you, they will say the name of a bird. If the person following you doesn't know if they agree or disagree with you, they will say the name of an amphibian."
+757,Series 17,3,Some impropriety?,3,0,0,0,Complete the jobstacle course. Each job must be completed to a satisfactory-quality level. The baby must remain in the baby carrier at all times except during nappy change.
+758,Series 17,3,Some impropriety?,4,0,0,0,Create tension.
+759,Series 17,3,Some impropriety?,5,0,1,0,Catch the most monsters in your boxes. The monsters must propel themselves from the table.
+760,Series 17,4,Apropos of Apoppo.,1,1,0,0,Greatest thing to give to a granny.
+761,Series 17,4,Apropos of Apoppo.,2,0,0,0,"Work out who you are shaking hands with. You must only shake hands with the hands and you may not handle the hands in any other way. You may chop off a total of three fingers and one thumb but if you set off the health and safety emergency alarm, you are disqualified. Also, you may not look around, over, under or through the fence."
+762,Series 17,4,Apropos of Apoppo.,3,0,0,0,Create the biggest and best dot-to-dot picture.
+763,Series 17,4,Apropos of Apoppo.,4,0,0,0,"Team: Fastest team to (go to the lab,) discover the (cake, eat one half, put the) other half (in the post box, put a flower on top) of this (task and then sit on top of this) task wins (five points.) You must (not necessarily) always hold hands. (That's up to you.)"
+764,Series 17,4,Apropos of Apoppo.,5,0,1,0,"Pass all your loo roll through your loo roll inner tube. If your loo roll breaks at any point, you must put down your loo roll and put both your hands in the air for 10 seconds before carrying on."
+765,Series 17,5,Snooker cue umbrella chin.,1,1,0,0,Most extraordinary picture.
+766,Series 17,5,Snooker cue umbrella chin.,2,0,0,0,"Be the most impressive load bearer. You must stand on the doormat, wave with one hand above your head and give a nice big thumbs up with the other whilst bearing the most impressive load. Your load must not be touching anything other than you."
+767,Series 17,5,Snooker cue umbrella chin.,3,0,0,0,Take the most dramatic photo of yourself in mid-air. You may take five photos.
+768,Series 17,5,Snooker cue umbrella chin.,4,0,0,0,"Tie yourself to the bed. You must be horizontal whilst in the lab. If you pull down the terrible tie, you are disqualified."
+769,Series 17,5,Snooker cue umbrella chin.,5,0,1,0,Park a vehicle in the parking bay. Your vehicle must be rolled whilst standing on the spot and the worst parker each round is eliminated.
+770,Series 17,6,A three ring man.,1,1,0,0,Best thing that you can get into.
+771,Series 17,6,A three ring man.,2a,0,0,0,Make a bespoke personal hamper for [the contestant before you in the alphabet].
+772,Series 17,6,A three ring man.,3,0,0,0,Have the most exciting thumb war with Alex.
+773,Series 17,6,A three ring man.,4,0,0,0,"Team: Make the most moves on the movement circles. Your teammate must flip a bottle, then throw a dart at each dartboard to create a move. If they get a bulls-eye, you have free choice. Also, if they successfully land the bottle flip, your teammate may place a dart anywhere in the dartboard."
+774,Series 17,6,A three ring man.,2b,0,0,0,Create a picture of the person who gave you this hamper using the contents of this hamper.
+775,Series 17,6,A three ring man.,5,0,0,0,Team Live: Completely cover your teammate in rubber rings. Catchers must face the Taskmaster at all times with their hands above their head. Throwers must stay behind the white line.
+776,Series 17,7,Dream date territory.,1,1,0,0,Snazziest hollow thing.
+777,Series 17,7,Dream date territory.,2,0,0,0,What have you caught? You may only give one answer.
+778,Series 17,7,Dream date territory.,3,0,0,0,"Perform a recognisable piece of classical music without using any musical instrument. You may not hum, sing, whistle or that sort of thing."
+779,Series 17,7,Dream date territory.,4,0,0,0,"Take Alex to one side and do the following things to him: Confess your favourite piece of kitchen equipment, scream a body part of your choice in his face, declare a gardening tool in a silly voice."
+780,Series 17,7,Dream date territory.,5,0,1,0,"Paint a face on your ball. You may not touch your balls with anything other than your tools. Also, you may not remove your helmet."
+781,Series 17,8,The umbrella wink.,1,1,0,0,The thing of yours Greg would most like to squeeze in his mighty hands.
+782,Series 17,8,The umbrella wink.,2,0,0,0,"Flick, flip and flap a flip-flop, flan and flapjack. You may only flick, flip and flap once."
+783,Series 17,8,The umbrella wink.,3,0,0,0,"In the next task, you must say the word ""umbrella"" five times. If you say the word ""umbrella"" five times and no-one else says the word ""umbrella"", you get two bonus points. Your teammates must hear you say your umbrellas and you must not mention the concept of a bonus task. If you fail, you lose two points."
+784,Series 17,8,The umbrella wink.,4,0,0,0,Make this mannequin come alive.
+785,Series 17,8,The umbrella wink.,5,0,1,0,Write down a letter of the alphabet.
+786,Series 17,9,Assistantbury.,1,1,0,0,Most splendid spherical thing.
+787,Series 17,9,Assistantbury.,2,0,0,0,Create a new tradition to celebrate Assistant's Day.
+788,Series 17,9,Assistantbury.,3,0,0,0,"Peg a sock, bin a sock, then don a sock on an appendage. Each single action must take place between bleeps."
+789,Series 17,9,Assistantbury.,4,0,0,0,Make the back of your head look like the front of a head. You may not just make a mask. You must demonstrate your new front-of-head in action.
+790,Series 17,9,Assistantbury.,5,0,1,0,"Bounce a ball on the bar. In round one, your ball must bounce once before falling off the bar. In round two, your ball must bounce twice before falling off the bar, and so on. Each player has one life."
+791,Series 17,10,Ambience and information.,1,1,0,0,The thing that gives the most hope for the future of the human race.
+792,Series 17,10,Ambience and information.,2,0,0,0,Find and complete the real task. Each task has a 1% chance of being the real task.
+793,Series 17,10,Ambience and information.,3,0,0,0,"Hug your special friend. Every time you touch a letter, you must turn it over and one minute will be added to your time."
+794,Series 17,10,Ambience and information.,4,0,0,0,"Team: Present the best new short-form shiny floor American gameshow. Alex will be the contestant, one of you must be his rival and somebody must win."
+795,Series 17,10,Ambience and information.,5,0,1,0,"Crawl around behind the wall for 20 seconds. On Greg's command, you must then pop up from behind the wall. If Greg correctly predicts where you will pop up, you will be eliminated. If there is a tie in the final, the round is replayed."
+796,Series 18,1,The faceless facilitators.,1,1,0,0,Best thing that has been inside you.
+797,Series 18,1,The faceless facilitators.,2,0,0,0,"Do not say any of this out loud. Carry out each instruction before reading the next. You must remain silent until you've completed all four instructions. Stare at camera number one for at least thirty seconds without smiling. Eat an imaginary fly that has just landed on you. Act like you don't like how it feels in your stomach at all. Look under the 6th, 33rd, 56th, and 91st letters of this task."
+798,Series 18,1,The faceless facilitators.,3,0,0,0,Knock over exactly 100 cans. You must throw all five balls and pull one rope nice and hard. You must stay on the spot at all times and you may not move the spot.
+799,Series 18,1,The faceless facilitators.,4,0,0,0,Do the most beautiful thing with bubbles.
+800,Series 18,1,The faceless facilitators.,5,0,1,0,"Drink the vinegar. On your turn, you can either drink from one straw or not drink at all and get a clue from Alex instead. You must stand on the spot when choosing your straw and you must never stray from the spot. Only the vinegar drinker wins."
+801,Series 18,2,...and then a detective comes in.,1,1,0,0,Most serious object that looks quite silly.
+802,Series 18,2,...and then a detective comes in.,S,0,0,0,Wear this outfit throughout one future task and your points will be doubled for that task.
+803,Series 18,2,...and then a detective comes in.,2a,0,0,0,Remember these 10 fine people.
+804,Series 18,2,...and then a detective comes in.,3,0,0,0,"Team: Become the best multi-headed creature. Your creature must prove they are the best by doing something impressive. Also, during that impressive thing, they must speak one word at a time and explain what it is they are doing and why it is impressive."
+805,Series 18,2,...and then a detective comes in.,4,0,0,0,Capture the most remarkable footage on this doorbell camera.
+806,Series 18,2,...and then a detective comes in.,2b,0,0,0,Identify these 10 fine people.
+807,Series 18,2,...and then a detective comes in.,5,0,1,0,"Spin the wheel the same number of times or more as the person before you. You must land on the same color each time or else you're eliminated. If you land on gold, you are automatically through to the next round and the next person has to spin it one more time than the previous person."
+808,Series 18,3,The gangsters of the sea.,1,1,0,0,The object with the most soul.
+809,Series 18,3,The gangsters of the sea.,2,0,0,0,Put a rocket in your pocket.
+810,Series 18,3,The gangsters of the sea.,3,0,0,0,Recreate a famous 2D piece of art in 3D.
+811,Series 18,3,The gangsters of the sea.,4,0,0,0,"Team: Win the pub quiz by cheating. If the quizmaster notices you cheating, you will lose a point and you must use a different method of cheating."
+812,Series 18,3,The gangsters of the sea.,5,0,1,0,"Rustle Russell, fill Phil, mark Mark, rob Rob and pat Pat. When Alex blows his whistle, you must all either immediately say one word to the person next to you or perform one action. The people may only say yes or no. If you perform the wrong action, you are disqualified. You will then meet a new person."
+813,Series 18,4,I'm a girl who likes a clean line.,1,1,0,0,"The thing most likely to make Greg say ""Oh, Christ, now that is badass!""."
+814,Series 18,4,I'm a girl who likes a clean line.,2,0,0,0,Push the envelope the furthest.
+815,Series 18,4,I'm a girl who likes a clean line.,3,0,0,0,Take a bite out of Alex's carrot. Alex will ring his bell every 10 seconds. You must laugh constantly throughout. You must both only walk at gentle pace.
+816,Series 18,4,I'm a girl who likes a clean line.,4,0,0,0,"Pick the Taskmaster's locket from its pocket. Every time you pick an incorrect pocket, you must high-five Alex. If you touch, tamper or peek into a pocket you must pick it."
+817,Series 18,4,I'm a girl who likes a clean line.,5,0,0,0,"Team Live: Gather a herd of animals with exactly 22 legs. You may not harm any animals. You may only use animals on this side of the wall and you may not use each other. On Alex's whistle, you must hurl one of your herd over the wall. When your herd has 22 legs, only then may you don your tutus."
+818,Series 18,5,Big stupid things.,1,1,0,0,The thing that is best when you add liquid to it.
+819,Series 18,5,Big stupid things.,2,0,0,0,Direct the robot to its charging station and plug it in. You must give the robot an instruction every 10 seconds. The robot will ignore any instructions that contain the letter O or E. You may not touch the robot.
+820,Series 18,5,Big stupid things.,3,0,0,0,Make the strongest smell. You must seal your smell in this jar and the Taskmaster will open it in the studio.
+821,Series 18,5,Big stupid things.,4,0,0,0,Team: Present the most heart-warming final story for a local news programme.
+822,Series 18,5,Big stupid things.,5,0,1,0,Land your skydiver closest to the seal. You must catapult your skydiver with the catapult. Furthest from the target each round is eliminated.
+823,Series 18,5,Big stupid things.,T,0,0,1,Work out how many days old Alex will be on Christmas Day 2024. You must make eye contact with Alex the whole time and can only give one answer.
+824,Series 18,6,A dance as old as time itself.,1,1,0,0,Most fun thing to put in Alex's pocket without him knowing.
+825,Series 18,6,A dance as old as time itself.,2,0,0,0,Put one fish in the frying pan. Dottiest fish wins. Your task ends when you put a fish in the frying pan.
+826,Series 18,6,A dance as old as time itself.,3,0,0,0,"Create, handle and voice the most charismatic new children's television puppet sidekick for Alex."
+827,Series 18,6,A dance as old as time itself.,4,0,0,0,"Defuse the robot. You must cut all the wires but one. If you cut the danger wire, the robot will spew and you will be disqualified. You must keep your goggles on at all times."
+828,Series 18,6,A dance as old as time itself.,5,0,1,0,"Correctly guess this person's job. You must ask a yes or no question on your turn. If you take more than 10 seconds to ask your question, you miss a go."
+829,Series 18,7,Captain Jackie and the hotdog.,1,1,0,0,The object that is bigger than your head that you would most like to carry with you for the rest of your life if you had to carry an object with you for the rest of your life.
+830,Series 18,7,Captain Jackie and the hotdog.,2,0,0,0,Ring the bell. You may not look up.
+831,Series 18,7,Captain Jackie and the hotdog.,3,0,0,0,"You must lie throughout the next task. Every time you tell the truth, everyone in your team will lose an actual Taskmaster point."
+832,Series 18,7,Captain Jackie and the hotdog.,4,0,0,0,Eat and obey five fortune cookies.
+833,Series 18,7,Captain Jackie and the hotdog.,5,0,1,0,"Throw a beanbag onto the island. If you knock over a can, you are disqualified. If you miss the island, you are disqualified."
+834,Series 18,8,The nexus of truth.,1,1,0,0,The thing that most makes Greg scratch his chin.
+835,Series 18,8,The nexus of truth.,2,0,0,0,Put on the special glasses.
+836,Series 18,8,The nexus of truth.,3,0,0,0,"Be at the highest number barrel when Alex blows his whistle again. You may only move to the next barrel when you have completed the challenge at the previous barrel. If you fail a barrel challenge twice in a row, you must move back to the first barrel. If you are at an even-numbered barrel at the end of the barrel task, you are disqualified."
+837,Series 18,8,The nexus of truth.,4,0,0,0,"Label a part of your body, make a surprising noise and do something interesting with your legs."
+838,Series 18,8,The nexus of truth.,5,0,0,0,"Team Live: Say the same word at the same time. Alex will give you a category. Taking it in turns, team members must both say one word that fits the category at the same time. If both team members say the same word at the same time, they win the round. Also, you must not say word that has been said before."
+839,Series 18,9,The cockle children.,1,1,0,0,Best item for keeping things in that isn't just a regular item for keeping things in.
+840,Series 18,9,The cockle children.,2,0,0,0,"Walk exactly one furlong in exactly 10 minutes. You may not make use of technology except to make three five-second phone calls. Also, you may not remove the hat."
+841,Series 18,9,The cockle children.,3,0,0,0,Clean the most profound picture of majestic nature on a dirty thing.
+842,Series 18,9,The cockle children.,4,0,0,0,"Team: Place all the balls in the gutter and the gutter on the cow. The gutter must not enter the dome. You must not use anything floppy during your attempt. For every ball you touch, one minute will be added to your time. For every ball that touches the floor, 10 minutes will be added to your time. The task is over when the full gutter of balls is balancing by itself on the cow."
+843,Series 18,9,The cockle children.,5,0,1,0,Predict whether each item will float or not float.
+844,Series 18,10,Le Goose.,1,1,0,0,The thing most likely to make your buttocks clench.
+845,Series 18,10,Le Goose.,2,0,0,0,"Say how many chairs are in this cinema. You may only give one answer. You must not say any numbers until you give your answer and you must say the name of every object that appears on the screen. If you miss an object, one minute will be added to your time. For every chair you get wrong, one minute will be added to your time."
+846,Series 18,10,Le Goose.,3,0,0,0,Either throw five fives in a row or do 100 press-ups or eat a raw onion or find the needle in the haystack or sit silently for 10 minutes. You may only attempt two of these things.
+847,Series 18,10,Le Goose.,4,0,0,0,"Present ""The Goose""."
+848,Series 18,10,Le Goose.,5,0,1,0,"When Greg says ""eyes down"", you must look down. When Greg says ""eyes up"", you must immediately look at another contestant. If the contestant is also looking at you, you are both eliminated."
+849,Series 19,1,Sometimes spit.,1,1,0,0,The object that reminds you of school the most in a good way.
+850,Series 19,1,Sometimes spit.,2,0,0,0,"Put your hands on the hands, shut your eyes and keep them shut until you hear the whistle."
+851,Series 19,1,Sometimes spit.,3,0,0,0,Do something really cool.
+852,Series 19,1,Sometimes spit.,4,0,0,0,Win the Pealympics. There are five events. The top two performers in each event get a medal.
+853,Series 19,1,Sometimes spit.,5,0,1,0,"Get the most raisins in your wine glass. You may only touch raisins with your mouth. You must not bend at the waist and your hands must be behind your back at all times. Also, every time you drop a raisin into your wine glass, you must shout the name of one of your competitors. That competitor must immediately shout their name too. If they don't, Alex will empty their wine glass."
+854,Series 19,2,An invisible jump rope.,1,1,0,0,Snootiest thing.
+855,Series 19,2,An invisible jump rope.,2,0,0,0,"Commentate on yourself achieving something really tricky, then achieve that really tricky thing."
+856,Series 19,2,An invisible jump rope.,3,0,0,0,"Team: Give Alex exactly 100 marbles on a plate and an eggcup full of tepid water. One of you must always be sitting down, one of you must always be jumping and one of you must always be clapping your hands. You must each change your action every 30 seconds and no-one may hold anything for more than five seconds at a time."
+857,Series 19,2,An invisible jump rope.,4,0,0,0,Get the most liquid in this can. You may not leave the Submaravan.
+858,Series 19,2,An invisible jump rope.,5,0,1,0,Choose an item from each box and place them on the corresponding half of your table.
+859,Series 19,3,My presumably scrotum.,1,1,0,0,Best thing for a middle-aged man to keep on his bedside table.
+860,Series 19,3,My presumably scrotum.,2,0,0,0,"Answer the cheese phone. Every time you move, Alex will play the French horn. If you choose to only use your sense of smell, Alex will not play the French horn and your final time will be halved."
+861,Series 19,3,My presumably scrotum.,3,0,0,0,"Move the most cushions from one bin to the other bin without Alex correctly saying what colour cape you're wearing. You must be wearing a cape on the outside of your clothes throughout. You may not move the bins. If a cushion touches the ground, the task is over. Alex will alternately open then shut his eyes for as many seconds as there are letters in each of the words of this task."
+862,Series 19,3,My presumably scrotum.,4,0,0,0,Paint the best picture of the Taskmaster and his assistant having fun on the canvas in the lab. You may only enter the lab when there are 30 seconds left in the task.
+863,Series 19,3,My presumably scrotum.,5,0,0,0,"Team Live: Take it in turns as teams to obey Greg's previous order. If you hesitate, your team loses the round."
+864,Series 19,4,Midnight picnic.,1,1,0,0,The thing that least suits its name if you shout it loudly while we're all looking at it on the screen.
+865,Series 19,4,Midnight picnic.,2,0,0,0,"Put the most wetsuits on mannequins. The mannequins must be wearing their wetsuits properly. Also, you must tiptoe throughout and put your finger on your lips and say ""shhh"" at least once every 20 seconds."
+866,Series 19,4,Midnight picnic.,3,0,0,0,Team: Convince the other team that the following things are the opposite of what they are.
+867,Series 19,4,Midnight picnic.,4,0,0,0,Tell Alex why the light bulb turns on. You may not touch or tamper with the light bulb.
+868,Series 19,4,Midnight picnic.,5,0,1,0,"Win a game of Front Ham. One at a time, each person must discard three socks from the washing line and add one. If all your coloured socks are removed, you are eliminated."
+869,Series 19,5,Maybe we're the monsters.,1,1,0,0,Best object to bestow in your will to a relative against whom you are seeking revenge.
+870,Series 19,5,Maybe we're the monsters.,2,0,0,0,"Be the least annoying person round the campfire. You must either sing a folk song, tell a ghost story or recite a beat poem and not be annoying. Your song, story or poem must either be about fast cars, barbecues or DIY and it can contain no more than 100 words."
+871,Series 19,5,Maybe we're the monsters.,3,0,0,0,"Draw the monster. You must not turn around or leave the car. If you fail to honk your horn when you see a lollipop lady, you must surrender your picture for 30 seconds."
+872,Series 19,5,Maybe we're the monsters.,4,0,0,0,Shorten these pencils and place your shortened pencils in the pencil case.
+873,Series 19,5,Maybe we're the monsters.,5,0,1,0,"Pop a balloon when you hear its colour. Last to pop is eliminated. If you pop early, you are eliminated."
+874,Series 19,5,Maybe we're the monsters.,T,0,0,1,Make as many holes in this sheet of paper as possible. You may only use the hole punch once.
+875,Series 19,6,It's got to be obsolete.,1,1,0,0,The thing that is nicest to open.
+876,Series 19,6,It's got to be obsolete.,2,0,0,0,"Work out what Alex has on the very top of his head. The very top of your head must never be more than five foot six inches from the ground. You may ask Alex yes-or-no questions, but Alex will only answer using his exciting new numbers system."
+877,Series 19,6,It's got to be obsolete.,3,0,0,0,"Team: Make yourselves look like one of you is the parent of the others, then capture your relationship with a classic family home video moment."
+878,Series 19,6,It's got to be obsolete.,4,0,0,0,Teach the Taskmaster's Assistant a lesson he'll never forget.
+879,Series 19,6,It's got to be obsolete.,5,0,1,0,"Don't blow the last thing off the table. If you don't blow anything off the table, you are eliminated. If you do blow the last thing off the table, you are eliminated. You must stay on the spot and you must not touch the table."
+880,Series 19,7,Glass half most.,1,1,0,0,Biggest anticlimax.
+881,Series 19,7,Glass half most.,2,0,0,0,What is in the one yellow box? You may only give one answer. All the information is in the task.
+882,Series 19,7,Glass half most.,3,0,0,0,Eat this yoghurt with the most/least dignity.
+883,Series 19,7,Glass half most.,4,0,0,0,"Put at least six litres of water in the vase. You must either use bucket A and route A or bucket B and route B. If you choose A, you must complete one of the tasks at every obstacle. If you choose B, you must trot throughout. You must stay within the arena at all times and must never touch the vase."
+884,Series 19,7,Glass half most.,5,0,0,0,"Team Live: Get one of your balls into your bucket. Your spoons must be poking through the fence when touching the ball, and only your spoons may touch your ball. You may not touch the other team's balls or buckets or spoons. You must always be on your side of the fence and your balls must always be on the other. If your ball touches the ground, you must start again."
+885,Series 19,8,Science all your life.,1,1,0,0,Best object that you've borrowed from a fairly close friend.
+886,Series 19,8,Science all your life.,2,0,0,0,"Knock over all 10 skittles in 10 minutes. The final skittle should fall exactly when the whistle sounds. If any skittle is left standing after 10 minutes, you have failed. You must stay behind the rope at all times."
+887,Series 19,8,Science all your life.,3,0,0,0,Team: Each person must write down three words to describe a memorable scene. You must be silent throughout and your teammates must not see what you have written.
+888,Series 19,8,Science all your life.,4,0,0,0,Obey the autocue.
+889,Series 19,8,Science all your life.,5,0,1,0,"Say whether the next person will have a higher or lower number of things than the previous person. The category of things will change each time. If you make two mistakes, you are eliminated."
+890,Series 19,9,Getaway sticks.,1,1,0,0,Most satisfying thing you could use as a jelly mould.
+891,Series 19,9,Getaway sticks.,S,0,0,0,"Congratulations, you have discovered the magic moustache and must wear it until the end of the task."
+892,Series 19,9,Getaway sticks.,3,0,0,0,Create the most exciting new bodies so that you and Alex become a dynamic duo. You must then do something dynamic together for no more than a minute.
+893,Series 19,9,Getaway sticks.,4,0,0,0,Conquer the multitask. You must complete every task in every room you enter.
+894,Series 19,9,Getaway sticks.,5,0,0,0,"Team Live: Say a word that fits the category given by the Taskmaster, then press your button and the time will pass to the other team. Team members must take it in turns to say words and no words may be repeated during the task."
+895,Series 19,10,The clever side?,1,1,0,0,The thing most likely to make you do a double-take.
+896,Series 19,10,The clever side?,2,0,0,0,"Completely fill the yellow box with sand. Once you have touched a box, you must hold that box for the rest of the task."
+897,Series 19,10,The clever side?,3,0,0,0,Freeze on your spot in the most powerful pose in five minutes from now. You must be touching two of the objects.
+898,Series 19,10,The clever side?,4,0,0,0,Team: Provide the best drive-through experience.
+899,Series 19,10,The clever side?,5,0,1,0,Get the most carrot in your bucket. You must hold your hands behind your back at all times.
+900,Series 20,1,9x7.,1,1,0,0,A very soft thing which would be most beneficial for Greg Davies.
+901,Series 20,1,9x7.,2,0,0,0,Honk the horn.
+902,Series 20,1,9x7.,3,0,0,0,"Roll an object onto the target. You must release your object from behind this line. You may not move the line or target and you may not affect your object after release. You must use the first type of object you touch and can have three attempts with that type of object, and must not go within Greg's height of the target."
+903,Series 20,1,9x7.,4,0,0,0,Do something behind this curtain that sounds disgusting but is actually really nice.
+904,Series 20,1,9x7.,5,0,1,0,End up on your spot. You must obey the Taskmaster's instructions.
+905,Series 20,2,Cows are made of milk.,1,1,0,0,The object that is hardest to describe.
+906,Series 20,2,Cows are made of milk.,2,0,0,0,"Identify Alex's five things. You may only use one sense. If you choose hearing, you get five points per item; smell, four points; taste, three points; touch, two points; sight, one point."
+907,Series 20,2,Cows are made of milk.,3,0,0,0,Write a superpower on the little clipboard.
+908,Series 20,2,Cows are made of milk.,4,0,0,0,Take the most surprising thing out of this bag.
+909,Series 20,2,Cows are made of milk.,5,0,1,0,Guess how many things the Taskmaster's assistant has on him. Worst answer is eliminated.
+910,Series 20,3,Thompson.,1,1,0,0,The thing you were least likely to bring in from your home.
+911,Series 20,3,Thompson.,2,0,0,0,Make the most accurate little model of the Chesham United mascot. You may only see what is inside two of the toilet tents. Go Generals.
+912,Series 20,3,Thompson.,3,0,0,0,Team: Discover the name of the person in the lab. You must take it in turns to ask one question and the person may only say yes or no. The other team members must remain in this room until the questioner returns. Each person in your team must address the person in the lab by the correct name before the task is complete.
+913,Series 20,3,Thompson.,4,0,0,0,Create your own Snakes and Steps board. You must add one snake and one set of steps. You must also add one mystery box. The instruction inside the mystery box is up to you.
+914,Series 20,3,Thompson.,5,0,1,0,"Turn your cup triangle completely upside down. Your upside-down cup triangle must be free-standing and you must obey the instructions written on each layer. If any cups fall, you must completely start again. You may not affect other people's cup triangles."
+915,Series 20,4,Hey mate.,1,1,0,0,"The present that would most make you say this if you received it on your birthday: ""Oh, that's just the most gorgeous gift ever!""."
+916,Series 20,4,Hey mate.,2,0,0,0,"What number has Alex written down? You may ask no more than 20 questions. Alex may only say yes or no, and you must be increasingly surprised by every answer."
+917,Series 20,4,Hey mate.,3,0,0,0,"Team: Make a love heart using your body, the body of your teammates and any other items of your choosing."
+918,Series 20,4,Hey mate.,4,0,0,0,"Win the horse race. You must do one of the following things: Eat something without looking at the food, spin the wheel at least 720 degrees, throw a dart at the dartboard. If you eat an olive, your horse will advance two steps. If you eat a grape, your horse will retreat three steps. If you throw a dart in an olive, your horse will advance five steps. If you throw a dart in a grape, your horse will retreat eight steps. If the wheel lands on an olive, your horse will advance 10 steps. If the wheel lands on a grape, your horse will retreat 15 steps. You must stay on the spot and you must not move the spot."
+919,Series 20,4,Hey mate.,5,0,1,0,Fill out your form.
+920,Series 20,4,Hey mate.,T,0,0,1,Remove your shower cap by inflating the balloon.
+921,Series 20,5,"Bats, bats, hang up.",1,1,0,0,A possession that would most confuse a future archaeologist if you were buried holding it.
+922,Series 20,5,"Bats, bats, hang up.",2,0,0,0,"Pull something from that red green onto this red green using this string. Throughout your pull, you must remain on this red green. Your thing must travel through or over all the obstacles."
+923,Series 20,5,"Bats, bats, hang up.",3,0,0,0,Team: Make things genuinely awkward.
+924,Series 20,5,"Bats, bats, hang up.",4,0,0,0,Do the most accurate finger painting of the person on the other end of the phone. You may only use four-letter words when speaking to them and every other reply will be a lie.
+925,Series 20,5,"Bats, bats, hang up.",5,0,1,0,"Eat the lamé duck or don't eat the lamé duck. If you are the only person to eat the lamé duck, you win five points and everybody else loses one point. If more than one person eats the lamé duck, all lamé duck eaters lose three points and the lamé duck refusers gain three points. If no one eats the lamé duck, you must each give Greg £25. If everyone eats the lamé duck, Alex will give you each £25."
+926,Series 20,6,Is that number got curves?,1,1,0,0,The thing Greg would most like to see Alex wearing.
+927,Series 20,6,Is that number got curves?,2,0,0,0,Cut a single string to cause the greatest effect.
+928,Series 20,6,Is that number got curves?,3,0,0,0,Write an autobiographical 10-word story.
+929,Series 20,6,Is that number got curves?,4,0,0,0,Wear the flippers correctly.
+930,Series 20,6,Is that number got curves?,5,0,1,0,"Find the age of the mystery person. You must stay on your seats at all times. You may ask one question at a time, going from oldest to youngest and you may only say two numbers each. The person may only say yes or no."
+931,Series 20,7,"Drier than you think, chalk.",1,1,0,0,Best thing you can either ride or rip.
+932,Series 20,7,"Drier than you think, chalk.",2,0,0,0,Team: Steal the statue of Archimedes.
+933,Series 20,7,"Drier than you think, chalk.",3,0,0,0,Dribble a technicolour picture of your hero. Your technicolour picture must only be made from things that have travelled directly from your mouth to the tray through the air and cannot be tampered with post-dribble.
+934,Series 20,7,"Drier than you think, chalk.",4,0,0,0,"Get exactly 63 points by bopping Alex on the head. You must shout a different type of food on each bop to register the bop. If you bop anyone other than Alex, five bops will be deducted from your total score. You must stay in the hutch."
+935,Series 20,7,"Drier than you think, chalk.",5,0,1,0,"Avoid the Taskmaster's big ball. You must stand on the circle but you must not step on any gold. You must be facing and staring at the Taskmaster sign at all times and after the Taskmaster releases his big ball, you may each take one step. The first person touched by the Taskmaster's big ball each round is eliminated."
+936,Series 20,8,Am I an idiom?,1,1,0,0,Best thing that has a surprise aspect to it.
+937,Series 20,8,Am I an idiom?,2,0,0,0,"Go and sit in the entrance lobby on Alex's horn and return on Alex's whistle. Every time you return, you must answer Alex's question within 30 seconds. You cannot change your answer. Alex will ask you 10 questions."
+938,Series 20,8,Am I an idiom?,3,0,0,0,Paint the best picture of one animal sitting on top of another animal. You must paint on the paper below. You must not leave the balcony.
+939,Series 20,8,Am I an idiom?,4,0,0,0,You must read each of these instructions out and do them immediately. Stand on one leg and keep standing on one leg. Put one finger in your ear and keep it there. Put your other hand on your head and keep it there. Pull an extreme facial expression and keep that expression on your face.
+940,Series 20,8,Am I an idiom?,5,0,0,0,Team Live: Demonstrate to the Taskmaster the idiom demonstrated to you by your teammate. All team members must remain silent and on their spots during a round.
+941,Series 20,9,A 1970s camping kettle.,1,1,0,0,Most respected item that retains its credibility when you talk about it in a high-pitched voice.
+942,Series 20,9,A 1970s camping kettle.,2,0,0,0,"Build a tower of bricks on this trolley, then push it down the slope. You may not touch the trolley after it passes the start line. As well as bricks, all the contents of one of these bins must be part of your tower, but nothing else. You may only look inside the bins once, and only for as long as you can scream. You must replace each lid before looking in the next bin. You have three attempts, during which you must also scream."
+943,Series 20,9,A 1970s camping kettle.,3,0,0,0,"Make your jockey weigh almost exactly the same as Alex. If your jockey weighs more than Alex, you are disqualified. You may only get two readings from the scales."
+944,Series 20,9,A 1970s camping kettle.,4,0,0,0,Make the most fantastic 15-second film featuring your face in full frame.
+945,Series 20,9,A 1970s camping kettle.,5,0,1,0,"Become the person the Taskmaster shouts. You will have one minute to draw yourself a new bottom of your face and body. Also, you must bob up and down throughout your attempt."
+946,Series 20,10,Supping from the fountain.,1,1,0,0,Best tube.
+947,Series 20,10,Supping from the fountain.,2,0,0,0,Team: Make exactly the same-looking drinks as your teammate's drinks. Your entire team may only open two doors.
+948,Series 20,10,Supping from the fountain.,3,0,0,0,Drink almost all the apple juice. You must not touch the cup and the cup must not move.
+949,Series 20,10,Supping from the fountain.,4,0,0,0,"Make water squirt out of you in a surprising way. Alex will guess whence the water will squirt. For every incorrect guess, you may squirt him for one second at the end of the task."
+950,Series 20,10,Supping from the fountain.,5,0,1,0,"Respond to the Taskmaster correctly. When he says ""wibble"", you say ""bibble"". When he says ""bibble"", you say ""bam"". When he says ""bam"", you say ""wibble bibble bam"". If you dither or err, you are eliminated."
+951,Series 20,10,Supping from the fountain.,T,0,1,1,How many letter Ts are there in the portrait of Alex and Greg in the living room?
+952,Champion of Champions 1,1,Wiley giraffe blower.,1,1,0,0,The thing that genuinely causes them the most embarrassment.
+953,Champion of Champions 1,1,Wiley giraffe blower.,2,0,0,0,Either throw an exercise ball into the bath or put all the coconuts in the shopping trolley. You must throw the exercise ball while under a roof and you may not move the bath. You must not touch any of the coconuts with your hands and you may not move the shopping trolley.
+954,Champion of Champions 1,1,Wiley giraffe blower.,3,0,0,0,Blow something substantial off this table.
+955,Champion of Champions 1,1,Wiley giraffe blower.,4,0,0,0,Perform a miracle.
+956,Champion of Champions 1,1,Wiley giraffe blower.,5,0,1,0,"Write down a word beginning with T every time Alex blows his whistle. The person with the second longest word takes a step down. Whoever writes down the longest word misses a turn. If you write down one of Alex's special words, you advance an extra step."
+957,Champion of Champions 1,2,I've sinned again.,S,0,0,0,Sing along to the Taskmaster theme tune.
+958,Champion of Champions 1,2,I've sinned again.,1,1,0,0,Best thing.
+959,Champion of Champions 1,2,I've sinned again.,2,0,0,0,What's in the case?
+960,Champion of Champions 1,2,I've sinned again.,3,0,0,0,Make a mask that tastes delicious and looks great. Your mask but be entirely edible and entirely wearable. You must then wear your mask so Alex can taste it.
+961,Champion of Champions 1,2,I've sinned again.,4,0,0,0,Make the biggest mess and completely clear it up.
+962,Champion of Champions 1,2,I've sinned again.,5,0,1,0,Record the highest total of steps on your pedometer. You may not touch your blindfold.
+963,Champion of Champions 2,1,The Alpine Darling.,S,0,0,0,Look the most like a champion in the Taskmaster titles. You must do five different heroic things for five seconds.
+964,Champion of Champions 2,1,The Alpine Darling.,1,1,0,0,"The thing that makes everyone go ""Wow, that really is the greatest thing""."
+965,Champion of Champions 2,1,The Alpine Darling.,2,0,0,0,Feed yourself a grape in the most elaborate way.
+966,Champion of Champions 2,1,The Alpine Darling.,3,0,0,0,"Cut holes in and create a scene on this board so that when you and Alex stick parts of your body through the holes, it looks wonderful."
+967,Champion of Champions 2,1,The Alpine Darling.,4,0,0,0,Get this duck into that pond. The duck must be launched from behind this rope and you must stay behind this rope during its journey. You may not move the rope or the pond.
+968,Champion of Champions 2,1,The Alpine Darling.,5,0,1,0,"Pack either five bricks or five balloons in your bag. One at a time, you must then walk across the stage and place your bag on the circle near the Taskmaster, who will guess whether you were packing bricks or balloons. if he guesses correctly, you are eliminated. If you deceive him, you qualify for another round."
+969,Champion of Champions 3,1,Spider in my pocket.,S,0,0,0,Star in the best chase sequence. Alex will chase you.
+970,Champion of Champions 3,1,Spider in my pocket.,1,1,0,0,Best thing that you would wish for if you had one wish from a genie.
+971,Champion of Champions 3,1,Spider in my pocket.,2,0,0,0,"Be the best waiter. You must serve Alex all his food, drink and cutlery as it is currently set. If you drop or spill any items, you must clap for a full minute or else you will be disqualified. No running."
+972,Champion of Champions 3,1,Spider in my pocket.,3,0,0,0,Give yourself a disadvantage for the next task.
+973,Champion of Champions 3,1,Spider in my pocket.,4,0,0,0,Do something really stupid. You must not hurt yourself or anyone else.
+974,Champion of Champions 3,1,Spider in my pocket.,5,0,1,0,"Don't say the Taskmaster's favourite thing. Alex will say a category. One at a time, you must shout a thing that falls into that category within two seconds of the previous person. If you pause, repeat, make a mistake or say the Taskmaster's favourite thing, you are eliminated."
+975,Champion of Champions 4,1,Put that on my gravestone.,1,1,0,0,Biggest betrayal.
+976,Champion of Champions 4,1,Put that on my gravestone.,2,0,0,0,"Write, memorise and perform the most powerful poem about being a champion. You must perform the entirety of your poem sat on the special chair."
+977,Champion of Champions 4,1,Put that on my gravestone.,3,0,0,0,"Win the two-metre race. You must start the race after the starter's bang and behind the starting line. If any part of you moves beyond the starting line or you break the tape before the starter's bang, you are disqualified. Finally, every time the bike wheel stops spinning, your final time will be doubled and throughout the task, you must big yourself up."
+978,Champion of Champions 4,1,Put that on my gravestone.,4,0,0,0,Be brilliant for a minute.
+979,Champion of Champions 4,1,Put that on my gravestone.,5,0,1,0,"Using only tape, turn yourself into a famous person from the previous millennium who you'd like to see on Taskmaster."
+980,New Year Treat 1,1,Welcome to my pumpathon.,1,1,0,0,Most wonderful thing to whack.
+981,New Year Treat 1,1,Welcome to my pumpathon.,2,0,0,0,Prod the bear.
+982,New Year Treat 1,1,Welcome to my pumpathon.,3,0,0,0,"Throw one or more dice to get a number, then clap, cough, nod and blink that number of times before the next flash. If you do not complete the sequence before the next flash, the task is over. At the end of the task, your total number of completed sequences will be multiplied by your number of dice to give you a score. You must berate yourself throughout the task."
+983,New Year Treat 1,1,Welcome to my pumpathon.,4,0,0,0,Do a something-athon for a full 20 minutes.
+984,New Year Treat 1,1,Welcome to my pumpathon.,5,0,1,0,"Put your items in Greg's special order. After each shuffle, Greg will tell you how many items are in the correct position, but not which ones."
+985,New Year Treat 1,1,Welcome to my pumpathon.,T,0,1,1,What length is Alex's pineapple?
+986,New Year Treat 1,2,The opposite of ducking?,1,1,0,0,Most exotic thing from their actual home.
+987,New Year Treat 1,2,The opposite of ducking?,2,0,0,0,Split something in half in a really exciting way.
+988,New Year Treat 1,2,The opposite of ducking?,3,0,0,0,Hold a number of yellow balls in your hand.
+989,New Year Treat 1,2,The opposite of ducking?,4,0,0,0,Complete the most instructions in the order they are presented.
+990,New Year Treat 1,2,The opposite of ducking?,5,0,1,0,Win the shoe games.
+991,New Year Treat 2,1,Welcome to my pumpathon.,1,1,0,0,Most wonderful thing to whack.
+992,New Year Treat 2,1,Welcome to my pumpathon.,2,0,0,0,Prod the bear.
+993,New Year Treat 2,1,Welcome to my pumpathon.,3,0,0,0,"Throw one or more dice to get a number, then clap, cough, nod and blink that number of times before the next flash. If you do not complete the sequence before the next flash, the task is over. At the end of the task, your total number of completed sequences will be multiplied by your number of dice to give you a score. You must berate yourself throughout the task."
+994,New Year Treat 2,1,Welcome to my pumpathon.,4,0,0,0,Do a something-athon for a full 20 minutes.
+995,New Year Treat 2,1,Welcome to my pumpathon.,5,0,1,0,"Put your items in Greg's special order. After each shuffle, Greg will tell you how many items are in the correct position, but not which ones."
+996,New Year Treat 2,1,Welcome to my pumpathon.,T,0,1,1,What length is Alex's pineapple?
+997,New Year Treat 2,2,The opposite of ducking?,1,1,0,0,Most exotic thing from their actual home.
+998,New Year Treat 2,2,The opposite of ducking?,2,0,0,0,Split something in half in a really exciting way.
+999,New Year Treat 2,2,The opposite of ducking?,3,0,0,0,Hold a number of yellow balls in your hand.
+1000,New Year Treat 2,2,The opposite of ducking?,4,0,0,0,Complete the most instructions in the order they are presented.
+1001,New Year Treat 2,2,The opposite of ducking?,5,0,1,0,Win the shoe games.
+1002,New Year Treat 3,1,Welcome to my pumpathon.,1,1,0,0,Most wonderful thing to whack.
+1003,New Year Treat 3,1,Welcome to my pumpathon.,2,0,0,0,Prod the bear.
+1004,New Year Treat 3,1,Welcome to my pumpathon.,3,0,0,0,"Throw one or more dice to get a number, then clap, cough, nod and blink that number of times before the next flash. If you do not complete the sequence before the next flash, the task is over. At the end of the task, your total number of completed sequences will be multiplied by your number of dice to give you a score. You must berate yourself throughout the task."
+1005,New Year Treat 3,1,Welcome to my pumpathon.,4,0,0,0,Do a something-athon for a full 20 minutes.
+1006,New Year Treat 3,1,Welcome to my pumpathon.,5,0,1,0,"Put your items in Greg's special order. After each shuffle, Greg will tell you how many items are in the correct position, but not which ones."
+1007,New Year Treat 3,1,Welcome to my pumpathon.,T,0,1,1,What length is Alex's pineapple?
+1008,New Year Treat 3,2,The opposite of ducking?,1,1,0,0,Most exotic thing from their actual home.
+1009,New Year Treat 3,2,The opposite of ducking?,2,0,0,0,Split something in half in a really exciting way.
+1010,New Year Treat 3,2,The opposite of ducking?,3,0,0,0,Hold a number of yellow balls in your hand.
+1011,New Year Treat 3,2,The opposite of ducking?,4,0,0,0,Complete the most instructions in the order they are presented.
+1012,New Year Treat 3,2,The opposite of ducking?,5,0,1,0,Win the shoe games.
+1013,New Year Treat 4,1,Welcome to my pumpathon.,1,1,0,0,Most wonderful thing to whack.
+1014,New Year Treat 4,1,Welcome to my pumpathon.,2,0,0,0,Prod the bear.
+1015,New Year Treat 4,1,Welcome to my pumpathon.,3,0,0,0,"Throw one or more dice to get a number, then clap, cough, nod and blink that number of times before the next flash. If you do not complete the sequence before the next flash, the task is over. At the end of the task, your total number of completed sequences will be multiplied by your number of dice to give you a score. You must berate yourself throughout the task."
+1016,New Year Treat 4,1,Welcome to my pumpathon.,4,0,0,0,Do a something-athon for a full 20 minutes.
+1017,New Year Treat 4,1,Welcome to my pumpathon.,5,0,1,0,"Put your items in Greg's special order. After each shuffle, Greg will tell you how many items are in the correct position, but not which ones."
+1018,New Year Treat 4,1,Welcome to my pumpathon.,T,0,1,1,What length is Alex's pineapple?
+1019,New Year Treat 4,2,The opposite of ducking?,1,1,0,0,Most exotic thing from their actual home.
+1020,New Year Treat 4,2,The opposite of ducking?,2,0,0,0,Split something in half in a really exciting way.
+1021,New Year Treat 4,2,The opposite of ducking?,3,0,0,0,Hold a number of yellow balls in your hand.
+1022,New Year Treat 4,2,The opposite of ducking?,4,0,0,0,Complete the most instructions in the order they are presented.
+1023,New Year Treat 4,2,The opposite of ducking?,5,0,1,0,Win the shoe games.
+1024,New Year Treat 5,1,Welcome to my pumpathon.,1,1,0,0,Most wonderful thing to whack.
+1025,New Year Treat 5,1,Welcome to my pumpathon.,2,0,0,0,Prod the bear.
+1026,New Year Treat 5,1,Welcome to my pumpathon.,3,0,0,0,"Throw one or more dice to get a number, then clap, cough, nod and blink that number of times before the next flash. If you do not complete the sequence before the next flash, the task is over. At the end of the task, your total number of completed sequences will be multiplied by your number of dice to give you a score. You must berate yourself throughout the task."
+1027,New Year Treat 5,1,Welcome to my pumpathon.,4,0,0,0,Do a something-athon for a full 20 minutes.
+1028,New Year Treat 5,1,Welcome to my pumpathon.,5,0,1,0,"Put your items in Greg's special order. After each shuffle, Greg will tell you how many items are in the correct position, but not which ones."
+1029,New Year Treat 5,1,Welcome to my pumpathon.,T,0,1,1,What length is Alex's pineapple?
+1030,New Year Treat 5,2,The opposite of ducking?,1,1,0,0,Most exotic thing from their actual home.
+1031,New Year Treat 5,2,The opposite of ducking?,2,0,0,0,Split something in half in a really exciting way.
+1032,New Year Treat 5,2,The opposite of ducking?,3,0,0,0,Hold a number of yellow balls in your hand.
+1033,New Year Treat 5,2,The opposite of ducking?,4,0,0,0,Complete the most instructions in the order they are presented.
+1034,New Year Treat 5,2,The opposite of ducking?,5,0,1,0,Win the shoe games.
+1035,New Year Treat 6,1,Welcome to my pumpathon.,1,1,0,0,Most wonderful thing to whack.
+1036,New Year Treat 6,1,Welcome to my pumpathon.,2,0,0,0,Prod the bear.
+1037,New Year Treat 6,1,Welcome to my pumpathon.,3,0,0,0,"Throw one or more dice to get a number, then clap, cough, nod and blink that number of times before the next flash. If you do not complete the sequence before the next flash, the task is over. At the end of the task, your total number of completed sequences will be multiplied by your number of dice to give you a score. You must berate yourself throughout the task."
+1038,New Year Treat 6,1,Welcome to my pumpathon.,4,0,0,0,Do a something-athon for a full 20 minutes.
+1039,New Year Treat 6,1,Welcome to my pumpathon.,5,0,1,0,"Put your items in Greg's special order. After each shuffle, Greg will tell you how many items are in the correct position, but not which ones."
+1040,New Year Treat 6,1,Welcome to my pumpathon.,T,0,1,1,What length is Alex's pineapple?
+1041,New Year Treat 6,2,The opposite of ducking?,1,1,0,0,Most exotic thing from their actual home.
+1042,New Year Treat 6,2,The opposite of ducking?,2,0,0,0,Split something in half in a really exciting way.
+1043,New Year Treat 6,2,The opposite of ducking?,3,0,0,0,Hold a number of yellow balls in your hand.
+1044,New Year Treat 6,2,The opposite of ducking?,4,0,0,0,Complete the most instructions in the order they are presented.
+1045,New Year Treat 6,2,The opposite of ducking?,5,0,1,0,Win the shoe games.

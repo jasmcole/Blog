@@ -1,0 +1,200 @@
+series,episode_num,episode_title,air_date,n_contestants,contestants,total_1,total_2,total_3,total_4,total_5
+Series 1,1,Melon buffet.,28 July 2015,5,Frank Skinner; Josh Widdicombe; Roisin Conaty; Romesh Ranganathan; Tim Key,19,13,7,19,17
+Series 1,2,The pie whisperer.,4 August 2015,5,Frank Skinner; Josh Widdicombe; Roisin Conaty; Romesh Ranganathan; Tim Key,9,16,21,14,18
+Series 1,3,The poet and the egg.,11 August 2015,5,Frank Skinner; Josh Widdicombe; Roisin Conaty; Romesh Ranganathan; Tim Key,15,22,9,22,16
+Series 1,4,Down an octave.,18 August 2015,5,Frank Skinner; Josh Widdicombe; Roisin Conaty; Romesh Ranganathan; Tim Key,14,16,9,10,9
+Series 1,5,Little denim shorts.,25 August 2015,5,Frank Skinner; Josh Widdicombe; Roisin Conaty; Romesh Ranganathan; Tim Key,20,18,14,16,10
+Series 1,6,The last supper.,1 September 2015,5,Frank Skinner; Josh Widdicombe; Roisin Conaty; Romesh Ranganathan; Tim Key,16,9,8,12,18
+Series 2,1,Fear of failure.,21 June 2016,5,Doc Brown; Joe Wilkinson; Jon Richardson; Katherine Ryan; Richard Osman,9,8,18,17,20
+Series 2,2,Pork is a sausage.,28 June 2016,5,Doc Brown; Joe Wilkinson; Jon Richardson; Katherine Ryan; Richard Osman,18,13,25,19,15
+Series 2,3,A pistachio eclair.,5 July 2016,5,Doc Brown; Joe Wilkinson; Jon Richardson; Katherine Ryan; Richard Osman,21,25,17,30,27
+Series 2,4,Welcome to Rico Face.,12 July 2016,5,Doc Brown; Joe Wilkinson; Jon Richardson; Katherine Ryan; Richard Osman,18,12,17,15,5
+Series 2,5,There's strength in arches.,19 July 2016,5,Doc Brown; Joe Wilkinson; Jon Richardson; Katherine Ryan; Richard Osman,12,11,13,13,19
+Series 3,1,A pea in a haystack.,4 October 2016,5,Al Murray; Dave Gorman; Paul Chowdhry; Rob Beckett; Sara Pascoe,21,13,8,15,16
+Series 3,2,The dong and the gong.,11 October 2016,5,Al Murray; Dave Gorman; Paul Chowdhry; Rob Beckett; Sara Pascoe,18,17,13,21,16
+Series 3,3,Little polythene grief cave.,18 October 2016,5,Al Murray; Dave Gorman; Paul Chowdhry; Rob Beckett; Sara Pascoe,9,21,22,19,17
+Series 3,4,A very nuanced character.,25 October 2016,5,Al Murray; Dave Gorman; Paul Chowdhry; Rob Beckett; Sara Pascoe,16,17,11,15,14
+Series 3,5,The F.I.P.,1 November 2016,5,Al Murray; Dave Gorman; Paul Chowdhry; Rob Beckett; Sara Pascoe,16,13,12,17,9
+Series 4,1,A fat bald white man.,25 April 2017,5,Hugh Dennis; Joe Lycett; Lolly Adefope; Mel Giedroyc; Noel Fielding,13,17,13,16,18
+Series 4,2,Look at me.,2 May 2017,5,Hugh Dennis; Joe Lycett; Lolly Adefope; Mel Giedroyc; Noel Fielding,17,13,18,20,18
+Series 4,3,Hollowing out a baguette.,9 May 2017,5,Hugh Dennis; Joe Lycett; Lolly Adefope; Mel Giedroyc; Noel Fielding,15,19,12,3,19
+Series 4,4,Friendship is truth.,16 May 2017,5,Hugh Dennis; Joe Lycett; Lolly Adefope; Mel Giedroyc; Noel Fielding,17,19,15,24,23
+Series 4,5,Meat.,23 May 2017,5,Hugh Dennis; Joe Lycett; Lolly Adefope; Mel Giedroyc; Noel Fielding,21,18,15,21,12
+Series 4,6,Spatchcock it.,30 May 2017,5,Hugh Dennis; Joe Lycett; Lolly Adefope; Mel Giedroyc; Noel Fielding,13,14,19,16,15
+Series 4,7,No stars for naughty boys.,6 June 2017,5,Hugh Dennis; Joe Lycett; Lolly Adefope; Mel Giedroyc; Noel Fielding,20,20,20,13,19
+Series 4,8,Tony Three Pies.,13 June 2017,5,Hugh Dennis; Joe Lycett; Lolly Adefope; Mel Giedroyc; Noel Fielding,13,16,13,21,20
+Series 5,1,Dignity intact.,13 September 2017,5,Aisling Bea; Bob Mortimer; Mark Watson; Nish Kumar; Sally Phillips,13,18,17,13,14
+Series 5,2,The leprechaun or the lesbian.,20 September 2017,5,Aisling Bea; Bob Mortimer; Mark Watson; Nish Kumar; Sally Phillips,17,16,19,19,20
+Series 5,3,Phoenix.,27 September 2017,5,Aisling Bea; Bob Mortimer; Mark Watson; Nish Kumar; Sally Phillips,13,17,15,12,16
+Series 5,4,Residue around the hoof.,4 October 2017,5,Aisling Bea; Bob Mortimer; Mark Watson; Nish Kumar; Sally Phillips,24,21,24,12,15
+Series 5,5,A wind-dried puffin.,11 October 2017,5,Aisling Bea; Bob Mortimer; Mark Watson; Nish Kumar; Sally Phillips,15,14,16,13,14
+Series 5,6,Spoony Neeson.,18 October 2017,5,Aisling Bea; Bob Mortimer; Mark Watson; Nish Kumar; Sally Phillips,17,18,13,12,18
+Series 5,7,Boing boing.,25 October 2017,5,Aisling Bea; Bob Mortimer; Mark Watson; Nish Kumar; Sally Phillips,17,18,15,12,16
+Series 5,8,Their water's so delicious.,1 November 2017,5,Aisling Bea; Bob Mortimer; Mark Watson; Nish Kumar; Sally Phillips,10,16,11,14,17
+Series 6,1,The old soft curved padlock.,2 May 2018,5,Alice Levine; Asim Chaudhry; Liza Tarbuck; Russell Howard; Tim Vine,18,8,17,18,11
+Series 6,2,Tarpeters.,9 May 2018,5,Alice Levine; Asim Chaudhry; Liza Tarbuck; Russell Howard; Tim Vine,13,13,19,14,14
+Series 6,3,One warm prawn.,16 May 2018,5,Alice Levine; Asim Chaudhry; Liza Tarbuck; Russell Howard; Tim Vine,6,19,22,16,15
+Series 6,4,BMXing!,23 May 2018,5,Alice Levine; Asim Chaudhry; Liza Tarbuck; Russell Howard; Tim Vine,23,18,20,24,21
+Series 6,5,H.,30 May 2018,5,Alice Levine; Asim Chaudhry; Liza Tarbuck; Russell Howard; Tim Vine,16,19,25,21,26
+Series 6,6,We met at mealtimes.,6 June 2018,5,Alice Levine; Asim Chaudhry; Liza Tarbuck; Russell Howard; Tim Vine,15,17,20,12,23
+Series 6,7,Roadkill doused in syrup.,13 June 2018,5,Alice Levine; Asim Chaudhry; Liza Tarbuck; Russell Howard; Tim Vine,14,15,17,21,20
+Series 6,8,What kind of pictures?,20 June 2018,5,Alice Levine; Asim Chaudhry; Liza Tarbuck; Russell Howard; Tim Vine,13,16,17,17,16
+Series 6,9,The Bubble Brothers.,27 June 2018,5,Alice Levine; Asim Chaudhry; Liza Tarbuck; Russell Howard; Tim Vine,18,12,14,15,16
+Series 6,10,He was a different man.,4 July 2018,5,Alice Levine; Asim Chaudhry; Liza Tarbuck; Russell Howard; Tim Vine,16,22,10,12,13
+Series 7,1,The mean bean.,5 September 2018,5,James Acaster; Jessica Knappett; Kerry Godliman; Phil Wang; Rhod Gilbert,11,14,20,13,19
+Series 7,2,My eyes are circles.,12 September 2018,5,James Acaster; Jessica Knappett; Kerry Godliman; Phil Wang; Rhod Gilbert,16,23,23,19,22
+Series 7,3,Twelve blush majesty two.,19 September 2018,5,James Acaster; Jessica Knappett; Kerry Godliman; Phil Wang; Rhod Gilbert,18,15,17,15,9
+Series 7,4,OLLIE.,26 September 2018,5,James Acaster; Jessica Knappett; Kerry Godliman; Phil Wang; Rhod Gilbert,17,16,16,12,17
+Series 7,5,Lotta soup.,3 October 2018,5,James Acaster; Jessica Knappett; Kerry Godliman; Phil Wang; Rhod Gilbert,20,25,17,9,18
+Series 7,6,A coquettish fascinator.,10 October 2018,5,James Acaster; Jessica Knappett; Kerry Godliman; Phil Wang; Rhod Gilbert,19,16,17,17,18
+Series 7,7,The perfect stuff.,17 October 2018,5,James Acaster; Jessica Knappett; Kerry Godliman; Phil Wang; Rhod Gilbert,15,18,14,15,21
+Series 7,8,Mother honks her horn.,24 October 2018,5,James Acaster; Jessica Knappett; Kerry Godliman; Phil Wang; Rhod Gilbert,16,19,16,9,20
+Series 7,9,The pendulum draws the eye.,31 October 2018,5,James Acaster; Jessica Knappett; Kerry Godliman; Phil Wang; Rhod Gilbert,14,18,21,11,9
+Series 7,10,I can hear it gooping.,7 November 2018,5,James Acaster; Jessica Knappett; Kerry Godliman; Phil Wang; Rhod Gilbert,19,11,15,13,14
+Series 8,1,Hello.,8 May 2019,5,Iain Stirling; Joe Thomas; Lou Sanders; Paul Sinha; Sian Gibson,20,12,20,10,16
+Series 8,2,A novel about Russian Gulags.,15 May 2019,5,Iain Stirling; Joe Thomas; Lou Sanders; Paul Sinha; Sian Gibson,13,20,21,19,16
+Series 8,3,Stuck in a mammal groove.,22 May 2019,5,Iain Stirling; Joe Thomas; Lou Sanders; Paul Sinha; Sian Gibson,17,10,19,11,16
+Series 8,4,The barrel dad.,29 May 2019,5,Iain Stirling; Joe Thomas; Lou Sanders; Paul Sinha; Sian Gibson,10,15,15,11,15
+Series 8,5,Stay humble.,5 June 2019,5,Iain Stirling; Joe Thomas; Lou Sanders; Paul Sinha; Sian Gibson,21,20,20,14,17
+Series 8,6,Rock 'n' roll umlaut.,12 June 2019,5,Iain Stirling; Joe Thomas; Lou Sanders; Paul Sinha; Sian Gibson,10,14,12,9,15
+Series 8,7,This is Trevor.,19 June 2019,5,Iain Stirling; Joe Thomas; Lou Sanders; Paul Sinha; Sian Gibson,10,24,13,13,11
+Series 8,8,Aquatic sewing machine.,26 June 2019,5,Iain Stirling; Joe Thomas; Lou Sanders; Paul Sinha; Sian Gibson,18,7,12,21,8
+Series 8,9,I've been a bit ill.,3 July 2019,5,Iain Stirling; Joe Thomas; Lou Sanders; Paul Sinha; Sian Gibson,19,16,20,17,16
+Series 8,10,Clumpy swayey clumsy man.,10 July 2019,5,Iain Stirling; Joe Thomas; Lou Sanders; Paul Sinha; Sian Gibson,18,12,12,11,13
+Series 9,1,Join our cult.,4 September 2019,5,David Baddiel; Ed Gamble; Jo Brand; Katy Wix; Rose Matafeo,14,16,12,12,17
+Series 9,2,Butter in the microwave.,11 September 2019,5,David Baddiel; Ed Gamble; Jo Brand; Katy Wix; Rose Matafeo,10,19,15,18,15
+Series 9,3,Five miles per day.,18 September 2019,5,David Baddiel; Ed Gamble; Jo Brand; Katy Wix; Rose Matafeo,17,17,15,23,20
+Series 9,4,Quisps.,25 September 2019,5,David Baddiel; Ed Gamble; Jo Brand; Katy Wix; Rose Matafeo,12,16,16,11,18
+Series 9,5,Another spoon.,2 October 2019,5,David Baddiel; Ed Gamble; Jo Brand; Katy Wix; Rose Matafeo,12,14,19,16,18
+Series 9,6,Bready bready bready.,9 October 2019,5,David Baddiel; Ed Gamble; Jo Brand; Katy Wix; Rose Matafeo,10,19,16,13,14
+Series 9,7,A cuddle.,16 October 2019,5,David Baddiel; Ed Gamble; Jo Brand; Katy Wix; Rose Matafeo,14,17,22,24,11
+Series 9,8,Shaqinahat.,23 October 2019,5,David Baddiel; Ed Gamble; Jo Brand; Katy Wix; Rose Matafeo,10,20,15,15,17
+Series 9,9,Don't like them go bang.,30 October 2019,5,David Baddiel; Ed Gamble; Jo Brand; Katy Wix; Rose Matafeo,19,17,14,17,17
+Series 9,10,Think about the spirit.,6 November 2019,5,David Baddiel; Ed Gamble; Jo Brand; Katy Wix; Rose Matafeo,10,12,10,9,12
+Series 10,1,God's haemorrhoid.,15 October 2020,5,Daisy May Cooper; Johnny Vegas; Katherine Parkinson; Mawaan Rizwan; Richard Herring,11,10,6,8,12
+Series 10,2,A documentary about a despot.,22 October 2020,5,Daisy May Cooper; Johnny Vegas; Katherine Parkinson; Mawaan Rizwan; Richard Herring,18,15,19,16,19
+Series 10,3,Point of swivel.,29 October 2020,5,Daisy May Cooper; Johnny Vegas; Katherine Parkinson; Mawaan Rizwan; Richard Herring,19,17,7,14,15
+Series 10,4,Toshwash.,5 November 2020,5,Daisy May Cooper; Johnny Vegas; Katherine Parkinson; Mawaan Rizwan; Richard Herring,19,17,15,13,13
+Series 10,5,I hate your trainers.,12 November 2020,5,Daisy May Cooper; Johnny Vegas; Katherine Parkinson; Mawaan Rizwan; Richard Herring,24,15,20,17,26
+Series 10,6,Hippopotamus.,19 November 2020,5,Daisy May Cooper; Johnny Vegas; Katherine Parkinson; Mawaan Rizwan; Richard Herring,14,19,10,22,12
+Series 10,7,Legit glass.,26 November 2020,5,Daisy May Cooper; Johnny Vegas; Katherine Parkinson; Mawaan Rizwan; Richard Herring,11,16,13,16,9
+Series 10,8,Moments of silence.,3 December 2020,5,Daisy May Cooper; Johnny Vegas; Katherine Parkinson; Mawaan Rizwan; Richard Herring,7,12,12,10,18
+Series 10,9,Air Horn Andy.,10 December 2020,5,Daisy May Cooper; Johnny Vegas; Katherine Parkinson; Mawaan Rizwan; Richard Herring,20,9,6,18,21
+Series 10,10,Dog meat trifle.,17 December 2020,5,Daisy May Cooper; Johnny Vegas; Katherine Parkinson; Mawaan Rizwan; Richard Herring,15,9,10,17,17
+Series 11,1,It's not your fault.,18 March 2021,5,Charlotte Ritchie; Jamali Maddix; Lee Mack; Mike Wozniak; Sarah Kendall,5,7,17,17,18
+Series 11,2,The Lure of the Treacle Puppies.,25 March 2021,5,Charlotte Ritchie; Jamali Maddix; Lee Mack; Mike Wozniak; Sarah Kendall,12,13,16,21,17
+Series 11,3,Run up a tree to the moon.,1 April 2021,5,Charlotte Ritchie; Jamali Maddix; Lee Mack; Mike Wozniak; Sarah Kendall,11,11,18,13,20
+Series 11,4,Premature conker.,8 April 2021,5,Charlotte Ritchie; Jamali Maddix; Lee Mack; Mike Wozniak; Sarah Kendall,13,21,7,6,23
+Series 11,5,Slap and tong.,15 April 2021,5,Charlotte Ritchie; Jamali Maddix; Lee Mack; Mike Wozniak; Sarah Kendall,17,15,12,14,12
+Series 11,6,Absolute casserole.,22 April 2021,5,Charlotte Ritchie; Jamali Maddix; Lee Mack; Mike Wozniak; Sarah Kendall,11,17,13,17,16
+Series 11,7,You've got no chutzpah.,29 April 2021,5,Charlotte Ritchie; Jamali Maddix; Lee Mack; Mike Wozniak; Sarah Kendall,9,12,22,14,12
+Series 11,8,An orderly species.,6 May 2021,5,Charlotte Ritchie; Jamali Maddix; Lee Mack; Mike Wozniak; Sarah Kendall,11,16,18,17,12
+Series 11,9,Mr Octopus and Pottyhands.,13 May 2021,5,Charlotte Ritchie; Jamali Maddix; Lee Mack; Mike Wozniak; Sarah Kendall,20,13,9,18,16
+Series 11,10,Activate Jamali.,20 May 2021,5,Charlotte Ritchie; Jamali Maddix; Lee Mack; Mike Wozniak; Sarah Kendall,16,12,19,17,12
+Series 12,1,An imbalance in the poppability.,23 September 2021,5,Alan Davies; Desiree Burch; Guz Khan; Morgana Robinson; Victoria Coren Mitchell,15,16,14,17,12
+Series 12,2,Oatmeal and death.,30 September 2021,5,Alan Davies; Desiree Burch; Guz Khan; Morgana Robinson; Victoria Coren Mitchell,16,16,20,17,13
+Series 12,3,The end of the franchise.,7 October 2021,5,Alan Davies; Desiree Burch; Guz Khan; Morgana Robinson; Victoria Coren Mitchell,14,21,14,18,13
+Series 12,4,The customised inhaler.,14 October 2021,5,Alan Davies; Desiree Burch; Guz Khan; Morgana Robinson; Victoria Coren Mitchell,21,15,14,13,16
+Series 12,5,Croissants is croissants.,21 October 2021,5,Alan Davies; Desiree Burch; Guz Khan; Morgana Robinson; Victoria Coren Mitchell,14,8,21,17,10
+Series 12,6,A chair in a sweet.,28 October 2021,5,Alan Davies; Desiree Burch; Guz Khan; Morgana Robinson; Victoria Coren Mitchell,14,17,19,17,9
+Series 12,7,The integrity of the product.,4 November 2021,5,Alan Davies; Desiree Burch; Guz Khan; Morgana Robinson; Victoria Coren Mitchell,16,17,8,14,18
+Series 12,8,A couple of Ethels.,11 November 2021,5,Alan Davies; Desiree Burch; Guz Khan; Morgana Robinson; Victoria Coren Mitchell,21,9,21,19,9
+Series 12,9,Nothing matters.,18 November 2021,5,Alan Davies; Desiree Burch; Guz Khan; Morgana Robinson; Victoria Coren Mitchell,11,21,14,18,8
+Series 12,10,Caring Uncle Minpict.,25 November 2021,5,Alan Davies; Desiree Burch; Guz Khan; Morgana Robinson; Victoria Coren Mitchell,19,21,22,18,13
+Series 13,1,The noise that blue makes.,14 April 2022,5,Ardal O'Hanlon; Bridget Christie; Chris Ramsey; Judi Love; Sophie Duker,10,16,23,10,18
+Series 13,2,Birdy hand finger.,21 April 2022,5,Ardal O'Hanlon; Bridget Christie; Chris Ramsey; Judi Love; Sophie Duker,15,16,18,14,13
+Series 13,3,I think I've got this.,28 April 2022,5,Ardal O'Hanlon; Bridget Christie; Chris Ramsey; Judi Love; Sophie Duker,11,25,13,16,16
+Series 13,4,Shoe Who.,5 May 2022,5,Ardal O'Hanlon; Bridget Christie; Chris Ramsey; Judi Love; Sophie Duker,17,16,17,16,16
+Series 13,5,Having a little chuckle.,12 May 2022,5,Ardal O'Hanlon; Bridget Christie; Chris Ramsey; Judi Love; Sophie Duker,21,11,11,11,13
+Series 13,6,The 75th question.,19 May 2022,5,Ardal O'Hanlon; Bridget Christie; Chris Ramsey; Judi Love; Sophie Duker,12,9,15,11,15
+Series 13,7,Heg.,26 May 2022,5,Ardal O'Hanlon; Bridget Christie; Chris Ramsey; Judi Love; Sophie Duker,20,19,19,24,28
+Series 13,8,You tuper super.,2 June 2022,5,Ardal O'Hanlon; Bridget Christie; Chris Ramsey; Judi Love; Sophie Duker,18,20,14,10,19
+Series 13,9,It might be wind.,9 June 2022,5,Ardal O'Hanlon; Bridget Christie; Chris Ramsey; Judi Love; Sophie Duker,14,7,19,17,13
+Series 13,10,The house queens.,16 June 2022,5,Ardal O'Hanlon; Bridget Christie; Chris Ramsey; Judi Love; Sophie Duker,15,18,21,13,22
+Series 14,1,"The chassis, the wings.",29 September 2022,5,Dara Ó Briain; Fern Brady; John Kearns; Munya Chawawa; Sarah Millican,17,17,11,14,18
+Series 14,2,Enormous hugeness.,6 October 2022,5,Dara Ó Briain; Fern Brady; John Kearns; Munya Chawawa; Sarah Millican,30,14,10,21,16
+Series 14,3,Dafty in the middle.,13 October 2022,5,Dara Ó Briain; Fern Brady; John Kearns; Munya Chawawa; Sarah Millican,17,14,20,11,17
+Series 14,4,Crumbs in my bralette.,20 October 2022,5,Dara Ó Briain; Fern Brady; John Kearns; Munya Chawawa; Sarah Millican,19,15,12,9,22
+Series 14,5,Chip Biffington.,27 October 2022,5,Dara Ó Briain; Fern Brady; John Kearns; Munya Chawawa; Sarah Millican,19,19,23,20,17
+Series 14,6,Long-legged lobster.,3 November 2022,5,Dara Ó Briain; Fern Brady; John Kearns; Munya Chawawa; Sarah Millican,10,6,13,14,19
+Series 14,7,The system of endless plates.,10 November 2022,5,Dara Ó Briain; Fern Brady; John Kearns; Munya Chawawa; Sarah Millican,21,16,18,8,15
+Series 14,8,The one that bats do.,17 November 2022,5,Dara Ó Briain; Fern Brady; John Kearns; Munya Chawawa; Sarah Millican,9,12,6,21,17
+Series 14,9,A new business end.,24 November 2022,5,Dara Ó Briain; Fern Brady; John Kearns; Munya Chawawa; Sarah Millican,22,23,19,16,18
+Series 14,10,Did I meet these potatoes before?,1 December 2022,5,Dara Ó Briain; Fern Brady; John Kearns; Munya Chawawa; Sarah Millican,20,8,12,16,15
+Series 15,1,The curse of politeness.,30 March 2023,5,Frankie Boyle; Ivo Graham; Jenny Eclair; Kiell Smith-Bynoe; Mae Martin,12,9,16,15,19
+Series 15,2,Trapped in a loveless marriage.,6 April 2023,5,Frankie Boyle; Ivo Graham; Jenny Eclair; Kiell Smith-Bynoe; Mae Martin,16,17,15,14,16
+Series 15,3,I love to squander promise.,13 April 2023,5,Frankie Boyle; Ivo Graham; Jenny Eclair; Kiell Smith-Bynoe; Mae Martin,16,21,20,9,14
+Series 15,4,How heavy is the water?,20 April 2023,5,Frankie Boyle; Ivo Graham; Jenny Eclair; Kiell Smith-Bynoe; Mae Martin,12,7,15,13,10
+Series 15,5,Old Honkfoot.,27 April 2023,5,Frankie Boyle; Ivo Graham; Jenny Eclair; Kiell Smith-Bynoe; Mae Martin,13,9,22,25,28
+Series 15,6,It's my milk now.,4 May 2023,5,Frankie Boyle; Ivo Graham; Jenny Eclair; Kiell Smith-Bynoe; Mae Martin,18,14,7,12,21
+Series 15,7,Schrodinger's egg.,11 May 2023,5,Frankie Boyle; Ivo Graham; Jenny Eclair; Kiell Smith-Bynoe; Mae Martin,17,14,11,20,15
+Series 15,8,100% Bosco.,18 May 2023,5,Frankie Boyle; Ivo Graham; Jenny Eclair; Kiell Smith-Bynoe; Mae Martin,16,12,16,20,18
+Series 15,9,A show about pedantry.,25 May 2023,5,Frankie Boyle; Ivo Graham; Jenny Eclair; Kiell Smith-Bynoe; Mae Martin,20,16,12,21,15
+Series 15,10,A yardstick for failure.,1 June 2023,5,Frankie Boyle; Ivo Graham; Jenny Eclair; Kiell Smith-Bynoe; Mae Martin,10,12,18,9,18
+Series 16,1,The natural friends.,21 September 2023,5,Julian Clary; Lucy Beaumont; Sam Campbell; Sue Perkins; Susan Wokoma,19,13,21,13,14
+Series 16,2,Hell is here.,28 September 2023,5,Julian Clary; Lucy Beaumont; Sam Campbell; Sue Perkins; Susan Wokoma,16,10,12,19,19
+Series 16,3,Languidly.,5 October 2023,5,Julian Clary; Lucy Beaumont; Sam Campbell; Sue Perkins; Susan Wokoma,19,17,24,10,6
+Series 16,4,Dynamite chicks.,12 October 2023,5,Julian Clary; Lucy Beaumont; Sam Campbell; Sue Perkins; Susan Wokoma,17,18,17,18,11
+Series 16,5,Skateboard division.,19 October 2023,5,Julian Clary; Lucy Beaumont; Sam Campbell; Sue Perkins; Susan Wokoma,15,7,14,12,13
+Series 16,6,Brother Alex.,26 October 2023,5,Julian Clary; Lucy Beaumont; Sam Campbell; Sue Perkins; Susan Wokoma,9,20,18,17,17
+Series 16,7,I'm off to find a robin.,2 November 2023,5,Julian Clary; Lucy Beaumont; Sam Campbell; Sue Perkins; Susan Wokoma,13,14,14,6,12
+Series 16,8,Never packed a boot.,9 November 2023,5,Julian Clary; Lucy Beaumont; Sam Campbell; Sue Perkins; Susan Wokoma,15,7,15,11,17
+Series 16,9,Fagin at the disco.,16 November 2023,5,Julian Clary; Lucy Beaumont; Sam Campbell; Sue Perkins; Susan Wokoma,15,9,10,20,14
+Series 16,10,Always forks and marbles.,23 November 2023,5,Julian Clary; Lucy Beaumont; Sam Campbell; Sue Perkins; Susan Wokoma,17,14,16,11,16
+Series 17,1,Grappling with my life.,28 March 2024,5,Joanne McNally; John Robins; Nick Mohammed; Sophie Willan; Steve Pemberton,18,18,10,8,18
+Series 17,2,Jumungo.,4 April 2024,5,Joanne McNally; John Robins; Nick Mohammed; Sophie Willan; Steve Pemberton,20,17,14,17,21
+Series 17,3,Some impropriety?,11 April 2024,5,Joanne McNally; John Robins; Nick Mohammed; Sophie Willan; Steve Pemberton,18,22,10,9,17
+Series 17,4,Apropos of Apoppo.,18 April 2024,5,Joanne McNally; John Robins; Nick Mohammed; Sophie Willan; Steve Pemberton,17,18,13,14,12
+Series 17,5,Snooker cue umbrella chin.,25 April 2024,5,Joanne McNally; John Robins; Nick Mohammed; Sophie Willan; Steve Pemberton,12,20,15,16,14
+Series 17,6,A three ring man.,2 May 2024,5,Joanne McNally; John Robins; Nick Mohammed; Sophie Willan; Steve Pemberton,20,18,10,19,16
+Series 17,7,Dream date territory.,9 May 2024,5,Joanne McNally; John Robins; Nick Mohammed; Sophie Willan; Steve Pemberton,13,18,19,16,8
+Series 17,8,The umbrella wink.,16 May 2024,5,Joanne McNally; John Robins; Nick Mohammed; Sophie Willan; Steve Pemberton,17,22,15,14,17
+Series 17,9,Assistantbury.,23 May 2024,5,Joanne McNally; John Robins; Nick Mohammed; Sophie Willan; Steve Pemberton,19,21,14,10,14
+Series 17,10,Ambience and information.,30 May 2024,5,Joanne McNally; John Robins; Nick Mohammed; Sophie Willan; Steve Pemberton,17,18,11,21,16
+Series 18,1,The faceless facilitators.,12 September 2024,5,Andy Zaltzman; Babátúndé Aléshé; Emma Sidi; Jack Dee; Rosie Jones,9,9,13,16,17
+Series 18,2,...and then a detective comes in.,19 September 2024,5,Andy Zaltzman; Babátúndé Aléshé; Emma Sidi; Jack Dee; Rosie Jones,12,13,16,20,15
+Series 18,3,The gangsters of the sea.,26 September 2024,5,Andy Zaltzman; Babátúndé Aléshé; Emma Sidi; Jack Dee; Rosie Jones,21,18,13,17,14
+Series 18,4,I'm a girl who likes a clean line.,3 October 2024,5,Andy Zaltzman; Babátúndé Aléshé; Emma Sidi; Jack Dee; Rosie Jones,18,22,14,12,13
+Series 18,5,Big stupid things.,10 October 2024,5,Andy Zaltzman; Babátúndé Aléshé; Emma Sidi; Jack Dee; Rosie Jones,13,15,19,19,12
+Series 18,6,A dance as old as time itself.,17 October 2024,5,Andy Zaltzman; Babátúndé Aléshé; Emma Sidi; Jack Dee; Rosie Jones,18,13,8,17,10
+Series 18,7,Captain Jackie and the hotdog.,24 October 2024,5,Andy Zaltzman; Babátúndé Aléshé; Emma Sidi; Jack Dee; Rosie Jones,16,15,22,10,12
+Series 18,8,The nexus of truth.,31 October 2024,5,Andy Zaltzman; Babátúndé Aléshé; Emma Sidi; Jack Dee; Rosie Jones,19,14,9,17,17
+Series 18,9,The cockle children.,7 November 2024,5,Andy Zaltzman; Babátúndé Aléshé; Emma Sidi; Jack Dee; Rosie Jones,20,18,21,15,13
+Series 18,10,Le Goose.,14 November 2024,5,Andy Zaltzman; Babátúndé Aléshé; Emma Sidi; Jack Dee; Rosie Jones,14,10,17,14,14
+Series 19,1,Sometimes spit.,1 May 2025,5,Fatiha El-Ghorri; Jason Mantzoukas; Mathew Baynton; Rosie Ramsey; Stevie Martin,10,16,19,16,17
+Series 19,2,An invisible jump rope.,8 May 2025,5,Fatiha El-Ghorri; Jason Mantzoukas; Mathew Baynton; Rosie Ramsey; Stevie Martin,15,13,23,13,13
+Series 19,3,My presumably scrotum.,15 May 2025,5,Fatiha El-Ghorri; Jason Mantzoukas; Mathew Baynton; Rosie Ramsey; Stevie Martin,12,10,13,8,11
+Series 19,4,Midnight picnic.,22 May 2025,5,Fatiha El-Ghorri; Jason Mantzoukas; Mathew Baynton; Rosie Ramsey; Stevie Martin,20,10,15,21,15
+Series 19,5,Maybe we're the monsters.,29 May 2025,5,Fatiha El-Ghorri; Jason Mantzoukas; Mathew Baynton; Rosie Ramsey; Stevie Martin,11,17,14,17,14
+Series 19,6,It's got to be obsolete.,5 June 2025,5,Fatiha El-Ghorri; Jason Mantzoukas; Mathew Baynton; Rosie Ramsey; Stevie Martin,20,18,16,18,14
+Series 19,7,Glass half most.,12 June 2025,5,Fatiha El-Ghorri; Jason Mantzoukas; Mathew Baynton; Rosie Ramsey; Stevie Martin,18,6,23,20,6
+Series 19,8,Science all your life.,19 June 2025,5,Fatiha El-Ghorri; Jason Mantzoukas; Mathew Baynton; Rosie Ramsey; Stevie Martin,14,17,15,11,23
+Series 19,9,Getaway sticks.,26 June 2025,5,Fatiha El-Ghorri; Jason Mantzoukas; Mathew Baynton; Rosie Ramsey; Stevie Martin,13,23,16,11,19
+Series 19,10,The clever side?,3 July 2025,5,Fatiha El-Ghorri; Jason Mantzoukas; Mathew Baynton; Rosie Ramsey; Stevie Martin,8,20,15,14,22
+Series 20,1,9x7.,11 September 2025,5,Ania Magliano; Maisie Adam; Phil Ellis; Reece Shearsmith; Sanjeev Bhaskar,15,19,16,13,12
+Series 20,2,Cows are made of milk.,18 September 2025,5,Ania Magliano; Maisie Adam; Phil Ellis; Reece Shearsmith; Sanjeev Bhaskar,15,14,9,22,9
+Series 20,3,Thompson.,25 September 2025,5,Ania Magliano; Maisie Adam; Phil Ellis; Reece Shearsmith; Sanjeev Bhaskar,18,19,14,11,15
+Series 20,4,Hey mate.,2 October 2025,5,Ania Magliano; Maisie Adam; Phil Ellis; Reece Shearsmith; Sanjeev Bhaskar,19,14,16,17,19
+Series 20,5,"Bats, bats, hang up.",9 October 2025,5,Ania Magliano; Maisie Adam; Phil Ellis; Reece Shearsmith; Sanjeev Bhaskar,11,7,18,14,12
+Series 20,6,Is that number got curves?,16 October 2025,5,Ania Magliano; Maisie Adam; Phil Ellis; Reece Shearsmith; Sanjeev Bhaskar,13,12,16,8,14
+Series 20,7,"Drier than you think, chalk.",23 October 2025,5,Ania Magliano; Maisie Adam; Phil Ellis; Reece Shearsmith; Sanjeev Bhaskar,20,17,17,13,18
+Series 20,8,Am I an idiom?,30 October 2025,5,Ania Magliano; Maisie Adam; Phil Ellis; Reece Shearsmith; Sanjeev Bhaskar,14,16,12,17,13
+Series 20,9,A 1970s camping kettle.,6 November 2025,5,Ania Magliano; Maisie Adam; Phil Ellis; Reece Shearsmith; Sanjeev Bhaskar,16,16,21,17,15
+Series 20,10,Supping from the fountain.,13 November 2025,5,Ania Magliano; Maisie Adam; Phil Ellis; Reece Shearsmith; Sanjeev Bhaskar,10,17,12,16,16
+Champion of Champions 1,1,Wiley giraffe blower.,13 December 2017,5,Bob Mortimer; Josh Widdicombe; Katherine Ryan; Noel Fielding; Rob Beckett,11,19,20,16,19
+Champion of Champions 1,2,I've sinned again.,20 December 2017,5,Bob Mortimer; Josh Widdicombe; Katherine Ryan; Noel Fielding; Rob Beckett,13,18,15,16,17
+Champion of Champions 2,1,The Alpine Darling.,23 June 2022,5,Ed Gamble; Kerry Godliman; Liza Tarbuck; Lou Sanders; Richard Herring,11,12,14,12,17
+Champion of Champions 3,1,Spider in my pocket.,14 January 2024,5,Dara Ó Briain; Kiell Smith-Bynoe; Morgana Robinson; Sarah Kendall; Sophie Duker,22,15,18,15,21
+Champion of Champions 4,1,Put that on my gravestone.,22 December 2025,5,Andy Zaltzman; John Robins; Maisie Adam; Mathew Baynton; Sam Campbell,11,16,19,20,10
+New Year Treat 1,1,Welcome to my pumpathon.,2 January 2026,5,Big Zuu; Jill Scott; Rose Ayling-Ellis; Sam Ryder; Susie Dent,12,15,15,13,13
+New Year Treat 1,2,The opposite of ducking?,3 January 2026,5,Big Zuu; Jill Scott; Rose Ayling-Ellis; Sam Ryder; Susie Dent,14,16,17,16,12
+New Year Treat 2,1,Welcome to my pumpathon.,2 January 2026,5,Big Zuu; Jill Scott; Rose Ayling-Ellis; Sam Ryder; Susie Dent,12,15,15,13,13
+New Year Treat 2,2,The opposite of ducking?,3 January 2026,5,Big Zuu; Jill Scott; Rose Ayling-Ellis; Sam Ryder; Susie Dent,14,16,17,16,12
+New Year Treat 3,1,Welcome to my pumpathon.,2 January 2026,5,Big Zuu; Jill Scott; Rose Ayling-Ellis; Sam Ryder; Susie Dent,12,15,15,13,13
+New Year Treat 3,2,The opposite of ducking?,3 January 2026,5,Big Zuu; Jill Scott; Rose Ayling-Ellis; Sam Ryder; Susie Dent,14,16,17,16,12
+New Year Treat 4,1,Welcome to my pumpathon.,2 January 2026,5,Big Zuu; Jill Scott; Rose Ayling-Ellis; Sam Ryder; Susie Dent,12,15,15,13,13
+New Year Treat 4,2,The opposite of ducking?,3 January 2026,5,Big Zuu; Jill Scott; Rose Ayling-Ellis; Sam Ryder; Susie Dent,14,16,17,16,12
+New Year Treat 5,1,Welcome to my pumpathon.,2 January 2026,5,Big Zuu; Jill Scott; Rose Ayling-Ellis; Sam Ryder; Susie Dent,12,15,15,13,13
+New Year Treat 5,2,The opposite of ducking?,3 January 2026,5,Big Zuu; Jill Scott; Rose Ayling-Ellis; Sam Ryder; Susie Dent,14,16,17,16,12
+New Year Treat 6,1,Welcome to my pumpathon.,2 January 2026,5,Big Zuu; Jill Scott; Rose Ayling-Ellis; Sam Ryder; Susie Dent,12,15,15,13,13
+New Year Treat 6,2,The opposite of ducking?,3 January 2026,5,Big Zuu; Jill Scott; Rose Ayling-Ellis; Sam Ryder; Susie Dent,14,16,17,16,12
